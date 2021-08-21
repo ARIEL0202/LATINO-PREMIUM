@@ -1,68 +1,3 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="ESPA: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="ESPAÃ‘A APOYANOS MRZUTV.NET BAJA NUESTRA APP",ESPA: NATIONAL GEOGRAPHIC HD
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41074
-#EXTINF:-1 tvg-id="" tvg-name="ESPA: NAT GEO WILD HD" tvg-logo="" group-title="ESPAÃ‘A APOYANOS MRZUTV.NET BAJA NUESTRA APP",ESPA: NAT GEO WILD HD
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41075
-#EXTINF:-1 tvg-id="" tvg-name="ESPA: MTV" tvg-logo="" group-title="ESPAÃ‘A APOYANOS MRZUTV.NET BAJA NUESTRA APP",ESPA: MTV
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41076
-#EXTINF:-1 tvg-id="" tvg-name="ESPA: MOTOGP" tvg-logo="" group-title="DEPORTES APOYANOS MRZUTV.NET BAJA NUESTRA APP",ESPA: MOTOGP
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41077
-#EXTINF:-1 tvg-id="" tvg-name="ESPA: LIGA CAMPEONES" tvg-logo="" group-title="DEPORTES APOYANOS MRZUTV.NET BAJA NUESTRA APP",ESPA: LIGA CAMPEONES
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41078
-#EXTINF:-1 tvg-id="" tvg-name="ESPA: LA LIGA TV HD" tvg-logo="" group-title="DEPORTES APOYANOS MRZUTV.NET BAJA NUESTRA APP",ESPA: LA LIGA TV HD
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41079
-#EXTINF:-1 tvg-id="" tvg-name="ESPA: HISTORIA HD" tvg-logo="" group-title="ESPAÃ‘A APOYANOS MRZUTV.NET BAJA NUESTRA APP",ESPA: HISTORIA HD
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41080
-#EXTINF:-1 tvg-id="" tvg-name="ESPA: GOLTV" tvg-logo="" group-title="ESPAÃ‘A APOYANOS MRZUTV.NET BAJA NUESTRA APP",ESPA: GOLTV
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41081
-#EXTINF:-1 tvg-id="" tvg-name="ESPA: GOLF HD" tvg-logo="" group-title="ESPAÃ‘A APOYANOS MRZUTV.NET BAJA NUESTRA APP",ESPA: GOLF HD
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41082
-#EXTINF:-1 tvg-id="" tvg-name="ESPA: FOX HD" tvg-logo="" group-title="ESPAÃ‘A APOYANOS MRZUTV.NET BAJA NUESTRA APP",ESPA: FOX HD
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41083
-#EXTINF:-1 tvg-id="" tvg-name="ESPA: EUROSPORT HD" tvg-logo="" group-title="ESPAÃ‘A APOYANOS MRZUTV.NET BAJA NUESTRA APP",ESPA: EUROSPORT HD
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41084
-#EXTINF:-1 tvg-id="" tvg-name="ESPA: ESTRENOS HD" tvg-logo="" group-title="ESPAÃ‘A APOYANOS MRZUTV.NET BAJA NUESTRA APP",ESPA: ESTRENOS HD
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41085
-#EXTINF:-1 tvg-id="" tvg-name="ESPA: DRAMA" tvg-logo="" group-title="ESPAÃ‘A APOYANOS MRZUTV.NET BAJA NUESTRA APP",ESPA: DRAMA
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41086
-#EXTINF:-1 tvg-id="" tvg-name="ESPA: DMAX" tvg-logo="" group-title="ESPAÃ‘A APOYANOS MRZUTV.NET BAJA NUESTRA APP",ESPA: DMAX
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41087
-#EXTINF:-1 tvg-id="" tvg-name="ESPA: DEPORTES HD" tvg-logo="" group-title="DEPORTES APOYANOS MRZUTV.NET BAJA NUESTRA APP",ESPA: DEPORTES HD
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41088
-#EXTINF:-1 tvg-id="" tvg-name="ESPA: COMEDIA HD" tvg-logo="" group-title="ESPAÃ‘A APOYANOS MRZUTV.NET BAJA NUESTRA APP",ESPA: COMEDIA HD
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41089
-#EXTINF:-1 tvg-id="" tvg-name="ESPA: COCINA" tvg-logo="" group-title="ESPAÃ‘A APOYANOS MRZUTV.NET BAJA NUESTRA APP",ESPA: COCINA
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41090
-#EXTINF:-1 tvg-id="" tvg-name="ESPA: CAZA Y PESCA" tvg-logo="" group-title="ESPAÃ‘A APOYANOS MRZUTV.NET BAJA NUESTRA APP",ESPA: CAZA Y PESCA
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41091
-#EXTINF:-1 tvg-id="" tvg-name="ESPA: CALLE 13" tvg-logo="" group-title="ESPAÃ‘A APOYANOS MRZUTV.NET BAJA NUESTRA APP",ESPA: CALLE 13
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41092
-#EXTINF:-1 tvg-id="" tvg-name="ESPA: BEIN SPORT HD" tvg-logo="" group-title="DEPORTES APOYANOS MRZUTV.NET BAJA NUESTRA APP",ESPA: BEIN SPORT HD
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41093
-#EXTINF:-1 tvg-id="" tvg-name="ESPA: BEIN LA LIGA HD" tvg-logo="" group-title="DEPORTES APOYANOS MRZUTV.NET BAJA NUESTRA APP",ESPA: BEIN LA LIGA HD
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41094
-#EXTINF:-1 tvg-id="" tvg-name="ESPA: AXN WHITE HD" tvg-logo="" group-title="ESPAÃ‘A APOYANOS MRZUTV.NET BAJA NUESTRA APP",ESPA: AXN WHITE HD
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41095
-#EXTINF:-1 tvg-id="" tvg-name="ESPA: AXN HD" tvg-logo="" group-title="ESPAÃ‘A APOYANOS MRZUTV.NET BAJA NUESTRA APP",ESPA: AXN HD
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41096
-#EXTINF:-1 tvg-id="" tvg-name="ESPA: ACCION HD" tvg-logo="" group-title="ESPAÃ‘A APOYANOS MRZUTV.NET BAJA NUESTRA APP",ESPA: ACCION HD
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41097
-#EXTINF:-1 tvg-id="" tvg-name="ESPA: #V" tvg-logo="" group-title="ESPAÃ‘A APOYANOS MRZUTV.NET BAJA NUESTRA APP",ESPA: #V
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41098
-#EXTINF:-1 tvg-id="" tvg-name="ESPA: #0 HD" tvg-logo="" group-title="ESPAÃ‘A APOYANOS MRZUTV.NET BAJA NUESTRA APP",ESPA: #0 HD
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41099
-#EXTINF:-1 tvg-id="" tvg-name="ESPA: VIAJAR HD" tvg-logo="" group-title="ESPAÃ‘A APOYANOS MRZUTV.NET BAJA NUESTRA APP",ESPA: VIAJAR HD
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41100
-#EXTINF:-1 tvg-id="" tvg-name="ESPA: TCM HD" tvg-logo="" group-title="ESPAÃ‘A APOYANOS MRZUTV.NET BAJA NUESTRA APP",ESPA: TCM HD
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41101
-#EXTINF:-1 tvg-id="" tvg-name="ESPA: DOC&ROLL HD" tvg-logo="" group-title="ESPAÃ‘A APOYANOS MRZUTV.NET BAJA NUESTRA APP",ESPA: DOC&ROLL HD
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41102
-#EXTINF:-1 tvg-id="" tvg-name="ESPA: A&E" tvg-logo="" group-title="ESPAÃ‘A APOYANOS MRZUTV.NET BAJA NUESTRA APP",ESPA: A&E
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41103
-#EXTINF:-1 tvg-id="" tvg-name="ESPA: HOLLYWOOD" tvg-logo="" group-title="ESPAÃ‘A APOYANOS MRZUTV.NET BAJA NUESTRA APP",ESPA: HOLLYWOOD
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41104
-#EXTINF:-1 tvg-id="" tvg-name="ESPA: Sky Sport Bundesliga 2 HD" tvg-logo="" group-title="DEPORTES APOYANOS MRZUTV.NET BAJA NUESTRA APP",ESPA: Sky Sport Bundesliga 2 HD
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41105
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES: TUDN MEXICO APOYANOS MRZUTV.NET BAJA NUESTRA APP" tvg-logo="" group-title="DEPORTES APOYANOS MRZUTV.NET BAJA NUESTRA APP",DEPORTES: TUDN MEXICO APOYANOS MRZUTV.NET BAJA NUESTRA APP
 http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/40968
 #EXTINF:-1 tvg-id="" tvg-name="CANAL 5 MX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="MEXICO",CANAL 5 MX SD
@@ -193,18 +128,6 @@ http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3u
 http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41039
 #EXTINF:-1 tvg-id="" tvg-name="TEN" tvg-logo="http://ui.mrzutv.net:8080/images/b1b9a972ccd8c962a473909b97007eb4.png" group-title="XXX +18 APOYANOS MRZUTV.NET BAJA NUESTRA APP",TEN
 http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41040
-#EXTINF:-1 tvg-id="" tvg-name="RK" tvg-logo="http://ui.mrzutv.net:8080/images/52bb1e9f36af7a647ad541f7ec90d5a8.png" group-title="XXX +18 APOYANOS MRZUTV.NET BAJA NUESTRA APP",RK
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41041
-#EXTINF:-1 tvg-id="" tvg-name="Hustler TV" tvg-logo="http://176.9.51.86:8080/images/96597788a84f395828274b61913a2935.png" group-title="XXX +18 APOYANOS MRZUTV.NET BAJA NUESTRA APP",Hustler TV
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41042
-#EXTINF:-1 tvg-id="" tvg-name="XTSY" tvg-logo="http://ui.mrzutv.net:8080/images/c59ec0b74bdf3bb7f718069671add614.png" group-title="XXX +18 APOYANOS MRZUTV.NET BAJA NUESTRA APP",XTSY
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41043
-#EXTINF:-1 tvg-id="" tvg-name="Playboy TV" tvg-logo="http://ui.mrzutv.net:8080/images/b75156fd6437625e7d3b5fdb6473cea3.png" group-title="XXX +18 APOYANOS MRZUTV.NET BAJA NUESTRA APP",Playboy TV
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41044
-#EXTINF:-1 tvg-id="" tvg-name="Venus" tvg-logo="http://ui.mrzutv.net:8080/images/1b9e114afdbab75c6d17f0e7ed5f947b.png" group-title="XXX +18 APOYANOS MRZUTV.NET BAJA NUESTRA APP",Venus
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41045
-#EXTINF:-1 tvg-id="" tvg-name="Sextreme" tvg-logo="http://ui.mrzutv.net:8080/images/ea977fc0a75c0172151dd5a8c41fc369.jpg" group-title="XXX +18 APOYANOS MRZUTV.NET BAJA NUESTRA APP",Sextreme
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41046
 #EXTINF:-1 tvg-id="" tvg-name="SD: ATRES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="ENTRETENIMIENTO",SD: ATRES
 http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41047
 #EXTINF:-1 tvg-id="" tvg-name="SD: AZTECA 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO",SD: AZTECA 7
