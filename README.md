@@ -122,12 +122,6 @@ http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3u
 http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41035
 #EXTINF:-1 tvg-id="" tvg-name="SD: CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1200px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="ENTRETENIMIENTO",SD: CNN
 http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41036
-#EXTINF:-1 tvg-id="" tvg-name="RealExtreme" tvg-logo="http://ui.mrzutv.net:8080/images/1e72c0b270ef58b9077ea448cbc79c92.png" group-title="XXX +18 APOYANOS MRZUTV.NET BAJA NUESTRA APP",RealExtreme
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41038
-#EXTINF:-1 tvg-id="" tvg-name="Brazzers TV" tvg-logo="http://ui.mrzutv.net:8080/images/0fc621ee4dcace7f56eae899c2a06ad6.png" group-title="XXX +18 APOYANOS MRZUTV.NET BAJA NUESTRA APP",Brazzers TV
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41039
-#EXTINF:-1 tvg-id="" tvg-name="TEN" tvg-logo="http://ui.mrzutv.net:8080/images/b1b9a972ccd8c962a473909b97007eb4.png" group-title="XXX +18 APOYANOS MRZUTV.NET BAJA NUESTRA APP",TEN
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41040
 #EXTINF:-1 tvg-id="" tvg-name="SD: ATRES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="ENTRETENIMIENTO",SD: ATRES
 http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41047
 #EXTINF:-1 tvg-id="" tvg-name="SD: AZTECA 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO",SD: AZTECA 7
@@ -324,30 +318,6 @@ http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3u
 http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/362
 #EXTINF:-1 tvg-id="" tvg-name="24/7 PokÃ©mon" tvg-logo="https://i.ibb.co/vdf4ht2/Sin-t-tulo-1.png" group-title="24/7 mrzutv.net apoyanossss",24/7 PokÃ©mon
 http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/363
-#EXTINF:-1 tvg-id="" tvg-name="XXX: VIXEN HD" tvg-logo="" group-title="XXX +18 APOYANOS MRZUTV.NET BAJA NUESTRA APP",XXX: VIXEN HD
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41449
-#EXTINF:-1 tvg-id="" tvg-name="XXX: TUSHY RAW HD" tvg-logo="" group-title="XXX +18 APOYANOS MRZUTV.NET BAJA NUESTRA APP",XXX: TUSHY RAW HD
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41450
-#EXTINF:-1 tvg-id="" tvg-name="XXX: fucktoll HD" tvg-logo="" group-title="XXX +18 APOYANOS MRZUTV.NET BAJA NUESTRA APP",XXX: fucktoll HD
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41451
-#EXTINF:-1 tvg-id="" tvg-name="XXX: MOFOS" tvg-logo="http://176.9.51.86:8080/images/2481e84b8a219af8ff1bd15676ac74ee.png" group-title="XXX +18 APOYANOS MRZUTV.NET BAJA NUESTRA APP",XXX: MOFOS
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/1303
-#EXTINF:-1 tvg-id="" tvg-name="XXXX: MILF 2" tvg-logo="http://176.9.51.86:8080/images/2481e84b8a219af8ff1bd15676ac74ee.png" group-title="XXX +18 APOYANOS MRZUTV.NET BAJA NUESTRA APP",XXXX: MILF 2
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/1304
-#EXTINF:-1 tvg-id="" tvg-name="XXX: MIAKHALIFA " tvg-logo="http://176.9.51.86:8080/images/2481e84b8a219af8ff1bd15676ac74ee.png" group-title="XXX +18 APOYANOS MRZUTV.NET BAJA NUESTRA APP",XXX: MIAKHALIFA 
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/1305
-#EXTINF:-1 tvg-id="" tvg-name="XXX: JASMINE JAE" tvg-logo="http://176.9.51.86:8080/images/2481e84b8a219af8ff1bd15676ac74ee.png" group-title="XXX +18 APOYANOS MRZUTV.NET BAJA NUESTRA APP",XXX: JASMINE JAE
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/1306
-#EXTINF:-1 tvg-id="" tvg-name="XXX:Fetich 2" tvg-logo="http://176.9.51.86:8080/images/2481e84b8a219af8ff1bd15676ac74ee.png" group-title="XXX +18 APOYANOS MRZUTV.NET BAJA NUESTRA APP",XXX:Fetich 2
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/1308
-#EXTINF:-1 tvg-id="" tvg-name="XXX: brazzers" tvg-logo="http://176.9.51.86:8080/images/2481e84b8a219af8ff1bd15676ac74ee.png" group-title="XXX +18 APOYANOS MRZUTV.NET BAJA NUESTRA APP",XXX: brazzers
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/1309
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BLACK RAW" tvg-logo="http://176.9.51.86:8080/images/2481e84b8a219af8ff1bd15676ac74ee.png" group-title="XXX +18 APOYANOS MRZUTV.NET BAJA NUESTRA APP",XXX: BLACK RAW
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/1310
-#EXTINF:-1 tvg-id="" tvg-name="XXX: bigtits" tvg-logo="http://176.9.51.86:25461/images/2481e84b8a219af8ff1bd15676ac74ee.png" group-title="XXX +18 APOYANOS MRZUTV.NET BAJA NUESTRA APP",XXX: bigtits
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/1311
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Bigass 2" tvg-logo="http://176.9.51.86:8080/images/2481e84b8a219af8ff1bd15676ac74ee.png" group-title="XXX +18 APOYANOS MRZUTV.NET BAJA NUESTRA APP",XXX: Bigass 2
-http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/1312
 #EXTINF:-1 tvg-id="" tvg-name="SD: UNIVERSO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/UNIVERSO_LOGO_color_black.png" group-title="ENTRETENIMIENTO",SD: UNIVERSO
 http://gratuita.mrzutv.net:8080/listam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3ulistam3u/listam3ulistam3ulistam3uZZZlistam3ulistam3ulistam3ulistam3uddddlistam3u/41452
 #EXTINF:-1 tvg-id="" tvg-name="fox sport 1" tvg-logo="" group-title="DEPORTES APOYANOS MRZUTV.NET BAJA NUESTRA APP",fox sport 1
