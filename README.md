@@ -1,6 +1,4 @@
-
-
-#EXTINF: -1 group-title = "24/7" tvg-logo = "https://innovatv.live/posters/1635456716171.jpg", BETTER-CALL-SAUL
+#EXTINF: -1 group-title = "Infantil" tvg-logo = "https://innovatv.live/posters/1602346504177.jpg", TOONCAST
 http://51.79.18.128:8081/LATINO%7CTOONCAST/LATINO%7CTOONCAST/playlist.m3u8
 #EXTINF: -1 group-title = "24/7" tvg-logo = "https://innovatv.live/posters/1602703986157.png", BOB-ESPONJA
 http://54.39.48.63:8081/247%7CBETTERCALLSAUL/247%7CBETTERCALLSAUL/playlist.m3u8
@@ -137,245 +135,232 @@ http://51.79.18.128:8081/LATINO%7CDISCOVERYCHANNEL/LATINO%7CDISCOVERYCHANNEL/pla
 http://51.79.18.128:8081/LATINO%7CDISCOVERYFAMILIA/LATINO%7CDISCOVERYFAMILIA/playlist.m3u8
 #EXTINF: -1 group-title = "Documentales" tvg-logo = "https://innovatv.live/posters/1602321792241.jpg", DISCOVERY-ID
 http://51.79.18.128:8081/LATINO%7CDISCOVERYHYH/LATINO%7CDISCOVERYHYH/playlist.m3u8
-#EXTINF: -1 group-title = "Documentales" tvg-logo = "https://innovatv.live/posters/1602321523448.jpg", DISCOVERY-SCIENCE
-http://51.79.18.128:8081/LATINO%7CDISCOVERYID/LATINO%7CDISCOVERYID/playlist.m3u8
-#EXTINF: -1 group-title = "Documentales" tvg-logo = "https://innovatv.live/posters/1602321989542.png", DISCOVERY-TURBO
-http://51.79.18.128:8081/LATINO%7CDISCOVERYCSCIENCE/LATINO%7CDISCOVERYCSCIENCE/playlist.m3u8
-#EXTINF: -1 group-title = "Documentales" tvg-logo = "https://innovatv.live/posters/1602322057215.jpg", DISCOVERYWORLD
-http://51.79.18.128:8081/LATINO%7CDISCOVERYTURBO/LATINO%7CDISCOVERYTURBO/playlist.m3u8
-#EXTINF: -1 group-title = "Documentales" tvg-logo = "https://innovatv.live/posters/1602324383516.jpg", HISTORIA
-http://51.79.18.128:8081/LATINO%7CDISCOVERYWORLD/LATINO%7CDISCOVERYWORLD/playlist.m3u8
-#EXTINF: -1 group-title = "Documentales" tvg-logo = "https://innovatv.live/posters/1602473104277.png", H2
+#EXTINF: -1 group-title = "Documentales" tvg-logo = "https://innovatv.live/posters/1602321792241.jpg", DISCOVERY-IDHISTORIA
 http://51.79.18.128:8081/LATINO%7CHISTORY/LATINO%7CHISTORY/playlist.m3u8
-#EXTINF: -1 group-title = "Documentales" tvg-logo = "https://innovatv.live/posters/1602473183200.png", NATIONAL-GEOGRAPHIC
+#EXTINF: -1 group-title = "Documentales" tvg-logo = "https://innovatv.live/posters/1602473104277.png", H2
 http://51.79.18.128:8081/LATINO%7CH2F/LATINO%7CH2F/playlist.m3u8
-#EXTINF: -1 group-title = "Documentales" tvg-logo = "https://innovatv.live/posters/1602344506477.png", NATGEO-MUNDO
+#EXTINF: -1 group-title = "Documentales" tvg-logo = "https://innovatv.live/posters/1602473183200.png", NATIONAL-GEOGRAPHIC
 http://51.79.18.128:8081/LATINO%7CNATIONALGEOGRAF/LATINO%7CNATIONALGEOGRAF/playlist.m3u8
-#EXTINF: -1 group-title = "Documentales" tvg-logo = "https://innovatv.live/posters/1602344589342.jpg", NATGEO-WILD
+#EXTINF: -1 group-title = "Documentales" tvg-logo = "https://innovatv.live/posters/1602344506477.png", NATGEO-MUNDO
 http://51.79.18.128:8081/LATINO%7CNATGEOMUNDO/LATINO%7CNATGEOMUNDO/playlist.m3u8
-#EXTINF: -1 group-title = "Deportes" tvg-logo = "https://innovatv.live/posters/1602480124546.png", ADRENALINA-SPORTS
+#EXTINF: -1 group-title = "Documentales" tvg-logo = "https://innovatv.live/posters/1602344589342.jpg", NATGEO-WILD
 http://51.79.18.128:8081/LATINO%7CNATGOEWILDF/LATINO%7CNATGOEWILDF/playlist.m3u8
 
-# EXTM3U
 #EXTINF: -1 group-title = "México" tvg-logo = "https://innovatv.live/posters/1602291571152.png", A +
-
-#EXTINF: -1 group-title = "México" tvg-logo = "https://innovatv.live/posters/1602291725423.png", AZTECA-UNO
 http://51.79.18.128:8081/LATINO%7CAPLUS/LATINO%7CAPLUS/playlist.m3u8
-#EXTINF: -1 group-title = "México" tvg-logo = "https://innovatv.live/posters/1622989884317.png", AZTECA-UNO-SD
+#EXTINF: -1 group-title = "México" tvg-logo = "https://innovatv.live/posters/1602291725423.png", AZTECA-UNO
 http://51.79.18.128:8081/LATINO%7CAZTECA1/LATINO%7CAZTECA1/playlist.m3u8
-#EXTINF: -1 group-title = "México" tvg-logo = "https://innovatv.live/posters/1602292030369.png", AZTECA-7
+#EXTINF: -1 group-title = "México" tvg-logo = "https://innovatv.live/posters/1622989884317.png", AZTECA-UNO-SD
 http://66.70.176.103:8081/LATINO%7CAZTECA1F/LATINO%7CAZTECA1F/playlist.m3u8
-#EXTINF: -1 group-title = "México" tvg-logo = "https://innovatv.live/posters/1602320590128.jpg", BITME
+#EXTINF: -1 group-title = "México" tvg-logo = "https://innovatv.live/posters/1602292030369.png", AZTECA-7
 http://51.79.18.128:8081/LATINO%7CAZTECA7/LATINO%7CAZTECA7/playlist.m3u8
-#EXTINF: -1 group-title = "México" tvg-logo = "https://innovatv.live/posters/1633574487461.png", CANAL-4-GDL
+#EXTINF: -1 group-title = "México" tvg-logo = "https://innovatv.live/posters/1602320590128.jpg", BITME
 http://51.79.18.128:8081/LATINO%7CBITME/LATINO%7CBITME/playlist.m3u8
-#EXTINF: -1 group-title = "México" tvg-logo = "https://innovatv.live/posters/1602292739515.png", CANAL-5
+#EXTINF: -1 group-title = "México" tvg-logo = "https://innovatv.live/posters/1633574487461.png", CANAL-4-GDL
 http://51.79.18.128:8081/LATINO%7CCANAL4GDL/LATINO%7CCANAL4GDL/playlist.m3u8
-#EXTINF: -1 group-title = "México" tvg-logo = "https://innovatv.live/posters/1602292937158.png", CANAL-66-MEXICALI
+#EXTINF: -1 group-title = "México" tvg-logo = "https://innovatv.live/posters/1602292739515.png", CANAL-5
 http://51.79.18.128:8081/LATINO%7CCANAL5/LATINO%7CCANAL5/playlist.m3u8
-#EXTINF: -1 group-title = "México" tvg-logo = "https://innovatv.live/posters/1602293057510.jpg", CANAL-DE-LAS-ESTRELLAS
+#EXTINF: -1 group-tps://innovatv.live/posters/1602292937158.png", CANAL-66-MEXICALI
 http://51.79.18.128:8081/LATINO%7CCANAL66MEXICALI/LATINO%7CCANAL66MEXICALI/playlist.m3u8
-#EXTINF: -1 group-title = "México" tvg-logo = "https://innovatv.live/posters/1622767677524.jpg", CANAL-DE-LAS-ESTRELLAS-SD
+#EXTINF: -1 group-title = "México" tvg-logo = "https://innovatv.live/posters/1602293057510.jpg", CANAL-DE-LAS-ESTRELLAS
 http://51.79.18.128:8081/LATINO%7CCANALDELASESTRELLAS/LATINO%7CCANALDELASESTRELLAS/playlist.m3u8
-#EXTINF: -1 group-title = "México" tvg-logo = "https://innovatv.live/posters/1602426339229.png", MULTIMEDIOS-6
+#EXTINF: -1 group-title = "México" tvg-logo = "https://innovatv.live/posters/1622767677524.jpg", CANAL-DE-LAS-ESTRELLAS-SD
 http://51.79.18.128:8081/LATINO%7CESTRELLASF/LATINO%7CESTRELLASF/playlist.m3u8
-#EXTINF: -1 group-title = "México" tvg-logo = "https://innovatv.live/posters/1602426398430.png", MULTIMEDIOS-MTY
+#EXTINF: -1 group-title = "México" tvg-logo = "https://innovatv.live/posters/1602426339229.png", MULTIMEDIOS-6
 http://51.79.18.128:8081/LATINO%7CMULTIMEDIOS/LATINO%7CMULTIMEDIOS/playlist.m3u8
-#EXTINF: -1 group-title = "México" tvg-logo = "https://innovatv.live/posters/1607834854438.jpg", NUEVE-9
+#EXTINF: -1 group-title = "México" tvg-logo = "https://innovatv.live/posters/1602426398430.png", MULTIMEDIOS-MTY
 http://54.39.48.63:8081/LATINO%7CMULTIMEDIOSMTY/LATINO%7CMULTIMEDIOSMTY/playlist.m3u8
-#EXTINF: -1 group-title = "México" tvg-logo = "https://innovatv.live/posters/1602471964224.png", ONCETV
+#EXTINF: -1 group-title = "México" tvg-logo = "https://innovatv.live/posters/1607834854438.jpg", NUEVE-9
 http://51.79.18.128:8081/LATINO%7CNUEVE/LATINO%7CNUEVE/playlist.m3u8
-#EXTINF: -1 group-title = "México" tvg-logo = "https://innovatv.live/posters/1602426103378.png", TELEVISA-MONTERREY
+#EXTINF: -1 group-title = "México" tvg-logo = "https://innovatv.live/posters/1602471964224.png", ONCETV
 http://51.79.18.128:8081/LATINO%7CONCETV/LATINO%7CONCETV/playlist.m3u8
-#EXTINF: -1 group-title = "México" tvg-logo = "https://innovatv.live/posters/1602426192472.png", TELEVISA-TIJUANA
+#EXTINF: -1 group-title = "México" tvg-logo = "https://innovatv.live/posters/1602426103378.png", TELEVISA-MONTERREY
 http://51.79.18.128:8081/LATINO%7CTELEVISAMTY/LATINO%7CTELEVISAMTY/playlist.m3u8
-#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602292470397.png", AZTECA-CLIC
+#EXTINF: -1 group-title = "México" tvg-logo = "https://innovatv.live/posters/1602426192472.png", TELEVISA-TIJUANA
 http://51.79.18.128:8081/LATINO%7CTELEVISATIJUANA/LATINO%7CTELEVISATIJUANA/playlist.m3u8
-#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602292542134.png", AZTECA-CORAZON
+#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602292470397.png", AZTECA-CLIC
 http://51.79.18.128:8081/LATINO%7CAZTECACLICK/LATINO%7CAZTECACLICK/playlist.m3u8
-#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602292588445.png", AZTECA-MUNDO
+#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602292542134.png", AZTECA-CORAZON
 http://51.79.18.128:8081/LATINO%7CAZTECACORAZON/LATINO%7CAZTECACORAZON/playlist.m3u8
-#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602370470520.jpg", ESTRELLATV
+#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602292588445.png", AZTECA-MUNDO
 http://51.79.18.128:8081/LATINO%7CAZTECAMUNDO/LATINO%7CAZTECAMUNDO/playlist.m3u8
-#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1607319105536.png", GALAVISION-ALBUQUEREQUE
+#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602370470520.jpg", ESTRELLATV
 http://54.39.49.162:8081/ESTRELLATV/USA%7CESTRELLATV/playlist.m3u8
-#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602377428229.png", GALAVISION-ATLANTA
+#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1607319105536.png", GALAVISION-ALBUQUEREQUE
 http://54.39.49.162:8081/USA%7CGALAVISIONALBUQUERQUE/USA%7CGALAVISIONALBUQUERQUE/playlist.m3u8
-#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602377479530.png", GALAVISION-AUSTIN
+#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602377428229.png", GALAVISION-ATLANTA
 http://54.39.49.162:8081/USA%7CGALAVISIONATLANTA/USA%7CGALAVISIONATLANTA/playlist.m3u8
-#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602377536241.png", GALAVISION-CLEVELAND
+#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602377479530.png", GALAVISION-AUSTIN
 http://54.39.49.162:8081/USA%7CGALAVISIONAUSTIN/USA%7CGALAVISIONAUSTIN/playlist.m3u8
-#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602377579384.png", GALAVISION-DALLAS
+#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602377536241.png", GALAVISION-CLEVELAND
 http://54.39.49.162:8081/USA%7CGALAVISIONCLEVELAND/USA%7CGALAVISIONCLEVELAND/playlist.m3u8
-#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602377639393.png", GALAVISION-HOUSTON
+#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602377579384.png", GALAVISION-DALLAS
 http://54.39.49.162:8081/USA%7CGALAVISIONDALLAS/USA%7CGALAVISIONDALLAS/playlist.m3u8
-#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602377713384.png", GALAVISION-LA
+#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602377639393.png", GALAVISION-HOUSTON
 http://54.39.49.162:8081/USA%7CGALAVISIONHOUSTON/USA%7CGALAVISIONHOUSTON/playlist.m3u8
-#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602377758312.png", GALAVISION-LAS-VEGAS
+#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602377713384.png", GALAVISION-LA
 http://54.39.49.162:8081/USA%7CGALAVISIONLA/USA%7CGALAVISIONLA/playlist.m3u8
-#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602377812290.png", GALAVISION-PHILADELPHIA
+#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602377758312.png", GALAVISION-LAS-VEGAS
 http://54.39.49.162:8081/USA%7CGALAVISIONLASVEGAS/USA%7CGALAVISIONLASVEGAS/playlist.m3u8
-#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602377849150.png", GALAVISION-SAN-FRANCISCO
+#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602377812290.png", GALAVISION-PHILADELPHIA
 http://54.39.49.162:8081/USA%7CGALAVISIONPHILADELPHIA/USA%7CGALAVISIONPHILADELPHIA/playlist.m3u8
-#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602423648359.png", GLITZ
+#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602377849150.png", GALAVISION-SAN-FRANCISCO
 http://54.39.49.162:8081/USA%7CGALAVISIONSANFRAN/USA%7CGALAVISIONSANFRAN/playlist.m3u8
-#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602374683173.png", TELEMUNDO-BOSTON
+#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602423648359.png", GLITZ
 http://54.39.49.162:8081/GLITZ/USA%7CGLITZ/playlist.m3u8
-#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602375009387.png", TELEMUNDO-CHICAGO
+#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602374683173.png", TELEMUNDO-BOSTON
 http://54.39.49.162:8081/TELEMUNDOBOSTON/USA%7CTELEMUNDOBOSTON/playlist.m3u8
-#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602374912449.png", TELEMUNDO-DALLAS
+#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602375009387.png", TELEMUNDO-CHICAGO
 http://54.39.49.162:8081/TELEMUNDODCHICAGO/USA%7CTELEMUNDOCHICAGO/playlist.m3u8
-#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602375148365.png", TELEMUNDO-DENVER
+#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602374912449.png", TELEMUNDO-DALLAS
 http://54.39.49.162:8081/TELEMUNDODALLAS/USA%7CTELEMUNDODALLAS/playlist.m3u8
-#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602375221566.png", TELEMUNDO-HOUSTON
+#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602375148365.png", TELEMUNDO-DENVER
 http://54.39.49.162:8081/TELEMUNDODENVER/USA%7CTELEMUNDODENVER/playlist.m3u8
-#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602375342498.png", TELEMUNDO-LA
+#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602375221566.png", TELEMUNDO-HOUSTON
 http://54.39.49.162:8081/TELEMUNDOHOUSTON/USA%7CTELEMUNDOHOUSTON/playlist.m3u8
-#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602375419342.png", TELEMUNDO-LAS-VEGAS
+#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602375342498.png", TELEMUNDO-LA
 http://54.39.49.162:8081/TELEMUNDOLA/USA%7CTELEMUNDOLA/playlist.m3u8
-#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602375497482.png", TELEMUNDO-MIAMI
+#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602375419342.png", TELEMUNDO-LAS-VEGAS
 http://54.39.49.162:8081/TELEMUNDOLASVEGAS/USA%7CTELEMUNDOLASVEGAS/playlist.m3u8
-#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602375607471.png", TELEMUNDO-NY
+#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602375497482.png", TELEMUNDO-MIAMI
 http://54.39.49.162:8081/TELEMUNDOMIAMI/USA%7CTELEMUNDOMIAMI/playlist.m3u8
-#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602424402166.png", TELEMUNDO-SAN-ANTONIO
+#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602375607471.png", TELEMUNDO-NY
 http://54.39.49.162:8081/TELEMUNDONY/USA%7CTELEMUNDONY/playlist.m3u8
-#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602375679333.png", TELEMUNDO-SAN-DIEGO
+#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602424402166.png", TELEMUNDO-SAN-ANTONIO
 http://54.39.49.162:8081/TELEMUNDOSANTON/USA%7CTELEMUNDOSANTON/playlist.m3u8
-#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602375746571.png", TELEMUNDO-SAN-FRANCISCO
+#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602375679333.png", TELEMUNDO-SAN-DIEGO
 http://54.39.49.162:8081/TELEMUNDOSANDIEGO/USA%7CTELEMUNDOSANDIEGO/playlist.m3u8
-#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602378351370.png", TLN-NOVELAS
+#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602375746571.png", TELEMUNDO-SAN-FRANCISCO
 http://54.39.49.162:8081/TELEMUNDOSANFRANC/USA%7CTELEMUNDOSANFRANC/playlist.m3u8
-#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602423532459.png", UNICABLE
+#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602378351370.png", TLN-NOVELAS
 http://54.39.49.162:8081/USA%7CTLNOVELAS/USA%7CTLNOVELAS/playlist.m3u8
-#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602376645293.png", UNIMAS-DALLAS
+#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602423532459.png", UNICABLE
 http://54.39.49.162:8081/UNICABLE/USA%7CUNICABLE/playlist.m3u8
-#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602376726555.png", UNIMAS-DENVER
+#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602376645293.png", UNIMAS-DALLAS
 http://54.39.49.162:8081/UNIMASDALLAS/USA%7CUNIMASDALLAS/playlist.m3u8
-#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602374907416.jpg", UNIMAS-LA
+#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602376726555.png", UNIMAS-DENVER
 http://54.39.49.162:8081/UNIMASDENVER/USA%7CUNIMASDENVER/playlist.m3u8
-#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602374996239.png", UNIMAS-MIAMI
+#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602374907416.jpg", UNIMAS-LA
 http://54.39.49.162:8081/UNIMASLA/USA%7CUNIMASLA/playlist.m3u8
-#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602375064412.jpg", UNIMAS-NY
+#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602374996239.png", UNIMAS-MIAMI
 http://54.39.49.162:8081/UNIMASMIAMI/USA%7CUNIMASMIAMI/playlist.m3u8
-#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602375147319.png", UNIVERSO
+#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602375064412.jpg", UNIMAS-NY
 http://54.39.49.162:8081/UNIMASNY/USA%7CUNIMASNY/playlist.m3u8
-#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602375205545.jpg", UNIVISION-CHICAGO
+#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602375147319.png", UNIVERSO
 http://54.39.49.162:8081/UNIVERSO/USA%7CUNIVERSO/playlist.m3u8
-#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602375310361.png", UNIVISION-DALLAS
+#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602375205545.jpg", UNIVISION-CHICAGO
 http://54.39.49.162:8081/UNIVISIONCHICAGO/USA%7CUNIVISIONCHICAGO/playlist.m3u8
-#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602375548521.jpg", UNIVISION-DENVER
+#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602375310361.png", UNIVISION-DALLAS
 http://54.39.49.162:8081/UNIVISIONDALLAS/USA%7CUNIVISIONDALLAS/playlist.m3u8
-#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602376119419.png", UNIVISION-LA
+#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602375548521.jpg", UNIVISION-DENVER
 http://54.39.49.162:8081/UNIVISIONDENVER/USA%7CUNIVISIONDENVER/playlist.m3u8
-#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1607318535523.png", UNIVISION-LAS-VEGAS
+#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602376119419.png", UNIVISION-LA
 http://54.39.49.162:8081/UNIVISIONLA/USA%7CUNIVISIONLA/playlist.m3u8
-#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602376277583.png", UNIVISION-NY
+#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1607318535523.png", UNIVISION-LAS-VEGAS
 http://54.39.49.162:8081/UNIVISIONLASVEGAS/USA%7CUNIVISIONLASVEGAS/playlist.m3u8
-#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1607318573465.png", UNIVISION-SAN-FRANCISCO
+#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1602376277583.png", UNIVISION-NY
 http://54.39.49.162:8081/UNIVISIONNY/USA%7CUNIVISIONNY/playlist.m3u8
-#EXTINF: -1 group-title = "Chile" tvg-logo = "https://innovatv.live/posters/1602553126246.png", 13I
+#EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1607318573465.png", UNIVISION-SAN-FRANCISCO
 http://54.39.49.162:8081/UNIVISIONSANFRAN/USA%7CUNIVISIONSANFRAN/playlist.m3u8
-#EXTINF: -1 group-title = "Chile" tvg-logo = "https://innovatv.live/posters/1602553238204.jpg", CNN-CHILE
+#EXTINF: -1 group-title = "Chile" tvg-logo = "https://innovatv.live/posters/1602553126246.png", 13I
 http://54.39.48.63:8081/CHILE%7C13/CHILE%7C13/playlist.m3u8
-#EXTINF: -1 group-title = "Chile" tvg-logo = "https://innovatv.live/posters/1602553392307.jpg", LA-RED-
+#EXTINF: -1 group-title = "Chile" tvg-logo = "https://innovatv.live/posters/1602553238204.jpg", CNN-CHILE
 http://54.39.48.63:8081/CHILE%7CCNNF/CHILE%7CCNNF/playlist.m3u8
-#EXTINF: -1 group-title = "Chile" tvg-logo = "https://innovatv.live/posters/1602553435296.png", MEGA-TV
+#EXTINF: -1 group-title = "Chile" tvg-logo = "https://innovatv.live/posters/1602553392307.jpg", LA-RED-
 http://54.39.48.63:8081/CHILE%7CLARED/CHILE%7CLARED/playlist.m3u8
-#EXTINF: -1 group-title = "Colombia" tvg-logo = "https://innovatv.live/posters/1602536403301.png", CARACOL
+#EXTINF: -1 group-title = "Chile" tvg-logo = "https://innovatv.live/posters/1602553435296.png", MEGA-TV
 http://66.70.176.103:8081/CHILE%7CMEGA/CHILE%7CMEGA/playlist.m3u8
-#EXTINF: -1 group-title = "Colombia" tvg-logo = "https://innovatv.live/posters/1602536436469.png", CITY-TV
+#EXTINF: -1 group-title = "Colombia" tvg-logo = "https://innovatv.live/posters/1602536403301.png", CARACOL
 http://54.39.48.63:8081/COLOMBIA%7CCARACOL/COLOMBIA%7CCARACOL/playlist.m3u8
-#EXTINF: -1 group-title = "Colombia" tvg-logo = "https://innovatv.live/posters/1602536477227.png", NTN24
+#EXTINF: -1 group-title = "Colombia" tvg-logo = "https://innovatv.live/posters/1602536436469.png", CITY-TV
 http://54.39.48.63:8081/COLOMBIA%7CCITYTV/COLOMBIA%7CCITYTV/playlist.m3u8
-#EXTINF: -1 group-title = "Colombia" tvg-logo = "https://innovatv.live/posters/1602536532403.png", RCN-
+#EXTINF: -1 group-title = "Colombia" tvg-logo = "https://innovatv.live/posters/1602536477227.png", NTN24
 http://54.39.48.63:8081/COLOMBIA%7CNTN24/COLOMBIA%7CNTN24/playlist.m3u8
-#EXTINF: -1 group-title = "Puerto Rico" tvg-logo = "https://innovatv.live/posters/1602347521589.jpg", MEGA
+#EXTINF: -1 group-title = "Colombia" tvg-logo = "https://innovatv.live/posters/1602536532403.png", RCN-
 http://54.39.48.63:8081/COLOMBIA%7CRCN/COLOMBIA%7CRCN/playlist.m3u8
-#EXTINF: -1 group-title = "Puerto Rico" tvg-logo = "https://innovatv.live/posters/1602347650483.png", PUNTO2
+#EXTINF: -1 group-title = "Puerto Rico" tvg-logo = "https://innovatv.live/posters/1602347521589.jpg", MEGA
 http://51.79.18.128:8081/PUERTORICO%7CMEGA/PUERTORICO%7CMEGA/playlist.m3u8
-#EXTINF: -1 group-title = "Puerto Rico" tvg-logo = "https://innovatv.live/posters/1602347703194.png", TELEMUNDO-PUERTO-RICO
+#EXTINF: -1 group-title = "Puerto Rico" tvg-logo = "https://innovatv.live/posters/1602347650483.png", PUNTO2
 http://51.79.18.128:8081/PUERTORICO%7CPUNTO2/PUERTORICO%7CPUNTO2/playlist.m3u8
-#EXTINF: -1 group-title = "Puerto Rico" tvg-logo = "https://innovatv.live/posters/1602347766376.png", UNIVISION-
+#EXTINF: -1 group-title = "Puerto Rico" tvg-logo = "https://innovatv.live/posters/1602347703194.png", TELEMUNDO-PUERTO-RICO
 http://51.79.18.128:8081/PUERTORICO%7CTELEMUNDO/PUERTORICO%7CTELEMUNDO/playlist.m3u8
-#EXTINF: -1 group-title = "Puerto Rico" tvg-logo = "https://innovatv.live/posters/1602347903184.jpg", WAPA
+#EXTINF: -1 group-title = "Puerto Rico" tvg-logo = "https://innovatv.live/posters/1602347766376.png", UNIVISION-
 http://51.79.18.128:8081/PUERTORICO%7CUNIVISION/PUERTORICO%7CUNIVISION/playlist.m3u8
-#EXTINF: -1 group-title = "Puerto Rico" tvg-logo = "https://innovatv.live/posters/1602347959455.png", WIPR
+#EXTINF: -1 group-title = "Puerto Rico" tvg-logo = "https://innovatv.live/posters/1602347903184.jpg", WAPA
 http://51.79.18.128:8081/PUERTORICO%7CWAPA/PUERTORICO%7CWAPA/playlist.m3u8
-#EXTINF: -1 group-title = "Rep Dominicana" tvg-logo = "https://innovatv.live/posters/1602557823328.jpg", MICROVISION
+#EXTINF: -1 group-title = "Puerto Rico" tvg-logo = "https://innovatv.live/posters/1602347959455.png", WIPR
 http://51.79.18.128:8081/PUERTORICO%7CWIPR/PUERTORICO%7CWIPR/playlist.m3u8
-#EXTINF: -1 group-title = "Rep Dominicana" tvg-logo = "https://innovatv.live/posters/1602557908250.jpg", ONDA-TV
+#EXTINF: -1 group-title = "Rep Dominicana" tvg-logo = "https://innovatv.live/posters/1602557823328.jpg", MICROVISION
 http://66.70.176.103:8081/REPDOM%7CMICROVISION/REPDOM%7CMICROVISION/playlist.m3u8
-#EXTINF: -1 group-title = "Rep Dominicana" tvg-logo = "https://innovatv.live/posters/1613968680452.png", SITV
+#EXTINF: -1 group-title = "Rep Dominicana" tvg-logo = "https://innovatv.live/posters/1602557908250.jpg", ONDA-TV
 http://66.70.176.103:8081/REPDOM%7CONDATV/REPDOM%7CONDATV/playlist.m3u8
-#EXTINF: -1 group-title = "España" tvg-logo = "https://innovatv.live/posters/1602308602173.png", ANTENA-3
+#EXTINF: -1 group-title = "Rep Dominicana" tvg-logo = "https://innovatv.live/posters/1613968680452.png", SITV
 http://66.70.176.103:8081/REPDOM%7CSITV/REPDOM%7CSITV/playlist.m3u8
 
-#EXTINF: -1 group-title = "DOCUMENTAL" tvg-logo = "https://innovatv.live/posters/1607298102407.png", DISCOVERY-CHANNEL
+#EXTINF: -1 group-title = "Documentales" tvg-logo = "https://innovatv.live/posters/1602318963408.png", ANIMAL-PLANET
 http://54.39.49.162:8081/ANIMALPLANET/USA%7CANIMALPLANET/playlist.m3u8
-#EXTINF: -1 group-title = "DOCUMENTAL" tvg-logo = "https://innovatv.live/posters/1607298168478.png", DISCOVERY-FAMILY
+#EXTINF: -1 group-title = "DOCUMENTAL" tvg-logo = "https://innovatv.live/posters/1607298102407.png", DISCOVERY-CHANNEL
 http://54.39.49.162:8081/DISCOVERYCHANNEL/USA%7CDISCOVERYCHANNEL/playlist.m3u8
-#EXTINF: -1 group-title = "DOCUMENTAL" tvg-logo = "https://innovatv.live/posters/1607298286493.png", DISCOVERY-ID
+#EXTINF: -1 group-title = "DOCUMENTAL" tvg-logo = "https://innovatv.live/posters/1607298168478.png", DISCOVERY-FAMILY
 http://54.39.49.162:8081/DISCOVERYFAMILY/USA%7CDISCOVERYFAMILY/playlist.m3u8
-#EXTINF: -1 group-title = "DOCUMENTAL" tvg-logo = "https://innovatv.live/posters/1607298607275.png", DISCOVERY-LIFE
+#EXTINF: -1 group-title = "DOCUMENTAL" tvg-logo = "https://innovatv.live/posters/1607298286493.png", DISCOVERY-ID
 http://54.39.49.162:8081/DISCOVERYID/USA%7CDISCOVERYID/playlist.m3u8
-#EXTINF: -1 group-title = "DOCUMENTAL" tvg-logo = "https://innovatv.live/posters/1602351396312.png", DW
+#EXTINF: -1 group-title = "DOCUMENTAL" tvg-logo = "https://innovatv.live/posters/1607298607275.png", DISCOVERY-LIFE
 http://54.39.49.162:8081/DISCOVERYLIFE/USA%7CDISCOVERYLIFE/playlist.m3u8
-#EXTINF: -1 group-title = "DOCUMENTAL" tvg-logo = "https://innovatv.live/posters/1602377443349.png", HISTORY-CHANNEL
+#EXTINF: -1 group-title = "DOCUMENTAL" tvg-logo = "https://innovatv.live/posters/1602351396312.png", DW
 http://54.39.49.162:8081/DW/USA%7CDW/playlist.m3u8
-#EXTINF: -1 group-title = "DOCUMENTAL" tvg-logo = "https://innovatv.live/posters/1602377509161.png", NATGEO
+#EXTINF: -1 group-title = "DOCUMENTAL" tvg-logo = "https://innovatv.live/posters/1602377443349.png", HISTORY-CHANNEL
 http://54.39.49.162:8081/USA%7CHISTORY/USA%7CHISTORY/playlist.m3u8
-#EXTINF: -1 group-title = "DOCUMENTAL" tvg-logo = "https://innovatv.live/posters/1602377560160.png", NATGEO-WILD
+#EXTINF: -1 group-title = "DOCUMENTAL" tvg-logo = "https://innovatv.live/posters/1602377509161.png", NATGEO
 http://54.39.49.162:8081/USA%7CNATGEO/USA%7CNATGEO/playlist.m3u8
-#EXTINF: -1 group-title = "DOCUMENTAL" tvg-logo = "https://innovatv.live/posters/1607298923475.png", VELOCIDAD
+#EXTINF: -1 group-title = "DOCUMENTAL" tvg-logo = "https://innovatv.live/posters/1602377560160.png", NATGEO-WILD
 http://54.39.49.162:8081/USA%7CNATGEOWILD/USA%7CNATGEOWILD/playlist.m3u8
-#EXTINF: -1 group-title = "ENTRETENIMIENTO" tvg-logo = "https://innovatv.live/posters/1602213791180.png", AMC
+#EXTINF: -1 group-title = "DOCUMENTAL" tvg-logo = "https://innovatv.live/posters/1607298923475.png", DISC VELOCIDAD
 http://54.39.49.162:8081/DISCOVERYVELOCITY/USA%7CDISCOVERYVELOCITY/playlist.m3u8
-#EXTINF: -1 group-title = "ENTRETENIMIENTO" tvg-logo = "https://innovatv.live/posters/1602213917234.png", AMERICANHEROES-
+#EXTINF: -1 group-title = "ENTRETENIMIENTO" tvg-logo = "https://innovatv.live/posters/1602213791180.png", AMC
 http://54.39.49.162:8081/AMC/USA%7CAMC/playlist.m3u8
-#EXTINF: -1 group-title = "ENTRETENIMIENTO" tvg-logo = "https://innovatv.live/posters/1607296567273.png", BRAVO
+#EXTINF: -1 group-title = "ENTRETENIMIENTO" tvg-logo = "https://innovatv.live/posters/1602213917234.png", AMERICANHEROES-
 http://54.39.49.162:8081/AMERICANHEROES/USA%7CAMERICANHEROES/playlist.m3u8
-#EXTINF: -1 group-title = "ENTRETENIMIENTO" tvg-logo = "https://innovatv.live/posters/1607297541421.png", CBS-CHICAGO
+#EXTINF: -1 group-title = "ENTRETENIMIENTO" tvg-logo = "https://innovatv.live/posters/1607296567273.png", BRAVO
 http://54.39.49.162:8081/BRAVO/USA%7CBRAVO/playlist.m3u8
-#EXTINF: -1 group-title = "ENTRETENIMIENTO" tvg-logo = "https://innovatv.live/posters/1607297577421.png", CBS-MIAMI-
+#EXTINF: -1 group-title = "ENTRETENIMIENTO" tvg-logo = "https://innovatv.live/posters/1607297541421.png", CBS-CHICAGO
 http://54.39.49.162:8081/CBSCHICAGO/USA%7CCBSCHICAGO/playlist.m3u8
-#EXTINF: -1 group-title = "ENTRETENIMIENTO" tvg-logo = "https://innovatv.live/posters/1607297657459.png", CBS-TEXAS
+#EXTINF: -1 group-title = "ENTRETENIMIENTO" tvg-logo = "https://innovatv.live/posters/1607297496140.png", CBS-SAN-FRANCISCO
 http://54.39.49.162:8081/CBSANFRAN/USA%7CCBSANFRAN/playlist.m3u8
-#EXTINF: -1 group-title = "ENTRETENIMIENTO" tvg-logo = "https://innovatv.live/posters/1607297942223.png", COMEDY-CENTRAL
+#EXTINF: -1 group-title = "ENTRETENIMIENTO" tvg-logo = "https://innovatv.live/posters/1607297657459.png", CBS-TEXAS
 http://54.39.49.162:8081/CBSTEXAS/USA%7CCBSTEXAS/playlist.m3u8
-#EXTINF: -1 group-title = "ENTRETENIMIENTO" tvg-logo = "https://innovatv.live/posters/1607297999289.png", CANAL DE COCCIÓN
+#EXTINF: -1 group-title = "ENTRETENIMIENTO" tvg-logo = "https://innovatv.live/posters/1607297942223.png", COMEDY-CENTRAL
 http://54.39.49.162:8081/COMEDYCENTRAL/USA%7CCOMEDYCENTRAL/playlist.m3u8
 
 #EXTINF: -1 group-title = "MOVIE" tvg-logo = "https://innovatv.live/posters/1602424157576.jpg", A y E
-http://54.39.49.162:8081/USA%7CNICKTOONS/USA%7CNICKTOONS/playlist.m3u8
-#EXTINF: -1 group-title = "MOVIE" tvg-logo = "https://innovatv.live/posters/1607297752577.png", CINEMAX
 http://54.39.49.162:8081/AYE/USA%7CAYE/playlist.m3u8
-#EXTINF: -1 group-title = "MOVIE" tvg-logo = "https://innovatv.live/posters/1607318989324.png", FX
+#EXTINF: -1 group-title = "MOVIE" tvg-logo = "https://innovatv.live/posters/1607297752577.png", CINEMAX
 http://54.39.49.162:8081/CINEMAX/USA%7CCINEMAX/playlist.m3u8
-#EXTINF: -1 group-title = "MOVIE" tvg-logo = "https://innovatv.live/posters/1607318972218.jpg", FXM
+#EXTINF: -1 group-title = "MOVIE" tvg-logo = "https://innovatv.live/posters/1607318989324.png", FX
 http://54.39.49.162:8081/USA%7CFX/USA%7CFX/playlist.m3u8
-#EXTINF: -1 group-title = "MOVIE" tvg-logo = "https://innovatv.live/posters/1618436407349.png", HBO
+#EXTINF: -1 group-title = "MOVIE" tvg-logo = "https://innovatv.live/posters/1607318972218.jpg", FXM
 http://54.39.49.162:8081/USA%7CFXM/USA%7CFXM/playlist.m3u8
-#EXTINF: -1 group-title = "MOVIE" tvg-logo = "https://innovatv.live/posters/1634487888580.png", HBO-2
+#EXTINF: -1 group-title = "MOVIE" tvg-logo = "https://innovatv.live/posters/1618436407349.png", HBO
 http://54.39.49.162:8081/USA%7CHBO1/USA%7CHBO1/playlist.m3u8
-#EXTINF: -1 group-title = "MOVIE" tvg-logo = "https://innovatv.live/posters/1634487973384.png", HBO-FAMILY
+#EXTINF: -1 group-title = "MOVIE" tvg-logo = "https://innovatv.live/posters/1634487888580.png", HBO-2
 http://54.39.49.162:8081/USA%7CHBO2/USA%7CHBO2/playlist.m3u8
-#EXTINF: -1 group-title = "MOVIE" tvg-logo = "https://innovatv.live/posters/1602377337168.png", HBO-ZONE
+#EXTINF: -1 group-title = "MOVIE" tvg-logo = "https://innovatv.live/posters/1634487973384.png", HBO-FAMILY
 http://54.39.49.162:8081/USA%7CHBOFAMILY/USA%7CHBOFAMILY/playlist.m3u8
-#EXTINF: -1 group-title = "MOVIE" tvg-logo = "https://innovatv.live/posters/1602377171554.png", HBO-COMEDY
+#EXTINF: -1 group-title = "MOVIE" tvg-logo = "https://innovatv.live/posters/1602377277575.png", HBO-FIRMA
 http://54.39.49.162:8081/USA%7CHBOSIGNATURE/USA%7CHBOSIGNATURE/playlist.m3u8
-#EXTINF: -1 group-title = "MOVIE" tvg-logo = "https://innovatv.live/posters/1602372959579.jpg", HALLMARK-MYM
+#EXTINF: -1 group-title = "MOVIE" tvg-logo = "https://innovatv.live/posters/1602377171554.png", HBO-COMEDY
 http://54.39.49.162:8081/USA%7CHBOCOMEDY/USA%7CHBOCOMEDY/playlist.m3u8
-#EXTINF: -1 group-title = "MOVIE" tvg-logo = "https://innovatv.live/posters/1602372889377.jpg", HALLMARK-DRAMA
+#EXTINF: -1 group-title = "MOVIE" tvg-logo = "https://innovatv.live/posters/1602372959579.jpg", HALLMARK-MYM
 http://54.39.49.162:8081/HALLMARKMYM/USA%7CHALLMARKMYM/playlist.m3u8
-#EXTINF: -1 group-title = "MOVIE" tvg-logo = "https://innovatv.live/posters/1602372817281.png", HALLMARK
+#EXTINF: -1 group-title = "MOVIE" tvg-logo = "https://innovatv.live/posters/1602372889377.jpg", HALLMARK-DRAMA
 http://54.39.49.162:8081/HALLMARKDRAMA/USA%7CHALLMARKDRAMA/playlist.m3u8
-#EXTINF: -1 group-title = "MOVIE" tvg-logo = "https://innovatv.live/posters/1602378225276.png", PARAMOUNT-NETWORK
+#EXTINF: -1 group-title = "MOVIE" tvg-logo = "https://innovatv.live/posters/1602372817281.png", HALLMARK
 http://54.39.49.162:8081/HALLMARK/USA%7CHALLMARK/playlist.m3u8
-#EXTINF: -1 group-title = "MOVIE" tvg-logo = "https://innovatv.live/posters/1602374416478.jpg", SHOWTIME-EAST
+#EXTINF: -1 group-title = "MOVIE" tvg-logo = "https://innovatv.live/posters/1602378225276.png", PARAMOUNT-NETWORK
 http://54.39.49.162:8081/USA%7CPARAMOUNTNETWORK/USA%7CPARAMOUNTNETWORK/playlist.m3u8
-#EXTINF: -1 group-title = "MOVIE" tvg-logo = "https://innovatv.live/posters/1602378279153.png", SHOWTIME-WEST
+#EXTINF: -1 group-title = "MOVIE" tvg-logo = "https://innovatv.live/posters/1602374416478.jpg", SHOWTIME-EAST
 http://54.39.49.162:8081/SHOWTIMEAST/USA%7CSHOWTIMEAST/playlist.m3u8
-#EXTINF: -1 group-title = "MOVIE" tvg-logo = "https://innovatv.live/posters/1602345433361.jpg", SYFY
+#EXTINF: -1 group-title = "MOVIE" tvg-logo = "https://innovatv.live/posters/1602378279153.png", SHOWTIME-WEST
 http://54.39.49.162:8081/SHOWTIMEWEST/USA%7CSHOWTIMEWEST/playlist.m3u8
-#EXTINF: -1 group-title = "MOVIE" tvg-logo = "https://innovatv.live/posters/1602378428360.png", TNT-
+#EXTINF: -1 group-title = "MOVIE" tvg-logo = "https://innovatv.live/posters/1602345433361.jpg", SYFY
 http://54.39.49.162:8081/USA%7CSYFY/USA%7CSYFY/playlist.m3u8
