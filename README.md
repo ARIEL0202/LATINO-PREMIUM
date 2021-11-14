@@ -32,7 +32,7 @@ http://51.79.18.128:8081/LATINO%7CDEPELICULA/LATINO%7CDEPELICULA/playlist.m3u8
 #EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602321229556.jpg", DE-PELICULA - PLUS
 http://51.79.18.128:8081/LATINO%7CDEPELICULAPLUS/LATINO%7CDEPELICULAPLUS/playlist.m3u8
 #EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602323935427.jpg", FX
-http://51.79.18.128:8081/LATINO%7CFX/LATINO%7CFX/playlist.m3u8
+http://51.79.18.128:8081/LATINO%7CFX/LATINO%7CFX/playlist.m3u8  
 #EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602324109426.jpg", GOLDENPLUS
 http://51.79.18.128:8081/LATINO%7CGOLDENPLUS/LATINO%7CGOLDENPLUS/playlist.m3u8
 #EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602465967440.png", HBO
