@@ -1,22 +1,13 @@
-#EXTINF:-1 group-title="PELICULAS DC COMICS EN CASTELLANO",CONSTANTINE
-Http://streamcloud.eu/5bb0gcni3zui
-#EXTINF:-1 group-title="PELICULAS DC COMICS EN CASTELLANO",ESCUADRON SUICIDA
-https://openload.co/f/qNtLkQqTGuo/EscuadronSuicida#Unknown_Code.mkv.mp4
-#EXTINF:-1 group-title="PELICULAS DC COMICS EN CASTELLANO",LA LIGA DE LOS HOMBRES EXTRAORDINARIOS
-http://streamcloud.eu/pc5h8h1i9fum
-#EXTINF:-1 group-title="PELICULAS DC COMICS EN CASTELLANO",LINTERNA VERDE
-http://streamcloud.eu/307f9q4dw7dr
-#EXTINF:-1 group-title="PELICULAS DC COMICS EN CASTELLANO",RED
-http://streamcloud.eu/abu4slaiehp5
-#EXTINF:-1 group-title="PELICULAS DC COMICS EN CASTELLANO",RED 2
-http://streamcloud.eu/36nxftzj63oy
-#EXTINF:-1 group-title="PELICULAS DC COMICS EN CASTELLANO",SUPERMAN RETURNS: EL REGRESO
-http://streamcloud.eu/dn256caoloyu
-#EXTINF:-1 group-title="PELICULAS DC COMICS EN CASTELLANO",EL HOMBRE DE ACERO
-https://openload.co/f/Y5EhbNggbgc/HombreAcero%23Unknown_Code.mkv.mp4
-#EXTINF:-1 group-title="PELICULAS DC COMICS EN CASTELLANO",BATMAN V SUPERMAN - EL AMANECER DE LA JUSTICIA (VE)
-https://openload.co/f/Kk6doD6vd3o/Batman_V_Superman_V_Extendida_%28BD1080%29
-#EXTINF:-1 group-title="PELICULAS DC COMICS EN CASTELLANO",BATMAN BEGINS
-https://openload.co/f/3cPHcxs7sYc/Batan_Bgn.mp4
-#EXTINF:-1 group-title="PELICULAS DC COMICS EN CASTELLANO",EL CABALLERO OSCURO
-https://openload.co/f/MsqsXq4ZW18/Batman_2.avi
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]مرحبا بك في تطبيق Adrar TV[/color]
+http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.reelgood.com/content/movie/3b35db84-6bd8-485e-9f2f-428880b6ff0e/poster-780.jpg" group-title="2021",Secuestro en el Paraiso (2021)
+http://201.172.61.203:88/Peliculas/MAYO%20JUNIO/Secuestro.en.el.Paraiso.1080.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/tmghT8HaddVIS9hEXIOI9GuDchi.jpg" group-title="2021",La Momia asciende (2021)
+http://201.172.61.203:88/Peliculas/Marzo%20Abril/la%20momia%202021.mp4
+#EXTINF:-1 tvg-logo="https://www.setsmovies.com/wp-content/uploads/2021/04/los-octonautas-y-el-cinturon-de-fuego-898-poster.jpg" group-title="2021",Los octonautas y el cinturon de fuego (2021)
+http://201.172.61.203:88/Peliculas/Marzo%20Abril/Octonauts.and.the.Ring.of.Fire.2021.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71KziKge%2BnL._AC_SY741_.jpg" group-title="2021",Nadie (2021)
+http://201.172.61.203:88/Peliculas/Marzo%20Abril/Nadie%20(2021)%20AMZN%20WEB-DL%201080p%20Latino%20www.peliculasgoogledrive.info.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/03/17/13/18/1808324.jpg" group-title="2021",Ruega por Nosotros (2021)
+http://201.172.61.203:88/Peliculas/mkv/Ruega%20x%20Nosotros%202021.mp4
