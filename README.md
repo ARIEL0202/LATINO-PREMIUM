@@ -1,3 +1,28 @@
-#EXTINF:-1,SP | Drama | A Fantastic Woman 2017 http://yeahiptv.vip:8080/movie/v209gunvd/on0k5orqk/18874.mkv #EXTINF:-1,SP | Drama | Wonderstruck http://yeahiptv.vip:8080/movie/v209gunvd/on0k5orqk/20803.mkv #EXTINF:-1,SP | Action | Jungle 2017 http://yeahiptv.vip:8080/movie/v209gunvd/on0k5orqk/13579.mkv #EXTINF:-1,SP | Comedy | Abracadabra http://yeahiptv.vip:8080/movie/v209gunvd/on0k5orqk/15623.mkv #EXTINF:-1,SP | Drama | Verónica 2017 http://yeahiptv.vip:8080/movie/v209gunvd/on0k5orqk/14255.mp4 #EXTINF:-1,SP | Romance | Orbiter 9 http://yeahiptv.vip:8080/movie/v209gunvd/on0k5orqk/9598.mp4 #EXTINF:-1,SP | Thriller | Black Snow 2017 http://yeahiptv.vip:8080/movie/v209gunvd/on0k5orqk/11282.mkv #EXTINF:-1,SP | Drama | Giant http://yeahiptv.vip:8080/movie/v209gunvd/on0k5orqk/18624.mp4 #EXTINF:-1,SP | Action | Toro 2016 http://yeahiptv.vip:8080/movie/v209gunvd/on0k5orqk/5722.mkv #EXTINF:-1,SP | Adventure | Zip&zap And The Captain's Island 2016 http://yeahiptv.vip:8080/movie/v209gunvd/on0k5orqk/4649.mkv #EXTINF:-1,SP | Comedy | The Queen Of Spain 2016 http://yeahiptv.vip:8080/movie/v209gunvd/on0k5orqk/10374.mkv #EXTINF:-1,SP | Romance | The Laws Of Thermodynamics 2018 http://yeahiptv.vip:8080/movie/v209gunvd/on0k5orqk/625657.mkv #EXTINF:-1,SP | Horror | Hypersomnia http://yeahiptv.vip:8080/movie/v209gunvd/on0k5orqk/6934.mkv #EXTINF:-1,SP | Romance | The Lighthouse Of The Whales 2016 http://yeahiptv.vip:8080/movie/v209gunvd/on0k5orqk/4474.mkv #EXTINF:-1,SP | Thriller | At The End Of The Tunnel 2016 http://yeahiptv.vip:8080/movie/v209gunvd/on0k5orqk/4596.mkv #EXTINF:-1,SP | Thriller | Boy Missing 2017 http://yeahiptv.vip:8080/movie/v209gunvd/on0k5orqk/4647.mkv #EXTINF:-1,SP | Thriller | Plan De Fuga 2017 http://yeahiptv.vip:8080/movie/v209gunvd/on0k5orqk/11899.mkv #EXTINF:-1,SP | Thriller | The Fury Of A Patient Man 2017 http://yeahiptv.vip:8080/movie/v209gunvd/on0k5orqk/4659.mkv #EXTINF:-1,SP | Thriller | The Invisible Guest 2017 http://yeahiptv.vip:8080/movie/v209gunvd/on0k5orqk/4448.mkv #EXTINF:-1,SP | Thriller | To Steal From A Thief 2016 http://yeahiptv.vip:8080/movie/v209gunvd/on0k5orqk/6327.mkv #EXTINF:-1,SP | Action | Spy Time http://yeahiptv.vip:8080/movie/v209gunvd/on0k5orqk/7018.mkv #EXTINF:-1,SP | Comedy | The Club 2015 http://yeahiptv.vip:8080/movie/v209gunvd/on0k5orqk/6389.mkv #EXTINF:-1,SP | Thriller | Desierto 2016 http://yeahiptv.vip:8080/movie/v209gunvd/on0k5orqk/5752.mkv #EXTINF:-1,SP | Thriller | Retribution 2015 http://yeahiptv.vip:8080/movie/v209gunvd/on0k5orqk/7016.mkv
-
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jDNLTp1/ikmnjki.png",ACCION
+https://raw.githubusercontent.com/laureanoflix/Peliculas/main/ACCION.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TW8mWYL/ndice-1.png",AVENTURA
+https://raw.githubusercontent.com/laureanoflix/Peliculas/main/AVENTURA.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0QnTF1X/Whats-App-Image-2021-07-25-at-2-18-23-AM.png",BELICAS
+https://raw.githubusercontent.com/laureanoflix/Peliculas/main/BELICAS.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6Wkd4D2/Whats-App-Image-2021-07-25-at-2-18-19-AM-1.png",CIENCIA FICCION
+https://raw.githubusercontent.com/laureanoflix/Peliculas/main/CIENCIA%20FICCION.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fd1bn4R/Whats-App-Image-2021-07-25-at-2-18-23-AM-1.png",COMEDIAS
+https://raw.githubusercontent.com/laureanoflix/Peliculas/main/COMEDIA.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r7Q8TDh/Whats-App-Image-2021-07-25-at-2-18-19-AM-5.png",CRIMEN
+https://raw.githubusercontent.com/laureanoflix/Peliculas/main/CRIMEN.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZgHC9Dc/Whats-App-Image-2021-07-25-at-2-18-24-AM-2.png",DRAMA
+https://raw.githubusercontent.com/laureanoflix/Peliculas/main/DRAMA.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gzQv2nK/Whats-App-Image-2021-07-25-at-2-18-19-AM.png",FANTASIA
+https://raw.githubusercontent.com/laureanoflix/Peliculas/main/FANTASIA.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yQMzWSh/Whats-App-Image-2021-07-25-at-2-18-19-AM-3.png",INFANTILES
+https://raw.githubusercontent.com/laureanoflix/Peliculas/main/INFANTILES.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W0MshN0/ki.png",ROMANTICAS
+https://raw.githubusercontent.com/laureanoflix/Peliculas/main/ROMANTICAS.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PGs9K9k/marvel-vs-dc-1u-1920x1080-1.png",SUPER HEROES
+https://raw.githubusercontent.com/laureanoflix/Peliculas/main/SUPER%20HEROES.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nPrxHPf/Whats-App-Image-2021-07-25-at-2-18-18-AM.jpg",SUSPENSO
+https://raw.githubusercontent.com/laureanoflix/Peliculas/main/SUSPENSO.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WgbgZs1/Whats-App-Image-2021-07-25-at-2-18-23-AM-2.png",TERROR
+https://raw.githubusercontent.com/laureanoflix/Peliculas/main/TERROR.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rdGSBn8/Whats-App-Image-2021-07-25-at-2-18-24-AM.png",WESTERN
+https://raw.githubusercontent.com/laureanoflix/Peliculas/main/WESTERN.m3u
