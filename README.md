@@ -1,28 +1,4 @@
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jDNLTp1/ikmnjki.png",ACCION
-https://raw.githubusercontent.com/laureanoflix/Peliculas/main/ACCION.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TW8mWYL/ndice-1.png",AVENTURA
-https://raw.githubusercontent.com/laureanoflix/Peliculas/main/AVENTURA.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0QnTF1X/Whats-App-Image-2021-07-25-at-2-18-23-AM.png",BELICAS
-https://raw.githubusercontent.com/laureanoflix/Peliculas/main/BELICAS.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6Wkd4D2/Whats-App-Image-2021-07-25-at-2-18-19-AM-1.png",CIENCIA FICCION
-https://raw.githubusercontent.com/laureanoflix/Peliculas/main/CIENCIA%20FICCION.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fd1bn4R/Whats-App-Image-2021-07-25-at-2-18-23-AM-1.png",COMEDIAS
-https://raw.githubusercontent.com/laureanoflix/Peliculas/main/COMEDIA.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r7Q8TDh/Whats-App-Image-2021-07-25-at-2-18-19-AM-5.png",CRIMEN
-https://raw.githubusercontent.com/laureanoflix/Peliculas/main/CRIMEN.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZgHC9Dc/Whats-App-Image-2021-07-25-at-2-18-24-AM-2.png",DRAMA
-https://raw.githubusercontent.com/laureanoflix/Peliculas/main/DRAMA.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gzQv2nK/Whats-App-Image-2021-07-25-at-2-18-19-AM.png",FANTASIA
-https://raw.githubusercontent.com/laureanoflix/Peliculas/main/FANTASIA.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yQMzWSh/Whats-App-Image-2021-07-25-at-2-18-19-AM-3.png",INFANTILES
-https://raw.githubusercontent.com/laureanoflix/Peliculas/main/INFANTILES.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/W0MshN0/ki.png",ROMANTICAS
-https://raw.githubusercontent.com/laureanoflix/Peliculas/main/ROMANTICAS.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PGs9K9k/marvel-vs-dc-1u-1920x1080-1.png",SUPER HEROES
-https://raw.githubusercontent.com/laureanoflix/Peliculas/main/SUPER%20HEROES.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nPrxHPf/Whats-App-Image-2021-07-25-at-2-18-18-AM.jpg",SUSPENSO
-https://raw.githubusercontent.com/laureanoflix/Peliculas/main/SUSPENSO.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WgbgZs1/Whats-App-Image-2021-07-25-at-2-18-23-AM-2.png",TERROR
-https://raw.githubusercontent.com/laureanoflix/Peliculas/main/TERROR.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rdGSBn8/Whats-App-Image-2021-07-25-at-2-18-24-AM.png",WESTERN
-https://raw.githubusercontent.com/laureanoflix/Peliculas/main/WESTERN.m3u
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Scream 2 (1997)
+https://dl.dropboxusercontent.com/s/qcfxj73odjtrxcf/Scream%202%201997.MP4?dl=0
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Shrek 2 (2004)
+https://dl.dropboxusercontent.com/s/ityoodit9ly3mgg/SalynPM-S.2.mp4?dl=0
