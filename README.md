@@ -1,4 +1,4 @@
-#EXTINF:-1,iptvtools_193
+#EXTINF:-1,PELIS 24
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 :CINE ACCION" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png" group-title="TV | 24/7 Peliculas",24/7 :CINE ACCION
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090917
