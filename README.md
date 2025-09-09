@@ -441,46 +441,26 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/19
 http://live.detodotvplay.com:8080/Risario8/Pineda13/42654
 #EXTINF:-1 tvg-id="startv/discoverychannel" tvg-name="MX | DISCOVERY CHANNEL" tvg-logo="https://logos.xbots.com.mx/2417.png" group-title="MUNDO Y CULTURA",MX | DISCOVERY CHANNEL
 http://live.detodotvplay.com:8080/Risario8/Pineda13/20
-
-
 #EXTINF:-1 tvg-id="startv/discoveryhh" tvg-name="MX | DISCOVERY HOME & HEALTH HD" tvg-logo="https://logos.xbots.com.mx/96.png" group-title="CANALES HD",MX | DISCOVERY HOME & HEALTH HD
 http://live.detodotvplay.com:8080/Risario8/Pineda13/9667
-#EXTINF:-1 tvg-id="startv/discoveryhh" tvg-name="MX | DISCOVERY HOME & HEALTH LQ" tvg-logo="https://tvadvertising.co.uk/wp-content/uploads/2023/12/93_image.png" group-title="TV BAJA VELOCIDAD",MX | DISCOVERY HOME & HEALTH LQ
-http://live.detodotvplay.com:8080/Risario8/Pineda13/89073
 #EXTINF:-1 tvg-id="startv/discoverykids" tvg-name="MX | DISCOVERY KIDS" tvg-logo="https://logos.xbots.com.mx/109.png" group-title="INFANTILES",MX | DISCOVERY KIDS
 http://live.detodotvplay.com:8080/Risario8/Pineda13/23
-#EXTINF:-1 tvg-id="startv/discoverykids" tvg-name="MX | DISCOVERY KIDS HD" tvg-logo="https://logos.xbots.com.mx/109.png" group-title="CANALES HD",MX | DISCOVERY KIDS HD
-http://live.detodotvplay.com:8080/Risario8/Pineda13/245
-#EXTINF:-1 tvg-id="startv/discoverykids" tvg-name="MX | DISCOVERY KIDS LQ" tvg-logo="https://logos.xbots.com.mx/109.png" group-title="TV BAJA VELOCIDAD",MX | DISCOVERY KIDS LQ
-http://live.detodotvplay.com:8080/Risario8/Pineda13/155449
 #EXTINF:-1 tvg-id="" tvg-name="MX | DISCOVERY SCIENCE" tvg-logo="https://unaespeciedetv.files.wordpress.com/2011/11/discovery-science-logo.png" group-title="MUNDO Y CULTURA",MX | DISCOVERY SCIENCE
 http://live.detodotvplay.com:8080/Risario8/Pineda13/24
 #EXTINF:-1 tvg-id="directvgomx/discoverytheater" tvg-name="MX | DISCOVERY THEATER" tvg-logo="https://logos.xbots.com.mx/307502.png" group-title="MUNDO Y CULTURA",MX | DISCOVERY THEATER
 http://live.detodotvplay.com:8080/Risario8/Pineda13/25
-#EXTINF:-1 tvg-id="directvgomx/discoverytheater" tvg-name="MX | DISCOVERY THEATER HD" tvg-logo="https://logos.xbots.com.mx/307502.png" group-title="CANALES HD",MX | DISCOVERY THEATER HD
-http://live.detodotvplay.com:8080/Risario8/Pineda13/8421
 #EXTINF:-1 tvg-id="" tvg-name="MX | TLC HD" tvg-logo="https://logos.xbots.com.mx/2197.png" group-title="CANALES HD",MX | TLC HD
 http://live.detodotvplay.com:8080/Risario8/Pineda13/8423
 #EXTINF:-1 tvg-id="directvgomx/discoveryturbo" tvg-name="MX | DISCOVERY TURBO HD" tvg-logo="https://logos.xbots.com.mx/3916.png" group-title="CANALES HD",MX | DISCOVERY TURBO HD
 http://live.detodotvplay.com:8080/Risario8/Pineda13/38296
-#EXTINF:-1 tvg-id="directvgomx/discoveryworld" tvg-name="MX | DISCOVERY WORLD" tvg-logo="https://logos.xbots.com.mx/101.png" group-title="MUNDO Y CULTURA",MX | DISCOVERY WORLD
-http://live.detodotvplay.com:8080/Risario8/Pineda13/27
-#EXTINF:-1 tvg-id="directvgomx/discoveryworld" tvg-name="MX | DISCOVERY WORLD HD" tvg-logo="https://logos.xbots.com.mx/101.png" group-title="CANALES HD",MX | DISCOVERY WORLD HD
-http://live.detodotvplay.com:8080/Risario8/Pineda13/8422
 #EXTINF:-1 tvg-id="directvgomx/discoveryworld" tvg-name="MX | DISCOVERY WORLD LQ" tvg-logo="https://logos.xbots.com.mx/101.png" group-title="TV BAJA VELOCIDAD",MX | DISCOVERY WORLD LQ
 http://live.detodotvplay.com:8080/Risario8/Pineda13/89105
 #EXTINF:-1 tvg-id="startv/disney" tvg-name="MX | DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1280px-2014_Disney_Channel_logo.svg.png" group-title="INFANTILES",MX | DISNEY CHANNEL
 http://live.detodotvplay.com:8080/Risario8/Pineda13/28
-#EXTINF:-1 tvg-id="startv/disney" tvg-name="MX | DISNEY CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1280px-2014_Disney_Channel_logo.svg.png" group-title="CANALES HD",MX | DISNEY CHANNEL HD
-http://live.detodotvplay.com:8080/Risario8/Pineda13/246
 #EXTINF:-1 tvg-id="startv/disney" tvg-name="MX | DISNEY CHANNEL LQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1280px-2014_Disney_Channel_logo.svg.png" group-title="TV BAJA VELOCIDAD",MX | DISNEY CHANNEL LQ
 http://live.detodotvplay.com:8080/Risario8/Pineda13/89099
 #EXTINF:-1 tvg-id="startv/disneyjr" tvg-name="MX | DISNEY JUNIOR" tvg-logo="https://logos.xbots.com.mx/2193.png" group-title="INFANTILES",MX | DISNEY JUNIOR
 http://live.detodotvplay.com:8080/Risario8/Pineda13/29
-#EXTINF:-1 tvg-id="startv/disneyjr" tvg-name="MX | DISNEY JUNIOR HD" tvg-logo="https://logos.xbots.com.mx/2193.png" group-title="CANALES HD",MX | DISNEY JUNIOR HD
-http://live.detodotvplay.com:8080/Risario8/Pineda13/9587
-#EXTINF:-1 tvg-id="startv/disneyjr" tvg-name="MX | DISNEY JUNIOR LQ" tvg-logo="https://logos.xbots.com.mx/2193.png" group-title="TV BAJA VELOCIDAD",MX | DISNEY JUNIOR LQ
-http://live.detodotvplay.com:8080/Risario8/Pineda13/89096
 #EXTINF:-1 tvg-id="" tvg-name="MX | DISTRITO COMEDIA" tvg-logo="https://logos.xbots.com.mx/78.png" group-title="ENTRETENIMIENTO",MX | DISTRITO COMEDIA
 http://live.detodotvplay.com:8080/Risario8/Pineda13/1983
 #EXTINF:-1 tvg-id="" tvg-name="MX | DISTRITO COMEDIA HD" tvg-logo="https://logos.xbots.com.mx/78.png" group-title="CANALES HD",MX | DISTRITO COMEDIA HD
@@ -491,42 +471,22 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/91302
 http://live.detodotvplay.com:8080/Risario8/Pineda13/31
 #EXTINF:-1 tvg-id="startv/e" tvg-name="MX | E! ENTERTAINMENT HD" tvg-logo="https://logos.xbots.com.mx/41036.png" group-title="CANALES HD",MX | E! ENTERTAINMENT HD
 http://live.detodotvplay.com:8080/Risario8/Pineda13/9588
-#EXTINF:-1 tvg-id="startv/e" tvg-name="MX | E! LQ" tvg-logo="http://live.detodotvplay.com:8080/images/ec12a8b7e005a91bd7dd67cef960610b.png" group-title="TV BAJA VELOCIDAD",MX | E! LQ
-http://live.detodotvplay.com:8080/Risario8/Pineda13/89061
 #EXTINF:-1 tvg-id="" tvg-name="MX | EL GOURMET" tvg-logo="https://logos.xbots.com.mx/307501.png" group-title="MUNDO Y CULTURA",MX | EL GOURMET
 http://live.detodotvplay.com:8080/Risario8/Pineda13/70
-#EXTINF:-1 tvg-id="" tvg-name="MX | EL GOURMET HD" tvg-logo="https://logos.xbots.com.mx/307501.png" group-title="CANALES HD",MX | EL GOURMET HD
-http://live.detodotvplay.com:8080/Risario8/Pineda13/9597
-#EXTINF:-1 tvg-id="" tvg-name="MX | EL GOURMET LQ" tvg-logo="https://logos.xbots.com.mx/307501.png" group-title="TV BAJA VELOCIDAD",MX | EL GOURMET LQ
-http://live.detodotvplay.com:8080/Risario8/Pineda13/89106
 #EXTINF:-1 tvg-id="startv/espn" tvg-name="MX | ESPN" tvg-logo="https://logos.xbots.com.mx/168.png" group-title="DEPORTES",MX | ESPN
 http://live.detodotvplay.com:8080/Risario8/Pineda13/60
 #EXTINF:-1 tvg-id="startv/espn2" tvg-name="MX | ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="DEPORTES",MX | ESPN 2
 http://live.detodotvplay.com:8080/Risario8/Pineda13/61
-#EXTINF:-1 tvg-id="startv/espn2" tvg-name="MX | ESPN 2 HD" tvg-logo="https://logos.xbots.com.mx/espn2.png" group-title="CANALES HD",MX | ESPN 2 HD
-http://live.detodotvplay.com:8080/Risario8/Pineda13/252
 #EXTINF:-1 tvg-id="directvgomx/espn3" tvg-name="MX | ESPN 3" tvg-logo="http://logos.xbots.com.mx/Espn3.png" group-title="DEPORTES",MX | ESPN 3
 http://live.detodotvplay.com:8080/Risario8/Pineda13/62
-#EXTINF:-1 tvg-id="directvgomx/espn3" tvg-name="MX | ESPN 3 HD" tvg-logo="http://logos.xbots.com.mx/Espn3.png" group-title="CANALES HD",MX | ESPN 3 HD
-http://live.detodotvplay.com:8080/Risario8/Pineda13/253
-#EXTINF:-1 tvg-id="directvgomx/espn3" tvg-name="MX | ESPN 3 LQ" tvg-logo="http://logos.xbots.com.mx/Espn3.png" group-title="TV BAJA VELOCIDAD",MX | ESPN 3 LQ
-http://live.detodotvplay.com:8080/Risario8/Pineda13/89101
 #EXTINF:-1 tvg-id="directvgomx/espnextramexico" tvg-name="MX | ESPN 4" tvg-logo="https://logos.xbots.com.mx/3925.png" group-title="DEPORTES",MX | ESPN 4
 http://live.detodotvplay.com:8080/Risario8/Pineda13/154616
-#EXTINF:-1 tvg-id="directvgomx/espnextramexico" tvg-name="MX | ESPN 4 HD" tvg-logo="https://logos.xbots.com.mx/3925.png" group-title="CANALES HD",MX | ESPN 4 HD
-http://live.detodotvplay.com:8080/Risario8/Pineda13/154617
 #EXTINF:-1 tvg-id="directvgomx/espnextramexico" tvg-name="MX | ESPN 4 LQ" tvg-logo="https://logos.xbots.com.mx/3925.png" group-title="TV BAJA VELOCIDAD",MX | ESPN 4 LQ
 http://live.detodotvplay.com:8080/Risario8/Pineda13/154618
 #EXTINF:-1 tvg-id="" tvg-name="MX | ESPN EXTRA" tvg-logo="https://logos.xbots.com.mx/41079.png" group-title="DEPORTES",MX | ESPN EXTRA
 http://live.detodotvplay.com:8080/Risario8/Pineda13/63
-#EXTINF:-1 tvg-id="" tvg-name="MX | ESPN EXTRA HD" tvg-logo="https://logos.xbots.com.mx/41079.png" group-title="CANALES HD",MX | ESPN EXTRA HD
-http://live.detodotvplay.com:8080/Risario8/Pineda13/9672
-#EXTINF:-1 tvg-id="" tvg-name="MX | ESPN EXTRA LQ" tvg-logo="https://logos.xbots.com.mx/41079.png" group-title="TV BAJA VELOCIDAD",MX | ESPN EXTRA LQ
-http://live.detodotvplay.com:8080/Risario8/Pineda13/94884
 #EXTINF:-1 tvg-id="directvgomx/espnmexico" tvg-name="MX | ESPN HD" tvg-logo="https://logos.xbots.com.mx/espn.png" group-title="CANALES HD",MX | ESPN HD
 http://live.detodotvplay.com:8080/Risario8/Pineda13/251
-#EXTINF:-1 tvg-id="startv/espn" tvg-name="MX | ESPN LQ" tvg-logo="https://logos.xbots.com.mx/espn.png" group-title="TV BAJA VELOCIDAD",MX | ESPN LQ
-http://live.detodotvplay.com:8080/Risario8/Pineda13/89706
 #EXTINF:-1 tvg-id="" tvg-name="MX | EUROCHANNEL" tvg-logo="https://logos.xbots.com.mx/307511.png" group-title="PELICULAS",MX | EUROCHANNEL
 http://live.detodotvplay.com:8080/Risario8/Pineda13/78000
 #EXTINF:-1 tvg-id="#0.sp" tvg-name="MX | EXA TV" tvg-logo="https://logos.xbots.com.mx/307522.png" group-title="MUSICA",MX | EXA TV
@@ -537,36 +497,18 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/116233
 http://live.detodotvplay.com:8080/Risario8/Pineda13/89078
 #EXTINF:-1 tvg-id="" tvg-name="MX | FORO TV" tvg-logo="https://logos.xbots.com.mx/2420.png" group-title="MEXICO",MX | FORO TV
 http://live.detodotvplay.com:8080/Risario8/Pineda13/45
-#EXTINF:-1 tvg-id="" tvg-name="MX | FORO TV HD" tvg-logo="https://logos.xbots.com.mx/2420.png" group-title="CANALES HD",MX | FORO TV HD
-http://live.detodotvplay.com:8080/Risario8/Pineda13/6181
-#EXTINF:-1 tvg-id="" tvg-name="MX | FORO TV LQ" tvg-logo="https://logos.xbots.com.mx/2420.png" group-title="TV BAJA VELOCIDAD",MX | FORO TV LQ
-http://live.detodotvplay.com:8080/Risario8/Pineda13/89721
 #EXTINF:-1 tvg-id="startv/foxsports2" tvg-name="MX | FOX SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/1200px-Fox_Sports_2_Argentina_2023.svg.png" group-title="DEPORTES",MX | FOX SPORTS 2
 http://live.detodotvplay.com:8080/Risario8/Pineda13/58
-#EXTINF:-1 tvg-id="startv/foxsports2" tvg-name="MX | FOX SPORTS 2 HD" tvg-logo="https://logos.xbots.com.mx/foxsport2.png" group-title="CANALES HD",MX | FOX SPORTS 2 HD
-http://live.detodotvplay.com:8080/Risario8/Pineda13/249
-#EXTINF:-1 tvg-id="startv/foxsports3" tvg-name="MX | FOX SPORTS 3 LQ" tvg-logo="https://logos.xbots.com.mx/1019.png" group-title="TV BAJA VELOCIDAD",MX | FOX SPORTS 3 LQ
-http://live.detodotvplay.com:8080/Risario8/Pineda13/89088
 #EXTINF:-1 tvg-id="startv/foxsports3" tvg-name="MX | FOX SPORTS 3 MX" tvg-logo="https://logos.xbots.com.mx/1019.png" group-title="DEPORTES",MX | FOX SPORTS 3 MX
 http://live.detodotvplay.com:8080/Risario8/Pineda13/59
-#EXTINF:-1 tvg-id="startv/foxsports3" tvg-name="MX | FOX SPORTS 3 MX HD" tvg-logo="https://logos.xbots.com.mx/1019.png" group-title="CANALES HD",MX | FOX SPORTS 3 MX HD
-http://live.detodotvplay.com:8080/Risario8/Pineda13/250
-#EXTINF:-1 tvg-id="startv/foxsports" tvg-name="MX | FOX SPORTS LQ" tvg-logo="https://logos.xbots.com.mx/41038.png" group-title="TV BAJA VELOCIDAD",MX | FOX SPORTS LQ
-http://live.detodotvplay.com:8080/Risario8/Pineda13/89102
 #EXTINF:-1 tvg-id="startv/foxsports" tvg-name="MX | FOX SPORTS MX" tvg-logo="https://logos.xbots.com.mx/41038.png" group-title="DEPORTES",MX | FOX SPORTS MX
 http://live.detodotvplay.com:8080/Risario8/Pineda13/57
-#EXTINF:-1 tvg-id="directvgomx/foxsportsmexico" tvg-name="MX | FOX SPORTS MX HD" tvg-logo="https://logos.xbots.com.mx/41038.png" group-title="CANALES HD",MX | FOX SPORTS MX HD
-http://live.detodotvplay.com:8080/Risario8/Pineda13/248
 #EXTINF:-1 tvg-id="" tvg-name="MX | Fox Sports Premium HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Fox_Sports_Premium_Argentina_2019.png" group-title="DEPORTES",MX | Fox Sports Premium HD
 http://live.detodotvplay.com:8080/Risario8/Pineda13/78194
-#EXTINF:-1 tvg-id="" tvg-name="MX | FOX SPORTS PREMIUM LQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Fox_Sports_Premium_Argentina_2019.png" group-title="TV BAJA VELOCIDAD",MX | FOX SPORTS PREMIUM LQ
-http://live.detodotvplay.com:8080/Risario8/Pineda13/89701
 #EXTINF:-1 tvg-id="startv/fx" tvg-name="MX | FX" tvg-logo="https://logos.xbots.com.mx/2418.png" group-title="ENTRETENIMIENTO",MX | FX
 http://live.detodotvplay.com:8080/Risario8/Pineda13/65
-#EXTINF:-1 tvg-id="startv/fx" tvg-name="MX | FX HD" tvg-logo="https://logos.xbots.com.mx/2418.png" group-title="CANALES HD",MX | FX HD
-http://live.detodotvplay.com:8080/Risario8/Pineda13/261
-#EXTINF:-1 tvg-id="startv/fx" tvg-name="MX | FX LQ" tvg-logo="https://logos.xbots.com.mx/2418.png" group-title="TV BAJA VELOCIDAD",MX | FX LQ
-http://live.detodotvplay.com:8080/Risario8/Pineda13/89072
+
+
 #EXTINF:-1 tvg-id="" tvg-name="MX | GOLDEN" tvg-logo="https://logos.xbots.com.mx/307518.png" group-title="PELICULAS",MX | GOLDEN
 http://live.detodotvplay.com:8080/Risario8/Pineda13/67
 #EXTINF:-1 tvg-id="goldenedge.mx" tvg-name="MX | GOLDEN EDGE" tvg-logo="https://logos.xbots.com.mx/3927.png" group-title="PELICULAS",MX | GOLDEN EDGE
