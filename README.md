@@ -168,6 +168,10 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/289443
 http://live.detodotvplay.com:8080/Risario8/Pineda13/298806
 #EXTINF:-1 tvg-id="" tvg-name="Tom Y Jerry" tvg-logo="https://image.tmdb.org/t/p/w500/35PuAIjkzlZhyihoG366h0ulYFg.jpg" group-title="24-7",Tom Y Jerry
 http://live.detodotvplay.com:8080/Risario8/Pineda13/298807
+#EXTINF:-1 tvg-id="" tvg-name="Un Agente De Familia" tvg-logo="https://image.tmdb.org/t/p/w500/fWZ1EkDxqE0ArmG2nEfHuVYBh9D.jpg" group-title="24-7",Un Agente De Familia
+http://live.detodotvplay.com:8080/Risario8/Pineda13/298808
+#EXTINF:-1 tvg-id="" tvg-name="Un Show Mas" tvg-logo="https://image.tmdb.org/t/p/w500/2vbE9ajftJ7dkqUAyxDS0WFILx8.jpg" group-title="24-7",Un Show Mas
+http://live.detodotvplay.com:8080/Risario8/Pineda13/298809
 
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="MUNDO Y CULTURA",ANIMAL PLANET
 http://live.detodotvplay.com:8080/Risario8/Pineda13/3
@@ -739,41 +743,22 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/30272
 http://live.detodotvplay.com:8080/Risario8/Pineda13/30712
 #EXTINF:-1 tvg-id="" tvg-name="TELEUNO SD" tvg-logo="https://pbs.twimg.com/profile_images/626211824451457024/jq6sU9MX_400x400.png" group-title="COSTA RICA",TELEUNO SD
 http://live.detodotvplay.com:8080/Risario8/Pineda13/35028
-
 #EXTINF:-1 tvg-id="tveinternacional.mx" tvg-name="TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/2084px-Logo_TVE-Internacional.svg.png" group-title="MUNDO Y CULTURA",TVE
 http://live.detodotvplay.com:8080/Risario8/Pineda13/138233
 #EXTINF:-1 tvg-id="" tvg-name="TVP MAZATLAN" tvg-logo="https://logos.xbots.com.mx/41067.png" group-title="MEXICO",TVP MAZATLAN
 http://live.detodotvplay.com:8080/Risario8/Pineda13/32416
 #EXTINF:-1 tvg-id="" tvg-name="PR | U-Vision PR" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/04/Univisi%C3%B3n-Dallas-en-vivo-Online.png" group-title="PUERTO RICO",PR | U-Vision PR
 http://live.detodotvplay.com:8080/Risario8/Pineda13/69419
-#EXTINF:-1 tvg-id="" tvg-name="UK | S Sports Action" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2017/07/Sky-Sports-Action-FI.png" group-title="DEPORTES",UK | S Sports Action
-http://live.detodotvplay.com:8080/Risario8/Pineda13/135066
-#EXTINF:-1 tvg-id="" tvg-name="UK | S Sports Golf" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Sport_Golf_Logo_2022.svg/2560px-Sky_Sport_Golf_Logo_2022.svg.png" group-title="DEPORTES",UK | S Sports Golf
-http://live.detodotvplay.com:8080/Risario8/Pineda13/143004
-#EXTINF:-1 tvg-id="" tvg-name="UK | S SportsF1" tvg-logo="http://live.detodotvplay.com:8080/images/c9af24ac59a7cf63a5ee1c105360ff00.png" group-title="DEPORTES",UK | S SportsF1
-http://live.detodotvplay.com:8080/Risario8/Pineda13/115559
-#EXTINF:-1 tvg-id="" tvg-name="UK | S SportsFootball" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/2560px-Sky_Sport_Football_-_Logo_2020.svg.png" group-title="DEPORTES",UK | S SportsFootball
-http://live.detodotvplay.com:8080/Risario8/Pineda13/115560
-#EXTINF:-1 tvg-id="" tvg-name="UK | S SportsMainEvent" tvg-logo="http://live.detodotvplay.com:8080/images/01c4cef4928e7ba16c83e6e90cf765e3.png" group-title="DEPORTES",UK | S SportsMainEvent
-http://live.detodotvplay.com:8080/Risario8/Pineda13/115558
-#EXTINF:-1 tvg-id="" tvg-name="UK | S SportsMix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/2560px-Sky_Sport_Mix_Logo_2022.svg.png" group-title="DEPORTES",UK | S SportsMix
-http://live.detodotvplay.com:8080/Risario8/Pineda13/115556
-#EXTINF:-1 tvg-id="" tvg-name="UK | S SportsPL" tvg-logo="http://live.detodotvplay.com:8080/images/d0qBv_KS-INV6jsoN1Bns3xtbQhVQIDY9BJ2vOAB8ZMPkqdyLYqDhy0_iB-TnrMRDA-FidpRgA_iNa5ZOJsr_GyPqNCya062FMhDC_Sof-eJoMJ4TrDDSAefiQgf8UYykYA2dMIaOOlS5_VLLpwk2-Z2Mg_Q49-NZy53JMlDGgGD3CbmmxUyg_X6XRxnJvJaYMT9aRwDOKE79cWKePF5og.png" group-title="DEPORTES",UK | S SportsPL
-http://live.detodotvplay.com:8080/Risario8/Pineda13/115561
-#EXTINF:-1 tvg-id="" tvg-name="UK | S SportsRacing" tvg-logo="http://live.detodotvplay.com:8080/images/nulSsJO1HjtWmXnGvVQLKVVsT9SBFMZ2egBEu1e7ANiABla4vUTpwjKp1BhqPvYuAWxKwtc6tmcWMpWpR-ycEJSFaJnecTDwyzdd6l4pul8.png" group-title="DEPORTES",UK | S SportsRacing
-http://live.detodotvplay.com:8080/Risario8/Pineda13/115562
+
 #EXTINF:-1 tvg-id="" tvg-name="UK | TNT SPORTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png" group-title="DEPORTES",UK | TNT SPORTS 1 HD
 http://live.detodotvplay.com:8080/Risario8/Pineda13/52004
 #EXTINF:-1 tvg-id="" tvg-name="UK | TNT SPORTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png" group-title="DEPORTES",UK | TNT SPORTS 2 HD
 http://live.detodotvplay.com:8080/Risario8/Pineda13/52005
 #EXTINF:-1 tvg-id="" tvg-name="UK | TNT SPORTS 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png" group-title="DEPORTES",UK | TNT SPORTS 3 HD
 http://live.detodotvplay.com:8080/Risario8/Pineda13/52006
-#EXTINF:-1 tvg-id="" tvg-name="Un Agente De Familia" tvg-logo="https://image.tmdb.org/t/p/w500/fWZ1EkDxqE0ArmG2nEfHuVYBh9D.jpg" group-title="24-7",Un Agente De Familia
-http://live.detodotvplay.com:8080/Risario8/Pineda13/298808
-#EXTINF:-1 tvg-id="" tvg-name="Un Show Mas" tvg-logo="https://image.tmdb.org/t/p/w500/2vbE9ajftJ7dkqUAyxDS0WFILx8.jpg" group-title="24-7",Un Show Mas
-http://live.detodotvplay.com:8080/Risario8/Pineda13/298809
 #EXTINF:-1 tvg-id="" tvg-name="UR | Teledoce" tvg-logo="https://logos.xbots.com.mx/Teledoce.png" group-title="URUGUAY",UR | Teledoce
 http://live.detodotvplay.com:8080/Risario8/Pineda13/63702
+
 #EXTINF:-1 tvg-id="hbolatino.us" tvg-name="US |  HBO LATINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Latino_Logo.svg/1280px-HBO_Latino_Logo.svg.png" group-title="USA",US |  HBO LATINO
 http://live.detodotvplay.com:8080/Risario8/Pineda13/31131
 #EXTINF:-1 tvg-id="aande.us" tvg-name="US | A&E" tvg-logo="https://logos.xbots.com.mx/ae.png" group-title="USA",US | A&E
