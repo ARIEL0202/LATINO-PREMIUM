@@ -701,8 +701,6 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/132843
 
 #EXTINF:-1 tvg-id="" tvg-name="PR |  Buena TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWW35a2muC8HQrAEjgDa-ttWVHNVsCbIud_sP17fqkIw&s" group-title="PUERTO RICO",PR |  Buena TV
 http://live.detodotvplay.com:8080/Risario8/Pineda13/89519
-
-
 #EXTINF:-1 tvg-id="" tvg-name="PR | MEGA Puerto Rico" tvg-logo="https://logos.xbots.com.mx/megatvusa.png" group-title="PUERTO RICO",PR | MEGA Puerto Rico
 http://live.detodotvplay.com:8080/Risario8/Pineda13/377
 #EXTINF:-1 tvg-id="" tvg-name="PR | PUNTO2" tvg-logo="https://pbs.twimg.com/profile_images/751530537165025280/uzVEpyCs_400x400.jpg" group-title="PUERTO RICO",PR | PUNTO2
@@ -731,12 +729,6 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/30053
 http://live.detodotvplay.com:8080/Risario8/Pineda13/104606
 #EXTINF:-1 tvg-id="" tvg-name="RD | Microvision 10" tvg-logo="" group-title="REPUBLICA DOMINICANA",RD | Microvision 10
 http://live.detodotvplay.com:8080/Risario8/Pineda13/21781
-#EXTINF:-1 tvg-id="" tvg-name="RD | TELEUNIVERSO HD" tvg-logo="http://live.detodotvplay.com:8080/images/48d9a0921fe14489528a6723106edebe.jpg" group-title="REPUBLICA DOMINICANA",RD | TELEUNIVERSO HD
-http://live.detodotvplay.com:8080/Risario8/Pineda13/104627
-#EXTINF:-1 tvg-id="" tvg-name="RTP Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="MUNDO Y CULTURA",RTP Internacional
-http://live.detodotvplay.com:8080/Risario8/Pineda13/98248
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1" tvg-logo="https://logos.xbots.com.mx/1083.png" group-title="BRASIL",SPORT TV 1
-http://live.detodotvplay.com:8080/Risario8/Pineda13/2322
 #EXTINF:-1 tvg-id="tve.sp" tvg-name="STAR TVE" tvg-logo="https://logos.xbots.com.mx/1024.png" group-title="MUNDO Y CULTURA",STAR TVE
 http://live.detodotvplay.com:8080/Risario8/Pineda13/18122
 #EXTINF:-1 tvg-id="telehit.mx" tvg-name="MX | TELEHIT PLUS" tvg-logo="https://logos.xbots.com.mx/3918.png" group-title="MUSICA",MX | TELEHIT PLUS
@@ -745,10 +737,9 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/218
 http://live.detodotvplay.com:8080/Risario8/Pineda13/30272
 #EXTINF:-1 tvg-id="" tvg-name="Telemundo Ohio" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/Telemundo.png" group-title="USA",Telemundo Ohio
 http://live.detodotvplay.com:8080/Risario8/Pineda13/30712
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo Ohio" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/Telemundo.png" group-title="Latinos USA",Telemundo Ohio
-http://live.detodotvplay.com:8080/Risario8/Pineda13/30712
 #EXTINF:-1 tvg-id="" tvg-name="TELEUNO SD" tvg-logo="https://pbs.twimg.com/profile_images/626211824451457024/jq6sU9MX_400x400.png" group-title="COSTA RICA",TELEUNO SD
 http://live.detodotvplay.com:8080/Risario8/Pineda13/35028
+
 #EXTINF:-1 tvg-id="tveinternacional.mx" tvg-name="TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/2084px-Logo_TVE-Internacional.svg.png" group-title="MUNDO Y CULTURA",TVE
 http://live.detodotvplay.com:8080/Risario8/Pineda13/138233
 #EXTINF:-1 tvg-id="" tvg-name="TVP MAZATLAN" tvg-logo="https://logos.xbots.com.mx/41067.png" group-title="MEXICO",TVP MAZATLAN
