@@ -763,8 +763,6 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/63702
 http://live.detodotvplay.com:8080/Risario8/Pineda13/31131
 #EXTINF:-1 tvg-id="aande.us" tvg-name="US | A&E" tvg-logo="https://logos.xbots.com.mx/ae.png" group-title="USA",US | A&E
 http://live.detodotvplay.com:8080/Risario8/Pineda13/14927
-#EXTINF:-1 tvg-id="" tvg-name="US | ABC WHAS Louisville" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="USA",US | ABC WHAS Louisville
-http://live.detodotvplay.com:8080/Risario8/Pineda13/113719
 #EXTINF:-1 tvg-id="amc.us" tvg-name="US | AMC" tvg-logo="https://logos.xbots.com.mx/41116.png" group-title="USA",US | AMC
 http://live.detodotvplay.com:8080/Risario8/Pineda13/8433
 #EXTINF:-1 tvg-id="axstv.us" tvg-name="US | AXS TV" tvg-logo="http://live.detodotvplay.com:8080/images/A5hqm3YdAH5RuAQJgDIoOxbLmD6EX9TppD5-DuQhFktObz4tgp78p9Z7UVWnqf1JiFa67ijVmzq83s6B6Z9XhpA0VJuNaHF6eDeJtIL0H80ING4TUV0ompkhejM7Jggo.png" group-title="USA",US | AXS TV
@@ -789,20 +787,14 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/17599
 http://live.detodotvplay.com:8080/Risario8/Pineda13/53
 #EXTINF:-1 tvg-id="" tvg-name="US | BET West" tvg-logo="http://live.detodotvplay.com:8080/images/d0qBv_KS-INV6jsoN1Bns3xtbQhVQIDY9BJ2vOAB8ZMPkqdyLYqDhy0_iB-TnrMRaB-dJIrucwOwqlwyKDDEA14xQBaD8f33vTFCd1YRkPZ0GiXtrxS4DCbmUKczDp_Q.png" group-title="USA",US | BET West
 http://live.detodotvplay.com:8080/Risario8/Pineda13/35485
-#EXTINF:-1 tvg-id="bloombergtv.us" tvg-name="US | Bloomberg" tvg-logo="http://live.detodotvplay.com:8080/images/gzH3GQkhH30Boo4TW0nlNZ-oSnCUTVno_-20oDAeteECUqlK7Afe_5dzt-rBSADz5KJ1ZCVqObZzw5bgCiRkU12SngUaEBhIFjW1TceCSVg.png" group-title="USA",US | Bloomberg
-http://live.detodotvplay.com:8080/Risario8/Pineda13/10114
 #EXTINF:-1 tvg-id="" tvg-name="US | BTN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/240px-Big_Ten_Network_Logo.svg.png" group-title="USA",US | BTN
 http://live.detodotvplay.com:8080/Risario8/Pineda13/34367
 #EXTINF:-1 tvg-id="" tvg-name="US | CARTOON NETWORK" tvg-logo="https://logos.xbots.com.mx/112.png" group-title="USA",US | CARTOON NETWORK
 http://live.detodotvplay.com:8080/Risario8/Pineda13/306
-#EXTINF:-1 tvg-id="" tvg-name="US | CBS 2 | California Los Angeles" tvg-logo="http://live.detodotvplay.com:8080/images/250c51527f347066847969f002be67a2.png" group-title="USA",US | CBS 2 | California Los Angeles
-http://live.detodotvplay.com:8080/Risario8/Pineda13/33882
 #EXTINF:-1 tvg-id="andtv.us" tvg-name="US | CBS SPORTS NETWORK" tvg-logo="https://www.pngkey.com/png/full/143-1432094_ww-motocross-park-jacksonville-30-august-2017-as.png" group-title="USA",US | CBS SPORTS NETWORK
 http://live.detodotvplay.com:8080/Risario8/Pineda13/14929
 #EXTINF:-1 tvg-id="" tvg-name="US | CINEMA DINAMITA" tvg-logo="https://logos.xbots.com.mx/307515.png" group-title="PELICULAS",US | CINEMA DINAMITA
 http://live.detodotvplay.com:8080/Risario8/Pineda13/13
-#EXTINF:-1 tvg-id="" tvg-name="US | CNBC HD" tvg-logo="http://live.detodotvplay.com:8080/images/d0qBv_KS-INV6jsoN1Bns3xtbQhVQIDY9BJ2vOAB8ZMPkqdyLYqDhy0_iB-TnrMRQQDsLNkaR1K7HLOAM1qPpmCL_cZnhs6FfkZ-ZlOBUnGC-Xnj5ZEOAc3d5K6o_cZFYbc_7Gr-ud3xF3kzlHzfOQ.png" group-title="USA",US | CNBC HD
-http://live.detodotvplay.com:8080/Risario8/Pineda13/4318
 #EXTINF:-1 tvg-id="" tvg-name="US | COMEDY CENTRAL" tvg-logo="https://logos.xbots.com.mx/340.png" group-title="USA",US | COMEDY CENTRAL
 http://live.detodotvplay.com:8080/Risario8/Pineda13/33016
 #EXTINF:-1 tvg-id="cookingchannel.us" tvg-name="US | Cooking Channel" tvg-logo="https://cdn.imgbin.com/7/9/9/imgbin-logo-product-design-brand-font-offcable-YgHGpy4vPK15sj2NnjSWGyJx1.jpg" group-title="USA",US | Cooking Channel
@@ -839,22 +831,6 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/327
 http://live.detodotvplay.com:8080/Risario8/Pineda13/212
 #EXTINF:-1 tvg-id="espnu.us" tvg-name="US | ESPN U" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1200px-ESPN_U_logo.svg.png" group-title="USA",US | ESPN U
 http://live.detodotvplay.com:8080/Risario8/Pineda13/34268
-#EXTINF:-1 tvg-id="" tvg-name="US | ESPNews" tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESPNews-Logo.png" group-title="USA",US | ESPNews
-http://live.detodotvplay.com:8080/Risario8/Pineda13/63931
-#EXTINF:-1 tvg-id="" tvg-name="US | FISHING NETWORK" tvg-logo="https://logos.xbots.com.mx/41027.png" group-title="USA",US | FISHING NETWORK
-http://live.detodotvplay.com:8080/Risario8/Pineda13/30833
-#EXTINF:-1 tvg-id="" tvg-name="US | FOX 26 KRIV Houston" tvg-logo="https://paul-daugherty.com/wp-content/uploads/2018/04/Fox-26-Houston.png" group-title="USA",US | FOX 26 KRIV Houston
-http://live.detodotvplay.com:8080/Risario8/Pineda13/64194
-#EXTINF:-1 tvg-id="" tvg-name="US | FOX 5 | New York" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fts-new-york-a.svg/1200px-Fts-new-york-a.svg.png" group-title="USA",US | FOX 5 | New York
-http://live.detodotvplay.com:8080/Risario8/Pineda13/62241
-#EXTINF:-1 tvg-id="" tvg-name="US | FOX 9 Minneapolis" tvg-logo="https://alchetron.com/cdn/kmsp-tv-07d4ebdd-ee90-4ab8-a677-53ddb2a8a51-resize-750.png" group-title="USA",US | FOX 9 Minneapolis
-http://live.detodotvplay.com:8080/Risario8/Pineda13/103805
-#EXTINF:-1 tvg-id="foxbusiness.us" tvg-name="US | FOX BUSINESS NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/1200px-Fox_Business.svg.png" group-title="USA",US | FOX BUSINESS NETWORK
-http://live.detodotvplay.com:8080/Risario8/Pineda13/64195
-#EXTINF:-1 tvg-id="" tvg-name="US | FOX Colorado" tvg-logo="https://www.fox21news.com/wp-content/uploads/sites/37/2022/04/cropped-FOX21NEWS-512x512-Site-Icon-1.png" group-title="USA",US | FOX Colorado
-http://live.detodotvplay.com:8080/Risario8/Pineda13/30476
-#EXTINF:-1 tvg-id="" tvg-name="US | FOX KTVU San Francisco" tvg-logo="https://images.squarespace-cdn.com/content/v1/6226a403d67dad47770d24a5/1649097617009-IO9D6P8T7LQTXIT8RHCE/fts-san-francisco-b.png" group-title="USA",US | FOX KTVU San Francisco
-http://live.detodotvplay.com:8080/Risario8/Pineda13/138009
 #EXTINF:-1 tvg-id="" tvg-name="US | FOX SOCCER PLUS" tvg-logo="https://tmsimg.fancybits.co/assets/s66880_ll_h3_aa.png" group-title="DEPORTES",US | FOX SOCCER PLUS
 http://live.detodotvplay.com:8080/Risario8/Pineda13/18580
 #EXTINF:-1 tvg-id="" tvg-name="US | FOX WSVN 7 Miami" tvg-logo="http://live.detodotvplay.com:8080/images/uU7dC1RkMkAO4WvR6VxRhFT2lKEkLfuqzGO-IgasXsGnr0ePy79e3-tum7EU-Fkw1YKdNyp4Ign4VSz2fAmPRg.png" group-title="USA",US | FOX WSVN 7 Miami
@@ -881,10 +857,6 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/2030
 http://live.detodotvplay.com:8080/Risario8/Pineda13/64198
 #EXTINF:-1 tvg-id="" tvg-name="US | ION" tvg-logo="http://live.detodotvplay.com:8080/images/d0qBv_KS-INV6jsoN1Bns3xtbQhVQIDY9BJ2vOAB8ZMPkqdyLYqDhy0_iB-TnrMRtHX0Sns3JtNEKmMEXXpS-3K0snZ7xzW0MgymShu-f8Kmm7AlVuWDhEjXlkKu1zcMQ-xQMd6P6nGTnHXrul6vh0_s80VON_nmNWNVIzX-yRI.png" group-title="USA",US | ION
 http://live.detodotvplay.com:8080/Risario8/Pineda13/66245
-#EXTINF:-1 tvg-id="" tvg-name="US | KBTX" tvg-logo="https://www.cognitoforms.com/file/I_aMxyVf9YTz5gCsdLbsMV1yU2wJTe_hEgMz1KuTMLV63rYbHmKPr66ujOZTfmW-" group-title="USA",US | KBTX
-http://live.detodotvplay.com:8080/Risario8/Pineda13/156473
-#EXTINF:-1 tvg-id="ktla.us" tvg-name="US | KTLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/KTLA_logo.svg/1200px-KTLA_logo.svg.png" group-title="USA",US | KTLA
-http://live.detodotvplay.com:8080/Risario8/Pineda13/79801
 #EXTINF:-1 tvg-id="" tvg-name="US | Laff" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" group-title="USA",US | Laff
 http://live.detodotvplay.com:8080/Risario8/Pineda13/105458
 #EXTINF:-1 tvg-id="" tvg-name="US | Law & Crime" tvg-logo="http://live.detodotvplay.com:8080/images/nulSsJO1HjtWmXnGvVQLKVVsT9SBFMZ2egBEu1e7ANjZVrm3amrzRi93_PjBHnIiqgRLrsKyRHH5ebAkjxf490rDmvATrzeI1So5_DnQtR8.png" group-title="USA",US | Law & Crime
@@ -901,8 +873,6 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/87603
 http://live.detodotvplay.com:8080/Risario8/Pineda13/55880
 #EXTINF:-1 tvg-id="megatv.us" tvg-name="US | MEGA TV USA" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/mega-tv-en-directo-online-en-vivo.png" group-title="Latinos USA",US | MEGA TV USA
 http://live.detodotvplay.com:8080/Risario8/Pineda13/30367
-#EXTINF:-1 tvg-id="megatv.us" tvg-name="US | MEGA TV USA" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/mega-tv-en-directo-online-en-vivo.png" group-title="USA",US | MEGA TV USA
-http://live.detodotvplay.com:8080/Risario8/Pineda13/30367
 #EXTINF:-1 tvg-id="" tvg-name="US | MeTV" tvg-logo="" group-title="USA",US | MeTV
 http://live.detodotvplay.com:8080/Risario8/Pineda13/368535
 #EXTINF:-1 tvg-id="" tvg-name="US | MGM +" tvg-logo="https://images-cdn3.welcomesoftware.com/assets/MGM+plus.png/Zz00MTMwMTEwNDkzOTIxMWVkYWZlYzUyOTNlYjAzYjVmYQ==?width=768&height=430" group-title="USA",US | MGM +
@@ -911,28 +881,18 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/368559
 http://live.detodotvplay.com:8080/Risario8/Pineda13/368560
 #EXTINF:-1 tvg-id="" tvg-name="US | MGM + Marquee" tvg-logo="" group-title="USA",US | MGM + Marquee
 http://live.detodotvplay.com:8080/Risario8/Pineda13/368561
-#EXTINF:-1 tvg-id="" tvg-name="US | MLB NETWORK" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2011/09/mlbnetworklogo.png" group-title="DEPORTES",US | MLB NETWORK
-http://live.detodotvplay.com:8080/Risario8/Pineda13/18640
 #EXTINF:-1 tvg-id="" tvg-name="US | MOTORTREND" tvg-logo="http://live.detodotvplay.com:8080/images/d0qBv_KS-INV6jsoN1Bns3xtbQhVQIDY9BJ2vOAB8ZMPkqdyLYqDhy0_iB-TnrMRO2_Ggsdzi1xDhxn7BiviLAs_zHoZlvm-GXEQm1DndTfmXjvbN1BDMbhl3_Zqv3-5IKLDRk7Fy6qO7s_J9ljTQg.png" group-title="USA",US | MOTORTREND
 http://live.detodotvplay.com:8080/Risario8/Pineda13/64215
-#EXTINF:-1 tvg-id="" tvg-name="US | MSNBC" tvg-logo="https://img.nbc.com/sites/nbcunbc/files/images/2020/2/14/MSNBC-Logo-FullColor-360x300.png" group-title="USA",US | MSNBC
-http://live.detodotvplay.com:8080/Risario8/Pineda13/28353
 #EXTINF:-1 tvg-id="" tvg-name="US | MTV" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNOHZ0e3rS54miHm9v-RvME128Iw9KKol44kpWKDl7C5o.png" group-title="USA",US | MTV
 http://live.detodotvplay.com:8080/Risario8/Pineda13/33017
 #EXTINF:-1 tvg-id="" tvg-name="US | MTVU" tvg-logo="http://live.detodotvplay.com:8080/images/ZFzQ5qQhItOTzs9LXCwlWPRd72WTz0a97h26XAKDrS8pdS-GCg7w4kisOqV7tiLT.png" group-title="USA",US | MTVU
 http://live.detodotvplay.com:8080/Risario8/Pineda13/64217
 #EXTINF:-1 tvg-id="" tvg-name="US | Nat Geo Mundo" tvg-logo="https://c3.klipartz.com/pngpicture/20/323/sticker-png-tv-channel-icons-pack-nat-geo-mundo-color-thumbnail.png" group-title="Latinos USA",US | Nat Geo Mundo
 http://live.detodotvplay.com:8080/Risario8/Pineda13/289065
-#EXTINF:-1 tvg-id="" tvg-name="US | Nat Geo Mundo" tvg-logo="https://c3.klipartz.com/pngpicture/20/323/sticker-png-tv-channel-icons-pack-nat-geo-mundo-color-thumbnail.png" group-title="USA",US | Nat Geo Mundo
-http://live.detodotvplay.com:8080/Risario8/Pineda13/289065
-#EXTINF:-1 tvg-id="" tvg-name="US | NBA TV" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2017/07/nba-logo.png" group-title="DEPORTES",US | NBA TV
-http://live.detodotvplay.com:8080/Risario8/Pineda13/317
 #EXTINF:-1 tvg-id="" tvg-name="US | NESN" tvg-logo="http://live.detodotvplay.com:8080/images/TVVoslwm7NJ6Zrs-BdrImPlUXu-ujBRaFVsY1LajF621lhwQkly0fZiO28Ma7kdWDsORmSVe8KRtG9D0rrrAbu9qiFmPNrdDcqwvJecZw1Q.png" group-title="USA",US | NESN
 http://live.detodotvplay.com:8080/Risario8/Pineda13/4311
 #EXTINF:-1 tvg-id="" tvg-name="US | NESN PLUS" tvg-logo="http://live.detodotvplay.com:8080/images/qg4vRhyQcrmwSVRTvXE73mtC2qnBOgocGI-eAtyNnZZOelJpCUWjXpCHe4cYHPIgUivoRmsS3ItgNwHubLznaw.png" group-title="USA",US | NESN PLUS
 http://live.detodotvplay.com:8080/Risario8/Pineda13/64222
-#EXTINF:-1 tvg-id="" tvg-name="US | NHK" tvg-logo="" group-title="USA",US | NHK
-http://live.detodotvplay.com:8080/Risario8/Pineda13/368534
 #EXTINF:-1 tvg-id="" tvg-name="US | NHL NETWORK" tvg-logo="http://live.detodotvplay.com:8080/images/ZnoOU1h0YuL0kABn-QOHYEwW4jnbE64gH_UtXz_5d3YzMhLCw1et80UfrR3mJhM0hkuq4xDjmnuw8xWJIyyH9Li4GaFMmsl7g8RFZWgDFTVjy0RlDHBQ3Xmp9M7idjtkU8nZE2_2Ia1jhPv12dZ2NA.png" group-title="DEPORTES",US | NHL NETWORK
 http://live.detodotvplay.com:8080/Risario8/Pineda13/37633
 #EXTINF:-1 tvg-id="nickjr.us" tvg-name="US | NICK JR. US" tvg-logo="https://logos.xbots.com.mx/41119.png" group-title="USA",US | NICK JR. US
@@ -945,8 +905,6 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/32285
 http://live.detodotvplay.com:8080/Risario8/Pineda13/64218
 #EXTINF:-1 tvg-id="" tvg-name="US | OUTDOOR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/1280px-Outdoor_Channel_logo_2017.svg.png" group-title="USA",US | OUTDOOR HD
 http://live.detodotvplay.com:8080/Risario8/Pineda13/29325
-#EXTINF:-1 tvg-id="" tvg-name="US | Outermax" tvg-logo="https://static.iptv-epg.com/us/OuterMax.us.png" group-title="USA",US | Outermax
-http://live.detodotvplay.com:8080/Risario8/Pineda13/29326
 #EXTINF:-1 tvg-id="" tvg-name="US | Oxygen HD" tvg-logo="http://live.detodotvplay.com:8080/images/d0qBv_KS-INV6jsoN1Bns3xtbQhVQIDY9BJ2vOAB8ZO9v6NBm1n5bC9GMfrBLxJhj8CzcsDc__i9ZJFVQGtug57H1OavNMHStpgMVmE2C7s.png" group-title="USA",US | Oxygen HD
 http://live.detodotvplay.com:8080/Risario8/Pineda13/29327
 #EXTINF:-1 tvg-id="" tvg-name="US | PARAMOUNT US" tvg-logo="http://live.detodotvplay.com:8080/images/uXM4_9fntIKIQx2733aXyUqLZ34PHkCWeucliRk0IyoORyIYQ--sy-WaJqFVXy9FTWc4F5Tihk23wxBNWWBqZuN333-Nk4kpg_bpEvgKZIs.png" group-title="USA",US | PARAMOUNT US
@@ -965,14 +923,8 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/14763
 http://live.detodotvplay.com:8080/Risario8/Pineda13/14766
 #EXTINF:-1 tvg-id="showtimewomen.us" tvg-name="US | SHOWTIME WOMEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Showtime_Women.svg/1200px-Showtime_Women.svg.png" group-title="SHOW TIME",US | SHOWTIME WOMEN
 http://live.detodotvplay.com:8080/Risario8/Pineda13/14762
-#EXTINF:-1 tvg-id="sportsnetnewyork.us" tvg-name="US | SNY" tvg-logo="https://png.pngitem.com/pimgs/s/244-2442993_sny-logo-png-transparent-png.png" group-title="USA",US | SNY
-http://live.detodotvplay.com:8080/Risario8/Pineda13/52855
 #EXTINF:-1 tvg-id="sony.us" tvg-name="US | Sony Movies" tvg-logo="https://logos.xbots.com.mx/3933.png" group-title="USA",US | Sony Movies
 http://live.detodotvplay.com:8080/Risario8/Pineda13/64213
-#EXTINF:-1 tvg-id="" tvg-name="US | Spectrum News 1" tvg-logo="http://live.detodotvplay.com:8080/images/ViJJt1oHo-StApF7hugsAHJyEUUwyXwUw9896RnEKCoNPedIfRxRANK_zDupR5d7YEOFmGTSSgKeoyu29c5yadIUwuEUK1vgqDH3FTnl5To.png" group-title="USA",US | Spectrum News 1
-http://live.detodotvplay.com:8080/Risario8/Pineda13/82680
-#EXTINF:-1 tvg-id="" tvg-name="US | SPECTRUM SPORTS NET LA Dodgers" tvg-logo="https://logos.xbots.com.mx/41042.png" group-title="DEPORTES",US | SPECTRUM SPORTS NET LA Dodgers
-http://live.detodotvplay.com:8080/Risario8/Pineda13/30368
 #EXTINF:-1 tvg-id="" tvg-name="US | SPORTSMAN CHANNEL" tvg-logo="http://live.detodotvplay.com:8080/images/qg4vRhyQcrmwSVRTvXE73mtC2qnBOgocGI-eAtyNnZZOelJpCUWjXpCHe4cYHPIgUSs3ZTr91d1uo2W6VEIzsIo2sq4IkDlP1LIm1TU3hTU.png" group-title="USA",US | SPORTSMAN CHANNEL
 http://live.detodotvplay.com:8080/Risario8/Pineda13/64214
 #EXTINF:-1 tvg-id="" tvg-name="US | Stadium" tvg-logo="https://seeklogo.com/images/S/stadium-logo-E51B33CA35-seeklogo.com.png" group-title="USA",US | Stadium
@@ -987,78 +939,22 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/61056
 http://live.detodotvplay.com:8080/Risario8/Pineda13/2013
 #EXTINF:-1 tvg-id="" tvg-name="US | T-UDN USA HD" tvg-logo="https://logos.xbots.com.mx/41040.png" group-title="DEPORTES",US | T-UDN USA HD
 http://live.detodotvplay.com:8080/Risario8/Pineda13/9346
-#EXTINF:-1 tvg-id="" tvg-name="US | T-UDN USA LQ" tvg-logo="https://logos.xbots.com.mx/41040.png" group-title="TV BAJA VELOCIDAD",US | T-UDN USA LQ
-http://live.detodotvplay.com:8080/Risario8/Pineda13/157421
-#EXTINF:-1 tvg-id="" tvg-name="US | T-UDN USA SD" tvg-logo="https://logos.xbots.com.mx/41040.png" group-title="DEPORTES",US | T-UDN USA SD
-http://live.detodotvplay.com:8080/Risario8/Pineda13/98
 #EXTINF:-1 tvg-id="" tvg-name="US | Telemundo 33 Sacramento KCSO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png" group-title="Latinos USA",US | Telemundo 33 Sacramento KCSO
-http://live.detodotvplay.com:8080/Risario8/Pineda13/144236
-#EXTINF:-1 tvg-id="" tvg-name="US | Telemundo 33 Sacramento KCSO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png" group-title="USA",US | Telemundo 33 Sacramento KCSO
 http://live.detodotvplay.com:8080/Risario8/Pineda13/144236
 #EXTINF:-1 tvg-id="" tvg-name="US | TELEMUNDO 40 | MCALLEN TX" tvg-logo="http://live.detodotvplay.com:8080/images/k6TjznpFmfY0qmZEzFtG4V3SfVEVFO45VnzodDVDgdIoq6dT46JJ92nO6HTjr-CEcGPMVmzgrwnwxea6lw-fL6fXKVub-eVrApQ8hAgmZuw.png" group-title="Latinos USA",US | TELEMUNDO 40 | MCALLEN TX
 http://live.detodotvplay.com:8080/Risario8/Pineda13/59706
-#EXTINF:-1 tvg-id="" tvg-name="US | TELEMUNDO 40 | MCALLEN TX" tvg-logo="http://live.detodotvplay.com:8080/images/k6TjznpFmfY0qmZEzFtG4V3SfVEVFO45VnzodDVDgdIoq6dT46JJ92nO6HTjr-CEcGPMVmzgrwnwxea6lw-fL6fXKVub-eVrApQ8hAgmZuw.png" group-title="USA",US | TELEMUNDO 40 | MCALLEN TX
-http://live.detodotvplay.com:8080/Risario8/Pineda13/59706
-#EXTINF:-1 tvg-id="" tvg-name="US | Telemundo 54 | Raleigh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Telemundo_Raleigh_2019.webp/250px-Telemundo_Raleigh_2019.webp.png" group-title="Latinos USA",US | Telemundo 54 | Raleigh
-http://live.detodotvplay.com:8080/Risario8/Pineda13/82683
-#EXTINF:-1 tvg-id="" tvg-name="US | Telemundo 54 | Raleigh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Telemundo_Raleigh_2019.webp/250px-Telemundo_Raleigh_2019.webp.png" group-title="USA",US | Telemundo 54 | Raleigh
-http://live.detodotvplay.com:8080/Risario8/Pineda13/82683
 #EXTINF:-1 tvg-id="" tvg-name="US | Telemundo Atlanta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/800px-Telemundo_logo_2018.svg.png" group-title="Latinos USA",US | Telemundo Atlanta
 http://live.detodotvplay.com:8080/Risario8/Pineda13/103621
-#EXTINF:-1 tvg-id="" tvg-name="US | Telemundo Atlanta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/800px-Telemundo_logo_2018.svg.png" group-title="USA",US | Telemundo Atlanta
-http://live.detodotvplay.com:8080/Risario8/Pineda13/103621
-#EXTINF:-1 tvg-id="" tvg-name="US | TELEMUNDO BOSTON" tvg-logo="https://download.logo.wine/logo/Telemundo/Telemundo-Logo.wine.png" group-title="Latinos USA",US | TELEMUNDO BOSTON
-http://live.detodotvplay.com:8080/Risario8/Pineda13/64204
 #EXTINF:-1 tvg-id="" tvg-name="US | Telemundo California Los Angeles" tvg-logo="http://live.detodotvplay.com:8080/images/nulSsJO1HjtWmXnGvVQLKVVsT9SBFMZ2egBEu1e7ANid5VppKAqDlZjVeueqAFJxNYmPieCzQJvkXnOXMtBlPXRYYmo1dbsgUdeOy0BzinU.png" group-title="Latinos USA",US | Telemundo California Los Angeles
 http://live.detodotvplay.com:8080/Risario8/Pineda13/33887
-#EXTINF:-1 tvg-id="" tvg-name="US | Telemundo California Los Angeles" tvg-logo="http://live.detodotvplay.com:8080/images/nulSsJO1HjtWmXnGvVQLKVVsT9SBFMZ2egBEu1e7ANid5VppKAqDlZjVeueqAFJxNYmPieCzQJvkXnOXMtBlPXRYYmo1dbsgUdeOy0BzinU.png" group-title="USA",US | Telemundo California Los Angeles
-http://live.detodotvplay.com:8080/Risario8/Pineda13/33887
-#EXTINF:-1 tvg-id="telemundowsns.us" tvg-name="US | TELEMUNDO CHICAGO" tvg-logo="https://image.roku.com/developer_channels/prod/f2d61d17cc59f38edc4d9df0f86557960d8e4e24ebea9705960ef9ff1dd4b28a.png" group-title="Latinos USA",US | TELEMUNDO CHICAGO
-http://live.detodotvplay.com:8080/Risario8/Pineda13/2008
-#EXTINF:-1 tvg-id="telemundowsns.us" tvg-name="US | TELEMUNDO CHICAGO" tvg-logo="https://image.roku.com/developer_channels/prod/f2d61d17cc59f38edc4d9df0f86557960d8e4e24ebea9705960ef9ff1dd4b28a.png" group-title="USA",US | TELEMUNDO CHICAGO
-http://live.detodotvplay.com:8080/Risario8/Pineda13/2008
 #EXTINF:-1 tvg-id="telemundokmasld.us" tvg-name="US | TELEMUNDO DENVER" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/KDEN-TV_Logo.png" group-title="Latinos USA",US | TELEMUNDO DENVER
 http://live.detodotvplay.com:8080/Risario8/Pineda13/2012
-#EXTINF:-1 tvg-id="telemundokmasld.us" tvg-name="US | TELEMUNDO DENVER" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/KDEN-TV_Logo.png" group-title="USA",US | TELEMUNDO DENVER
-http://live.detodotvplay.com:8080/Risario8/Pineda13/2012
-#EXTINF:-1 tvg-id="telemundokvda.us" tvg-name="US | Telemundo KTMD Houston" tvg-logo="http://live.detodotvplay.com:8080/images/lzTpWXIfhUczp5vjDz6dbUMsAhaAZ7nPdfPRRTwTPY9E7eqNHqhVdB-rv_JAhQBI4BiqN8_eShcU_Z2nEDnkyE44Re3z22Y_oYa_XEUXBuJU_5AxA-V5CNUT_lEq_-X4.png" group-title="Latinos USA",US | Telemundo KTMD Houston
-http://live.detodotvplay.com:8080/Risario8/Pineda13/14867
-#EXTINF:-1 tvg-id="telemundokvda.us" tvg-name="US | Telemundo KTMD Houston" tvg-logo="http://live.detodotvplay.com:8080/images/lzTpWXIfhUczp5vjDz6dbUMsAhaAZ7nPdfPRRTwTPY9E7eqNHqhVdB-rv_JAhQBI4BiqN8_eShcU_Z2nEDnkyE44Re3z22Y_oYa_XEUXBuJU_5AxA-V5CNUT_lEq_-X4.png" group-title="USA",US | Telemundo KTMD Houston
-http://live.detodotvplay.com:8080/Risario8/Pineda13/14867
-#EXTINF:-1 tvg-id="" tvg-name="US | Telemundo KTLM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/Telemundo_40_2012.png" group-title="Latinos USA",US | Telemundo KTLM
-http://live.detodotvplay.com:8080/Risario8/Pineda13/141241
-#EXTINF:-1 tvg-id="" tvg-name="US | Telemundo KTLM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/Telemundo_40_2012.png" group-title="USA",US | Telemundo KTLM
-http://live.detodotvplay.com:8080/Risario8/Pineda13/141241
 #EXTINF:-1 tvg-id="" tvg-name="US | Telemundo Laredo" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/63/33/02/63330297-a321-1a0f-2531-afefd06487e6/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" group-title="USA",US | Telemundo Laredo
 http://live.detodotvplay.com:8080/Risario8/Pineda13/77566
-#EXTINF:-1 tvg-id="" tvg-name="US | Telemundo Laredo" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/63/33/02/63330297-a321-1a0f-2531-afefd06487e6/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" group-title="Latinos USA",US | Telemundo Laredo
-http://live.detodotvplay.com:8080/Risario8/Pineda13/77566
-#EXTINF:-1 tvg-id="" tvg-name="US | TELEMUNDO LAS VEGAS" tvg-logo="https://download.logo.wine/logo/Telemundo/Telemundo-Logo.wine.png" group-title="Latinos USA",US | TELEMUNDO LAS VEGAS
-http://live.detodotvplay.com:8080/Risario8/Pineda13/64206
-#EXTINF:-1 tvg-id="" tvg-name="US | TELEMUNDO LAS VEGAS" tvg-logo="https://download.logo.wine/logo/Telemundo/Telemundo-Logo.wine.png" group-title="USA",US | TELEMUNDO LAS VEGAS
-http://live.detodotvplay.com:8080/Risario8/Pineda13/64206
-#EXTINF:-1 tvg-id="" tvg-name="US | Telemundo New Orleans KGLA-DT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Telemundo_42_New_Orleans_logo.svg/1200px-Telemundo_42_New_Orleans_logo.svg.png" group-title="Latinos USA",US | Telemundo New Orleans KGLA-DT
-http://live.detodotvplay.com:8080/Risario8/Pineda13/139898
-#EXTINF:-1 tvg-id="" tvg-name="US | Telemundo New Orleans KGLA-DT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Telemundo_42_New_Orleans_logo.svg/1200px-Telemundo_42_New_Orleans_logo.svg.png" group-title="USA",US | Telemundo New Orleans KGLA-DT
-http://live.detodotvplay.com:8080/Risario8/Pineda13/139898
-#EXTINF:-1 tvg-id="" tvg-name="US | Telemundo Newjersey" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/Telemundo.png" group-title="USA",US | Telemundo Newjersey
-http://live.detodotvplay.com:8080/Risario8/Pineda13/30685
-#EXTINF:-1 tvg-id="" tvg-name="US | Telemundo Newjersey" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/Telemundo.png" group-title="Latinos USA",US | Telemundo Newjersey
-http://live.detodotvplay.com:8080/Risario8/Pineda13/30685
 #EXTINF:-1 tvg-id="" tvg-name="US | TELEMUNDO PHOENIX" tvg-logo="https://download.logo.wine/logo/Telemundo/Telemundo-Logo.wine.png" group-title="Latinos USA",US | TELEMUNDO PHOENIX
 http://live.detodotvplay.com:8080/Risario8/Pineda13/64205
-#EXTINF:-1 tvg-id="" tvg-name="US | TELEMUNDO PHOENIX" tvg-logo="https://download.logo.wine/logo/Telemundo/Telemundo-Logo.wine.png" group-title="USA",US | TELEMUNDO PHOENIX
-http://live.detodotvplay.com:8080/Risario8/Pineda13/64205
-#EXTINF:-1 tvg-id="" tvg-name="US | TELEMUNDO SAN ANTONIO" tvg-logo="https://p.kindpng.com/picc/s/76-761413_telemundo-san-antonio-logo-hd-png-download.png" group-title="Latinos USA",US | TELEMUNDO SAN ANTONIO
-http://live.detodotvplay.com:8080/Risario8/Pineda13/64210
 #EXTINF:-1 tvg-id="" tvg-name="US | TELEMUNDO SAN DIEGO |  20 KUANLD" tvg-logo="https://image.roku.com/developer_channels/prod/8b664bbe59206d95d01f36282dc15ab229342780293897d062901e39b47621f6.png" group-title="Latinos USA",US | TELEMUNDO SAN DIEGO |  20 KUANLD
 http://live.detodotvplay.com:8080/Risario8/Pineda13/58442
-#EXTINF:-1 tvg-id="" tvg-name="US | TELEMUNDO SAN DIEGO |  20 KUANLD" tvg-logo="https://image.roku.com/developer_channels/prod/8b664bbe59206d95d01f36282dc15ab229342780293897d062901e39b47621f6.png" group-title="USA",US | TELEMUNDO SAN DIEGO |  20 KUANLD
-http://live.detodotvplay.com:8080/Risario8/Pineda13/58442
-#EXTINF:-1 tvg-id="" tvg-name="US | TELEMUNDO WISCONSIN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Telemundo_Wisconsin_%282018%29.svg/1200px-Telemundo_Wisconsin_%282018%29.svg.png" group-title="USA",US | TELEMUNDO WISCONSIN
-http://live.detodotvplay.com:8080/Risario8/Pineda13/74787
-#EXTINF:-1 tvg-id="" tvg-name="US | TELEMUNDO WISCONSIN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Telemundo_Wisconsin_%282018%29.svg/1200px-Telemundo_Wisconsin_%282018%29.svg.png" group-title="Latinos USA",US | TELEMUNDO WISCONSIN
-http://live.detodotvplay.com:8080/Risario8/Pineda13/74787
 #EXTINF:-1 tvg-id="" tvg-name="US | Tennis 2" tvg-logo="https://images-cdn2.welcomesoftware.com/assets/Tennis+Channel.png/Zz0zN2MyODZlNjQ4M2QxMWVlYjE4YmYyOTc0ZmNlODAwZA==?width=1200" group-title="USA",US | Tennis 2
 http://live.detodotvplay.com:8080/Risario8/Pineda13/156682
 #EXTINF:-1 tvg-id="" tvg-name="US | TENNIS CHANNEL" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31Xz3ftsAWL.png" group-title="DEPORTES",US | TENNIS CHANNEL
@@ -1067,33 +963,19 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/211
 http://live.detodotvplay.com:8080/Risario8/Pineda13/105455
 #EXTINF:-1 tvg-id="" tvg-name="US | THE FIGHT NETWORK" tvg-logo="http://live.detodotvplay.com:8080/images/d0qBv_KS-INV6jsoN1Bns3xtbQhVQIDY9BJ2vOAB8ZMPkqdyLYqDhy0_iB-TnrMRBSXGYzF9DiKa1ivhuo6bqFtjctDKX2HVPIKzbtDrD_Yam-sFPCYtiEsYKjvLZTUawCyv5uQ-3CeN_NshSnEJKf_jT4Gk5lSWJRwSL9fxyWw.png" group-title="USA",US | THE FIGHT NETWORK
 http://live.detodotvplay.com:8080/Risario8/Pineda13/64193
-#EXTINF:-1 tvg-id="" tvg-name="US | THE GOLF CHANNEL" tvg-logo="http://live.detodotvplay.com:8080/images/d0qBv_KS-INV6jsoN1Bns3xtbQhVQIDY9BJ2vOAB8ZMPkqdyLYqDhy0_iB-TnrMR2xhbSBInC7hQnlHgR-u1Smjv3I7FNeg-OkdtF0eItO-QsKjMf_W-17FsKQqnUzXw3LURKK4e5KL1Gcnygg2ZNw.png" group-title="USA",US | THE GOLF CHANNEL
-http://live.detodotvplay.com:8080/Risario8/Pineda13/64266
-#EXTINF:-1 tvg-id="" tvg-name="US | THE WEATHER CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="USA",US | THE WEATHER CHANNEL
-http://live.detodotvplay.com:8080/Risario8/Pineda13/64364
-#EXTINF:-1 tvg-id="" tvg-name="US | THE WEATHER CHANNEL (ESP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="USA",US | THE WEATHER CHANNEL (ESP)
-http://live.detodotvplay.com:8080/Risario8/Pineda13/368595
 #EXTINF:-1 tvg-id="tlc.us" tvg-name="US | TLC USA" tvg-logo="https://logos.xbots.com.mx/2197.png" group-title="USA",US | TLC USA
 http://live.detodotvplay.com:8080/Risario8/Pineda13/2014
 #EXTINF:-1 tvg-id="" tvg-name="US | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png" group-title="USA",US | TNT
 http://live.detodotvplay.com:8080/Risario8/Pineda13/28354
-#EXTINF:-1 tvg-id="" tvg-name="US | TNT EAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="USA",US | TNT EAST
-http://live.detodotvplay.com:8080/Risario8/Pineda13/52008
 #EXTINF:-1 tvg-id="" tvg-name="US | TRAVEL CHANNEL HD" tvg-logo="http://live.detodotvplay.com:8080/images/d0qBv_KS-INV6jsoN1Bns3xtbQhVQIDY9BJ2vOAB8ZMPkqdyLYqDhy0_iB-TnrMRU8RVymCNJ6twZA4MRqyfbOUh3rvwzVH-UV_dbAS-FGMBNn8o3XPfs9Frs80Q2yV0Gb0GaAwnXU36CWU2_XVkooqH-TGPzTGxfRohdOzpC08.png" group-title="USA",US | TRAVEL CHANNEL HD
 http://live.detodotvplay.com:8080/Risario8/Pineda13/64212
 #EXTINF:-1 tvg-id="" tvg-name="US | TV LAND" tvg-logo="http://live.detodotvplay.com:8080/images/d0qBv_KS-INV6jsoN1Bns3xtbQhVQIDY9BJ2vOAB8ZMPkqdyLYqDhy0_iB-TnrMRYxTLD2C7osaklit3mJzHj3dpvz6n8Q33iMFLj9wGjQzwsMpShrjnyi4jU1oPerpJ3xc25ri62Hs-JYRk90qIlZ3lZj8BqaKdRDg318J9k9I.png" group-title="USA",US | TV LAND
 http://live.detodotvplay.com:8080/Risario8/Pineda13/64211
 #EXTINF:-1 tvg-id="" tvg-name="US | U-vision 48 | KNVO  Mcallen TX" tvg-logo="http://live.detodotvplay.com:8080/images/adbe00079c3a19fbf2c3a5059957038e.png" group-title="Latinos USA",US | U-vision 48 | KNVO  Mcallen TX
 http://live.detodotvplay.com:8080/Risario8/Pineda13/59707
-#EXTINF:-1 tvg-id="" tvg-name="US | U-vision 48 | KNVO  Mcallen TX" tvg-logo="http://live.detodotvplay.com:8080/images/adbe00079c3a19fbf2c3a5059957038e.png" group-title="USA",US | U-vision 48 | KNVO  Mcallen TX
-http://live.detodotvplay.com:8080/Risario8/Pineda13/59707
 #EXTINF:-1 tvg-id="" tvg-name="US | U-vision KTVW Phoenix" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="Latinos USA",US | U-vision KTVW Phoenix
 http://live.detodotvplay.com:8080/Risario8/Pineda13/64207
-#EXTINF:-1 tvg-id="" tvg-name="US | U-vision KTVW Phoenix" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="USA",US | U-vision KTVW Phoenix
-http://live.detodotvplay.com:8080/Risario8/Pineda13/64207
 #EXTINF:-1 tvg-id="" tvg-name="US | U-vision LA 34 | KMEX" tvg-logo="http://live.detodotvplay.com:8080/images/nulSsJO1HjtWmXnGvVQLKVVsT9SBFMZ2egBEu1e7ANjg6lkiSqEO6HXwNGRYfgk4bDDPZxN36nvfLd4YZ8j6UtW-6Aj1PNvU2f_fsT3eenc.png" group-title="Latinos USA",US | U-vision LA 34 | KMEX
-http://live.detodotvplay.com:8080/Risario8/Pineda13/30370
-#EXTINF:-1 tvg-id="" tvg-name="US | U-vision LA 34 | KMEX" tvg-logo="http://live.detodotvplay.com:8080/images/nulSsJO1HjtWmXnGvVQLKVVsT9SBFMZ2egBEu1e7ANjg6lkiSqEO6HXwNGRYfgk4bDDPZxN36nvfLd4YZ8j6UtW-6Aj1PNvU2f_fsT3eenc.png" group-title="USA",US | U-vision LA 34 | KMEX
 http://live.detodotvplay.com:8080/Risario8/Pineda13/30370
 #EXTINF:-1 tvg-id="" tvg-name="US | U-vision Seattle" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7c/Univision_Seattle_2019_logo.png" group-title="USA",US | U-vision Seattle
 http://live.detodotvplay.com:8080/Risario8/Pineda13/82685
@@ -1117,8 +999,6 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/297714
 http://live.detodotvplay.com:8080/Risario8/Pineda13/78836
 #EXTINF:-1 tvg-id="" tvg-name="US | Ultra Mex" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraMexLogoBlack.png" group-title="USA",US | Ultra Mex
 http://live.detodotvplay.com:8080/Risario8/Pineda13/78838
-#EXTINF:-1 tvg-id="universalkids.us" tvg-name="US | UNIVERSAL KIDS" tvg-logo="https://logos.xbots.com.mx/41034.png" group-title="USA",US | UNIVERSAL KIDS
-http://live.detodotvplay.com:8080/Risario8/Pineda13/31125
 #EXTINF:-1 tvg-id="" tvg-name="US | USA NETWORK" tvg-logo="https://i0.wp.com/www.jentel.mx/wp-content/uploads/2023/08/usa-network-logo-e1692825940934.png" group-title="USA",US | USA NETWORK
 http://live.detodotvplay.com:8080/Risario8/Pineda13/20902
 #EXTINF:-1 tvg-id="" tvg-name="US | VH1" tvg-logo="http://live.detodotvplay.com:8080/images/ymJLI381c5-qpiCXh2faOXJCalUqj1JUMLrkz-HQJPVK1Ld8cWwz-__LIhLN4fHWYC61BRnT2w1FJe2qKxDulQ.png" group-title="USA",US | VH1
@@ -1135,8 +1015,6 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/64209
 http://live.detodotvplay.com:8080/Risario8/Pineda13/4954
 #EXTINF:-1 tvg-id="telemundokxtx.us" tvg-name="US: TELEMUNDO DALLAS" tvg-logo="https://www.nicepng.com/png/full/190-1907846_telemundo-logo-png-telemundo-dallas.png" group-title="USA",US: TELEMUNDO DALLAS
 http://live.detodotvplay.com:8080/Risario8/Pineda13/2018
-#EXTINF:-1 tvg-id="telemundokxtx.us" tvg-name="US: TELEMUNDO DALLAS" tvg-logo="https://www.nicepng.com/png/full/190-1907846_telemundo-logo-png-telemundo-dallas.png" group-title="Latinos USA",US: TELEMUNDO DALLAS
-http://live.detodotvplay.com:8080/Risario8/Pineda13/2018
 #EXTINF:-1 tvg-id="" tvg-name="USA | 5 STARMAX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/5starMax_2011.svg/revision/latest/scale-to-width-down/300?cb=20201110161556&path-prefix=es" group-title="USA",USA | 5 STARMAX
 http://live.detodotvplay.com:8080/Risario8/Pineda13/62246
 #EXTINF:-1 tvg-id="" tvg-name="USA | ACC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/1280px-ACC_Network_ESPN_logo.svg.png" group-title="USA",USA | ACC Network
@@ -1151,68 +1029,6 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/63923
 http://live.detodotvplay.com:8080/Risario8/Pineda13/320
 #EXTINF:-1 tvg-id="aspiretv.us" tvg-name="USA | Aspire TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Aspire_tv.png" group-title="USA",USA | Aspire TV
 http://live.detodotvplay.com:8080/Risario8/Pineda13/109382
-#EXTINF:-1 tvg-id="atandtsportsnetpittsburgh.us" tvg-name="USA | AT&T SportsNet Pitsburgh" tvg-logo="http://live.detodotvplay.com:8080/images/MmZcIE8pcnoRi93NoNkz_aDdi0Rf2f1YhaCUEVje2J80zu9fTxOoJsTuyowL6jA-b8GPawSDaN9DP9WHPv3vy3s9t_PWfM5w6KJ6cp2pitOIC_kM8DLq-abcD9vEiVoj6EpKAjdHo6J0w3qZC-XSdw.png" group-title="USA",USA | AT&T SportsNet Pitsburgh
-http://live.detodotvplay.com:8080/Risario8/Pineda13/111695
-#EXTINF:-1 tvg-id="atandtsportsnetsouthwest.us" tvg-name="USA | AT&T SportsNet Southwest" tvg-logo="http://live.detodotvplay.com:8080/images/MmZcIE8pcnoRi93NoNkz_aDdi0Rf2f1YhaCUEVje2J80zu9fTxOoJsTuyowL6jA-b8GPawSDaN9DP9WHPv3vy85bQTluV7Z6umxv3VAjZ5hhKl0IYOwLZkm5JhtYfY4XCpjzfc_FqYCiEun-Eq2MaQ.png" group-title="USA",USA | AT&T SportsNet Southwest
-http://live.detodotvplay.com:8080/Risario8/Pineda13/65870
-#EXTINF:-1 tvg-id="" tvg-name="USA | Bally New Orleans Plus" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-new-orleans-plus-us.png" group-title="USA",USA | Bally New Orleans Plus
-http://live.detodotvplay.com:8080/Risario8/Pineda13/93919
-#EXTINF:-1 tvg-id="" tvg-name="USA | Bally South plus" tvg-logo="http://live.detodotvplay.com:8080/images/1dafc83cd50169f7005443f7a71173fd.png" group-title="USA",USA | Bally South plus
-http://live.detodotvplay.com:8080/Risario8/Pineda13/93920
-#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports Detroit" tvg-logo="http://live.detodotvplay.com:8080/images/c72bfa33fb307c26bbb2b3e8c87c5db1.png" group-title="USA",USA | Bally Sports Detroit
-http://live.detodotvplay.com:8080/Risario8/Pineda13/63638
-#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports Detroit Plus" tvg-logo="http://live.detodotvplay.com:8080/images/c72bfa33fb307c26bbb2b3e8c87c5db1.png" group-title="USA",USA | Bally Sports Detroit Plus
-http://live.detodotvplay.com:8080/Risario8/Pineda13/93922
-#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports Florida" tvg-logo="http://live.detodotvplay.com:8080/images/c72bfa33fb307c26bbb2b3e8c87c5db1.png" group-title="USA",USA | Bally Sports Florida
-http://live.detodotvplay.com:8080/Risario8/Pineda13/63639
-#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports Great Lakes" tvg-logo="http://live.detodotvplay.com:8080/images/c72bfa33fb307c26bbb2b3e8c87c5db1.png" group-title="USA",USA | Bally Sports Great Lakes
-http://live.detodotvplay.com:8080/Risario8/Pineda13/63640
-#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports Indiana" tvg-logo="http://live.detodotvplay.com:8080/images/c72bfa33fb307c26bbb2b3e8c87c5db1.png" group-title="USA",USA | Bally Sports Indiana
-http://live.detodotvplay.com:8080/Risario8/Pineda13/63641
-#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports Kansas City" tvg-logo="http://live.detodotvplay.com:8080/images/c72bfa33fb307c26bbb2b3e8c87c5db1.png" group-title="USA",USA | Bally Sports Kansas City
-http://live.detodotvplay.com:8080/Risario8/Pineda13/63642
-#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports Kansas City Plus" tvg-logo="http://live.detodotvplay.com:8080/images/c72bfa33fb307c26bbb2b3e8c87c5db1.png" group-title="USA",USA | Bally Sports Kansas City Plus
-http://live.detodotvplay.com:8080/Risario8/Pineda13/93923
-#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports MidWest" tvg-logo="http://live.detodotvplay.com:8080/images/c72bfa33fb307c26bbb2b3e8c87c5db1.png" group-title="USA",USA | Bally Sports MidWest
-http://live.detodotvplay.com:8080/Risario8/Pineda13/63643
-#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports Midwest Plus" tvg-logo="http://live.detodotvplay.com:8080/images/c72bfa33fb307c26bbb2b3e8c87c5db1.png" group-title="USA",USA | Bally Sports Midwest Plus
-http://live.detodotvplay.com:8080/Risario8/Pineda13/93924
-#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports New Orleans" tvg-logo="http://live.detodotvplay.com:8080/images/c72bfa33fb307c26bbb2b3e8c87c5db1.png" group-title="USA",USA | Bally Sports New Orleans
-http://live.detodotvplay.com:8080/Risario8/Pineda13/63644
-#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports North" tvg-logo="http://live.detodotvplay.com:8080/images/c72bfa33fb307c26bbb2b3e8c87c5db1.png" group-title="USA",USA | Bally Sports North
-http://live.detodotvplay.com:8080/Risario8/Pineda13/63645
-#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports North Plus" tvg-logo="http://live.detodotvplay.com:8080/images/c72bfa33fb307c26bbb2b3e8c87c5db1.png" group-title="USA",USA | Bally Sports North Plus
-http://live.detodotvplay.com:8080/Risario8/Pineda13/63646
-#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports Ohio" tvg-logo="http://live.detodotvplay.com:8080/images/c72bfa33fb307c26bbb2b3e8c87c5db1.png" group-title="USA",USA | Bally Sports Ohio
-http://live.detodotvplay.com:8080/Risario8/Pineda13/63647
-#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports Ohio Plus" tvg-logo="http://live.detodotvplay.com:8080/images/c72bfa33fb307c26bbb2b3e8c87c5db1.png" group-title="USA",USA | Bally Sports Ohio Plus
-http://live.detodotvplay.com:8080/Risario8/Pineda13/93925
-#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports Oklahoma" tvg-logo="http://live.detodotvplay.com:8080/images/c72bfa33fb307c26bbb2b3e8c87c5db1.png" group-title="USA",USA | Bally Sports Oklahoma
-http://live.detodotvplay.com:8080/Risario8/Pineda13/63648
-#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports Oklahoma Plus" tvg-logo="http://live.detodotvplay.com:8080/images/c72bfa33fb307c26bbb2b3e8c87c5db1.png" group-title="USA",USA | Bally Sports Oklahoma Plus
-http://live.detodotvplay.com:8080/Risario8/Pineda13/93926
-#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports SoCal" tvg-logo="http://live.detodotvplay.com:8080/images/71584b04f15b22dcce0447673a00a813.png" group-title="USA",USA | Bally Sports SoCal
-http://live.detodotvplay.com:8080/Risario8/Pineda13/111691
-#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports South" tvg-logo="http://live.detodotvplay.com:8080/images/c72bfa33fb307c26bbb2b3e8c87c5db1.png" group-title="USA",USA | Bally Sports South
-http://live.detodotvplay.com:8080/Risario8/Pineda13/63651
-#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports SouthEast" tvg-logo="http://live.detodotvplay.com:8080/images/c72bfa33fb307c26bbb2b3e8c87c5db1.png" group-title="USA",USA | Bally Sports SouthEast
-http://live.detodotvplay.com:8080/Risario8/Pineda13/63652
-#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports Southwest" tvg-logo="http://live.detodotvplay.com:8080/images/99c4a598201a116684c7e8fb1e8017bf.png" group-title="USA",USA | Bally Sports Southwest
-http://live.detodotvplay.com:8080/Risario8/Pineda13/108111
-#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports Southwest Plus" tvg-logo="http://live.detodotvplay.com:8080/images/c72bfa33fb307c26bbb2b3e8c87c5db1.png" group-title="USA",USA | Bally Sports Southwest Plus
-http://live.detodotvplay.com:8080/Risario8/Pineda13/93928
-#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports Sun" tvg-logo="http://live.detodotvplay.com:8080/images/c72bfa33fb307c26bbb2b3e8c87c5db1.png" group-title="USA",USA | Bally Sports Sun
-http://live.detodotvplay.com:8080/Risario8/Pineda13/63654
-#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports West" tvg-logo="http://live.detodotvplay.com:8080/images/c72bfa33fb307c26bbb2b3e8c87c5db1.png" group-title="USA",USA | Bally Sports West
-http://live.detodotvplay.com:8080/Risario8/Pineda13/63655
-#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports Wisconsin" tvg-logo="http://live.detodotvplay.com:8080/images/c72bfa33fb307c26bbb2b3e8c87c5db1.png" group-title="USA",USA | Bally Sports Wisconsin
-http://live.detodotvplay.com:8080/Risario8/Pineda13/63656
-#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports Wisconsin Plus" tvg-logo="http://live.detodotvplay.com:8080/images/c72bfa33fb307c26bbb2b3e8c87c5db1.png" group-title="USA",USA | Bally Sports Wisconsin Plus
-http://live.detodotvplay.com:8080/Risario8/Pineda13/93929
-#EXTINF:-1 tvg-id="" tvg-name="USA | BBC America" tvg-logo="http://live.detodotvplay.com:8080/images/7ed698503a56d4b5a27c62c5918596ae.png" group-title="USA",USA | BBC America
-http://live.detodotvplay.com:8080/Risario8/Pineda13/63925
-#EXTINF:-1 tvg-id="bbcworldnewsnorthamerica.us" tvg-name="USA | BBC World News" tvg-logo="https://newsweekespanol.com/wp-content/uploads/2018/12/bbc_news_logo.png" group-title="USA",USA | BBC World News
-http://live.detodotvplay.com:8080/Risario8/Pineda13/63926
 #EXTINF:-1 tvg-id="" tvg-name="USA | BET HER" tvg-logo="http://live.detodotvplay.com:8080/images/pBsT05M_lLIvBp6cblvRDiZ-ReysLZla3eLLgnnH3ZXSOPhr3BqIgdZSWvfhjHDFxDFQf6pd2Axuyqlgv4nAmqEkpjyQ2ihgLQI5DZ2jgXLM3EC_ui4TYSPQtWGnEdnxRtNmldRCCkqC5u0Pg8ASa6Exx_mrOFKA1O2FJD-7g_Q.png" group-title="USA",USA | BET HER
 http://live.detodotvplay.com:8080/Risario8/Pineda13/64055
 #EXTINF:-1 tvg-id="" tvg-name="USA | Bet Jams" tvg-logo="http://live.detodotvplay.com:8080/images/d0qBv_KS-INV6jsoN1Bns3xtbQhVQIDY9BJ2vOAB8ZPCECNt0AYH3wMrB9pTsRQLRnMr9x3iU89hHkJZAD9yd_R2wdR-QpUdigab94YIDJFgz12mU7Expc_7mxnwmfhd.png" group-title="USA",USA | Bet Jams
@@ -1231,10 +1047,6 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/63930
 http://live.detodotvplay.com:8080/Risario8/Pineda13/315
 #EXTINF:-1 tvg-id="cmt.us" tvg-name="USA | CMT" tvg-logo="http://live.detodotvplay.com:8080/images/a40f72b89fc05bd01905ede14140615f.png" group-title="USA",USA | CMT
 http://live.detodotvplay.com:8080/Risario8/Pineda13/63929
-#EXTINF:-1 tvg-id="" tvg-name="USA | CNBC World" tvg-logo="http://live.detodotvplay.com:8080/images/d0qBv_KS-INV6jsoN1Bns3xtbQhVQIDY9BJ2vOAB8ZMJ1C6QUldUlzFAsvUMZZFnB9z3LArnsL-iPxv9iWdjsN0yqDV2f-bYRI_EEzR9RU9fdOB52Q1ZCHpZC16aak5k.png" group-title="USA",USA | CNBC World
-http://live.detodotvplay.com:8080/Risario8/Pineda13/62248
-#EXTINF:-1 tvg-id="cnnespanol.us" tvg-name="USA | CNN USA" tvg-logo="https://www.pngfind.com/pngs/m/403-4038847_cnn-international-logo-png-cnn-logo-eps-transparent.png" group-title="NOTICIAS",USA | CNN USA
-http://live.detodotvplay.com:8080/Risario8/Pineda13/4499
 #EXTINF:-1 tvg-id="" tvg-name="USA | Comet" tvg-logo="http://live.detodotvplay.com:8080/images/nulSsJO1HjtWmXnGvVQLKVVsT9SBFMZ2egBEu1e7ANi1MXXaaoZlJSd4kzEQ19H0FIS3FKnUQ0JmypR4gJMn3tMPTXL6c9xdaISRK-8scRI.png" group-title="USA",USA | Comet
 http://live.detodotvplay.com:8080/Risario8/Pineda13/63928
 #EXTINF:-1 tvg-id="" tvg-name="USA | CW-KIAH" tvg-logo="https://static.wikia.nocookie.net/annex/images/6/67/KIAH-logo.png/revision/latest?cb=20110410214356" group-title="USA",USA | CW-KIAH
@@ -1273,8 +1085,6 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/326
 http://live.detodotvplay.com:8080/Risario8/Pineda13/325
 #EXTINF:-1 tvg-id="galavision.us" tvg-name="USA | GALAVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="Latinos USA",USA | GALAVISION
 http://live.detodotvplay.com:8080/Risario8/Pineda13/104
-#EXTINF:-1 tvg-id="galavision.us" tvg-name="USA | GALAVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="USA",USA | GALAVISION
-http://live.detodotvplay.com:8080/Risario8/Pineda13/104
 #EXTINF:-1 tvg-id="" tvg-name="USA | Game Show Network" tvg-logo="http://live.detodotvplay.com:8080/images/d0qBv_KS-INV6jsoN1Bns3xtbQhVQIDY9BJ2vOAB8ZMPkqdyLYqDhy0_iB-TnrMROtRMQUa-Xy8kpZrfpcaJSdoYj3_IG0QuNvOJaZXlwaWWUq4swDw0pQIRhB861JzNji9rKTvjhWJ7Vqq34417GLh8aWtc6ZqeQi0QCR5CwHA.png" group-title="USA",USA | Game Show Network
 http://live.detodotvplay.com:8080/Risario8/Pineda13/62250
 #EXTINF:-1 tvg-id="" tvg-name="USA | GOL TV Eng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="USA",USA | GOL TV Eng
@@ -1305,10 +1115,6 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/2009
 http://live.detodotvplay.com:8080/Risario8/Pineda13/33885
 #EXTINF:-1 tvg-id="" tvg-name="USA | Logo TV" tvg-logo="http://live.detodotvplay.com:8080/images/nulSsJO1HjtWmXnGvVQLKVVsT9SBFMZ2egBEu1e7ANiEIq1QTLgXNufOj6woBo5D-xRBzkMZBKUSsDcp4VxhVriUeZSHO_j84YaboC3yFwU.png" group-title="USA",USA | Logo TV
 http://live.detodotvplay.com:8080/Risario8/Pineda13/63935
-#EXTINF:-1 tvg-id="" tvg-name="USA | MASN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e5/MASN-Logo.png" group-title="USA",USA | MASN
-http://live.detodotvplay.com:8080/Risario8/Pineda13/130262
-#EXTINF:-1 tvg-id="" tvg-name="USA | MASN 2" tvg-logo="https://adma.tmsimg.com/assets/s55433_ll_h9_aa.png" group-title="USA",USA | MASN 2
-http://live.detodotvplay.com:8080/Risario8/Pineda13/130263
 #EXTINF:-1 tvg-id="" tvg-name="USA | MoreMax" tvg-logo="http://live.detodotvplay.com:8080/images/b0288019be44bf4326b182bddff3be49.png" group-title="USA",USA | MoreMax
 http://live.detodotvplay.com:8080/Risario8/Pineda13/64774
 #EXTINF:-1 tvg-id="moviemax.us" tvg-name="USA | MovieMax" tvg-logo="http://live.detodotvplay.com:8080/images/98fb9b48ec3662e678a0a21cc024965f.png" group-title="USA",USA | MovieMax
@@ -1329,142 +1135,30 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/111129
 http://live.detodotvplay.com:8080/Risario8/Pineda13/2016
 #EXTINF:-1 tvg-id="" tvg-name="USA | Now | GALAVISIóN ALBUQUERQUE SANTA FE" tvg-logo="http://live.detodotvplay.com:8080/images/1abda7c4e61fa91e60b3a01e73e9790d.png" group-title="Latinos USA",USA | Now | GALAVISIóN ALBUQUERQUE SANTA FE
 http://live.detodotvplay.com:8080/Risario8/Pineda13/76563
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | GALAVISIóN ALBUQUERQUE SANTA FE" tvg-logo="http://live.detodotvplay.com:8080/images/1abda7c4e61fa91e60b3a01e73e9790d.png" group-title="USA",USA | Now | GALAVISIóN ALBUQUERQUE SANTA FE
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76563
 #EXTINF:-1 tvg-id="" tvg-name="USA | Now | GALAVISIóN ATLANTA" tvg-logo="http://live.detodotvplay.com:8080/images/c388c242c79f90d2faa6ea5a561bb9e9.png" group-title="Latinos USA",USA | Now | GALAVISIóN ATLANTA
 http://live.detodotvplay.com:8080/Risario8/Pineda13/76564
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | GALAVISIóN ATLANTA" tvg-logo="http://live.detodotvplay.com:8080/images/c388c242c79f90d2faa6ea5a561bb9e9.png" group-title="USA",USA | Now | GALAVISIóN ATLANTA
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76564
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | GALAVISIóN AUSTIN" tvg-logo="http://live.detodotvplay.com:8080/images/074aad96a5ed0ce5d5ecce5817b634ad.png" group-title="Latinos USA",USA | Now | GALAVISIóN AUSTIN
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76565
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | GALAVISIóN AUSTIN" tvg-logo="http://live.detodotvplay.com:8080/images/074aad96a5ed0ce5d5ecce5817b634ad.png" group-title="USA",USA | Now | GALAVISIóN AUSTIN
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76565
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | GALAVISIóN CLEVELAND" tvg-logo="http://live.detodotvplay.com:8080/images/e6b0612c0b621a848c0792cf5fdf956c.png" group-title="Latinos USA",USA | Now | GALAVISIóN CLEVELAND
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76567
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | GALAVISIóN CLEVELAND" tvg-logo="http://live.detodotvplay.com:8080/images/e6b0612c0b621a848c0792cf5fdf956c.png" group-title="USA",USA | Now | GALAVISIóN CLEVELAND
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76567
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | GALAVISIóN DALLAS" tvg-logo="http://live.detodotvplay.com:8080/images/78b48f4d9cd735474a28e122132a36d1.png" group-title="Latinos USA",USA | Now | GALAVISIóN DALLAS
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76568
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | GALAVISIóN DALLAS" tvg-logo="http://live.detodotvplay.com:8080/images/78b48f4d9cd735474a28e122132a36d1.png" group-title="USA",USA | Now | GALAVISIóN DALLAS
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76568
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | GALAVISIóN FRESNO" tvg-logo="http://live.detodotvplay.com:8080/images/2c379236497d21cf57e0720fb496e300.png" group-title="Latinos USA",USA | Now | GALAVISIóN FRESNO
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76570
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | GALAVISIóN FRESNO" tvg-logo="http://live.detodotvplay.com:8080/images/2c379236497d21cf57e0720fb496e300.png" group-title="USA",USA | Now | GALAVISIóN FRESNO
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76570
 #EXTINF:-1 tvg-id="" tvg-name="USA | Now | GALAVISIóN HOUSTON" tvg-logo="http://live.detodotvplay.com:8080/images/0539dfd5b40aee1fdce8be923982be20.png" group-title="Latinos USA",USA | Now | GALAVISIóN HOUSTON
 http://live.detodotvplay.com:8080/Risario8/Pineda13/76571
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | GALAVISIóN HOUSTON" tvg-logo="http://live.detodotvplay.com:8080/images/0539dfd5b40aee1fdce8be923982be20.png" group-title="USA",USA | Now | GALAVISIóN HOUSTON
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76571
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | GALAVISIóN LA" tvg-logo="http://live.detodotvplay.com:8080/images/434fc3232f448901bbca09d1106baeb6.png" group-title="Latinos USA",USA | Now | GALAVISIóN LA
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76572
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | GALAVISIóN LA" tvg-logo="http://live.detodotvplay.com:8080/images/434fc3232f448901bbca09d1106baeb6.png" group-title="USA",USA | Now | GALAVISIóN LA
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76572
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | GALAVISIóN LAS VEGAS" tvg-logo="http://live.detodotvplay.com:8080/images/637b14fec69c1c89563f3b4196b8eebe.png" group-title="Latinos USA",USA | Now | GALAVISIóN LAS VEGAS
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76573
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | GALAVISIóN LAS VEGAS" tvg-logo="http://live.detodotvplay.com:8080/images/637b14fec69c1c89563f3b4196b8eebe.png" group-title="USA",USA | Now | GALAVISIóN LAS VEGAS
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76573
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | GALAVISIóN MIAMI" tvg-logo="http://live.detodotvplay.com:8080/images/1d4f62e2dccb34448c697c83f6033dc9.png" group-title="Latinos USA",USA | Now | GALAVISIóN MIAMI
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76574
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | GALAVISIóN MIAMI" tvg-logo="http://live.detodotvplay.com:8080/images/1d4f62e2dccb34448c697c83f6033dc9.png" group-title="USA",USA | Now | GALAVISIóN MIAMI
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76574
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | GALAVISIóN NY" tvg-logo="http://live.detodotvplay.com:8080/images/747ce1379c3332219c372af1ec06ecab.png" group-title="Latinos USA",USA | Now | GALAVISIóN NY
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76575
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | GALAVISIóN NY" tvg-logo="http://live.detodotvplay.com:8080/images/747ce1379c3332219c372af1ec06ecab.png" group-title="USA",USA | Now | GALAVISIóN NY
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76575
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | GALAVISIóN PHILADELPHIA" tvg-logo="http://live.detodotvplay.com:8080/images/06641d1908b6dfcb710594724b6fe25b.png" group-title="Latinos USA",USA | Now | GALAVISIóN PHILADELPHIA
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76576
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | GALAVISIóN PHILADELPHIA" tvg-logo="http://live.detodotvplay.com:8080/images/06641d1908b6dfcb710594724b6fe25b.png" group-title="USA",USA | Now | GALAVISIóN PHILADELPHIA
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76576
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | GALAVISIóN PHOENIX" tvg-logo="http://live.detodotvplay.com:8080/images/edea9e8feef1dc3c5f66e48f335c2192.png" group-title="Latinos USA",USA | Now | GALAVISIóN PHOENIX
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76577
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | GALAVISIóN PHOENIX" tvg-logo="http://live.detodotvplay.com:8080/images/edea9e8feef1dc3c5f66e48f335c2192.png" group-title="USA",USA | Now | GALAVISIóN PHOENIX
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76577
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | GALAVISIóN RALEIGH" tvg-logo="http://live.detodotvplay.com:8080/images/e12e75a5d212a6da54cab5af65badf7d.png" group-title="Latinos USA",USA | Now | GALAVISIóN RALEIGH
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76578
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | GALAVISIóN RALEIGH" tvg-logo="http://live.detodotvplay.com:8080/images/e12e75a5d212a6da54cab5af65badf7d.png" group-title="USA",USA | Now | GALAVISIóN RALEIGH
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76578
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | GALAVISIóN SACRAMENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="Latinos USA",USA | Now | GALAVISIóN SACRAMENTO
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76579
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | GALAVISIóN SACRAMENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="USA",USA | Now | GALAVISIóN SACRAMENTO
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76579
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | GALAVISIóN SALT LAKE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="Latinos USA",USA | Now | GALAVISIóN SALT LAKE
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76580
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | GALAVISIóN SALT LAKE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="USA",USA | Now | GALAVISIóN SALT LAKE
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76580
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | GALAVISIóN SAN ANTONIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="Latinos USA",USA | Now | GALAVISIóN SAN ANTONIO
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76581
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | GALAVISIóN SAN ANTONIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="USA",USA | Now | GALAVISIóN SAN ANTONIO
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76581
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | GALAVISIóN SAN FRANCISCO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="Latinos USA",USA | Now | GALAVISIóN SAN FRANCISCO
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76582
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | GALAVISIóN SAN FRANCISCO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="USA",USA | Now | GALAVISIóN SAN FRANCISCO
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76582
 #EXTINF:-1 tvg-id="" tvg-name="USA | Now | UNIMAS ALBUQUERQUE SANTA FE" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/unimas_c.png" group-title="Latinos USA",USA | Now | UNIMAS ALBUQUERQUE SANTA FE
 http://live.detodotvplay.com:8080/Risario8/Pineda13/76542
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | UNIMAS ALBUQUERQUE SANTA FE" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/unimas_c.png" group-title="USA",USA | Now | UNIMAS ALBUQUERQUE SANTA FE
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76542
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | UNIMAS AUSTIN | KTFO" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/unimas_c.png" group-title="Latinos USA",USA | Now | UNIMAS AUSTIN | KTFO
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76555
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | UNIMAS AUSTIN | KTFO" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/unimas_c.png" group-title="USA",USA | Now | UNIMAS AUSTIN | KTFO
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76555
 #EXTINF:-1 tvg-id="" tvg-name="USA | Now | UNIMAS CLEVELAND | WQHS" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/unimas_c.png" group-title="Latinos USA",USA | Now | UNIMAS CLEVELAND | WQHS
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76550
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | UNIMAS CLEVELAND | WQHS" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/unimas_c.png" group-title="USA",USA | Now | UNIMAS CLEVELAND | WQHS
 http://live.detodotvplay.com:8080/Risario8/Pineda13/76550
 #EXTINF:-1 tvg-id="" tvg-name="USA | Now | UNIMAS FRESNO | KTFF" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/unimas_c.png" group-title="Latinos USA",USA | Now | UNIMAS FRESNO | KTFF
 http://live.detodotvplay.com:8080/Risario8/Pineda13/76545
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | UNIMAS FRESNO | KTFF" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/unimas_c.png" group-title="USA",USA | Now | UNIMAS FRESNO | KTFF
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76545
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | UNIMAS HOUSTON" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/unimas_c.png" group-title="Latinos USA",USA | Now | UNIMAS HOUSTON
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76559
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | UNIMAS HOUSTON" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/unimas_c.png" group-title="USA",USA | Now | UNIMAS HOUSTON
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76559
 #EXTINF:-1 tvg-id="" tvg-name="USA | Now | UNIMAS LAS VEGAS | KELV" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/unimas_c.png" group-title="Latinos USA",USA | Now | UNIMAS LAS VEGAS | KELV
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76554
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | UNIMAS LAS VEGAS | KELV" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/unimas_c.png" group-title="USA",USA | Now | UNIMAS LAS VEGAS | KELV
 http://live.detodotvplay.com:8080/Risario8/Pineda13/76554
 #EXTINF:-1 tvg-id="" tvg-name="USA | Now | UNIMAS MIAMI | WAMI" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/unimas_c.png" group-title="Latinos USA",USA | Now | UNIMAS MIAMI | WAMI
 http://live.detodotvplay.com:8080/Risario8/Pineda13/76557
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | UNIMAS MIAMI | WAMI" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/unimas_c.png" group-title="USA",USA | Now | UNIMAS MIAMI | WAMI
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76557
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | UNIMAS NY | WFUT" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/unimas_c.png" group-title="Latinos USA",USA | Now | UNIMAS NY | WFUT
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76561
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | UNIMAS NY | WFUT" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/unimas_c.png" group-title="USA",USA | Now | UNIMAS NY | WFUT
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76561
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | UNIMAS PHOENIX | KFPH" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/unimas_c.png" group-title="Latinos USA",USA | Now | UNIMAS PHOENIX | KFPH
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76548
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | UNIMAS PHOENIX | KFPH" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/unimas_c.png" group-title="USA",USA | Now | UNIMAS PHOENIX | KFPH
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76548
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | UNIMAS RALEIGH WTNC" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/unimas_c.png" group-title="Latinos USA",USA | Now | UNIMAS RALEIGH WTNC
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76546
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | UNIMAS RALEIGH WTNC" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/unimas_c.png" group-title="USA",USA | Now | UNIMAS RALEIGH WTNC
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76546
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | UNIMAS SACRAMENTO | KTFK" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/unimas_c.png" group-title="Latinos USA",USA | Now | UNIMAS SACRAMENTO | KTFK
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76549
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | UNIMAS SACRAMENTO | KTFK" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/unimas_c.png" group-title="USA",USA | Now | UNIMAS SACRAMENTO | KTFK
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76549
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | Unimas Salt Lake | KUTH" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/unimas_c.png" group-title="Latinos USA",USA | Now | Unimas Salt Lake | KUTH
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76551
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | Unimas Salt Lake | KUTH" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/unimas_c.png" group-title="USA",USA | Now | Unimas Salt Lake | KUTH
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76551
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | UNIMAS SAN ANTONIO |  KNIC" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/unimas_c.png" group-title="Latinos USA",USA | Now | UNIMAS SAN ANTONIO |  KNIC
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76543
-#EXTINF:-1 tvg-id="" tvg-name="USA | Now | UNIMAS SAN ANTONIO |  KNIC" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/unimas_c.png" group-title="USA",USA | Now | UNIMAS SAN ANTONIO |  KNIC
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76543
 #EXTINF:-1 tvg-id="outsidetv.us" tvg-name="USA | Outside TV" tvg-logo="http://live.detodotvplay.com:8080/images/32b53a0ff114ecacb6daff67bf4d2ce9.png" group-title="USA",USA | Outside TV
 http://live.detodotvplay.com:8080/Risario8/Pineda13/64777
 #EXTINF:-1 tvg-id="" tvg-name="USA | Own" tvg-logo="http://live.detodotvplay.com:8080/images/225c6eaaca439956f0d564f42bc2f3cc.png" group-title="USA",USA | Own
 http://live.detodotvplay.com:8080/Risario8/Pineda13/64778
 #EXTINF:-1 tvg-id="" tvg-name="USA | Pasiones" tvg-logo="https://logos.xbots.com.mx/1020.png" group-title="Latinos USA",USA | Pasiones
 http://live.detodotvplay.com:8080/Risario8/Pineda13/370364
-#EXTINF:-1 tvg-id="" tvg-name="USA | Pasiones" tvg-logo="https://logos.xbots.com.mx/1020.png" group-title="USA",USA | Pasiones
-http://live.detodotvplay.com:8080/Risario8/Pineda13/370364
 #EXTINF:-1 tvg-id="" tvg-name="USA | Recipe.TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s71294_h6_aa.png" group-title="USA",USA | Recipe.TV
 http://live.detodotvplay.com:8080/Risario8/Pineda13/110200
 #EXTINF:-1 tvg-id="" tvg-name="USA | Revolt" tvg-logo="http://live.detodotvplay.com:8080/images/pNz7dBG-KVbUbxoheMlT_90UzhMaZGH3MSDWnHK2kurUwo97QNMOIhwghdp2cqThYWHPlHAO--UP2cJTym0lb1aQZd92tCSva2ELmMJGMXg.png" group-title="USA",USA | Revolt
 http://live.detodotvplay.com:8080/Risario8/Pineda13/62243
-#EXTINF:-1 tvg-id="rootsportsnorthwest.us" tvg-name="USA | Root Sports" tvg-logo="http://live.detodotvplay.com:8080/images/9f4db8bf86c80d19b083da9c9674f2c3.png" group-title="USA",USA | Root Sports
-http://live.detodotvplay.com:8080/Risario8/Pineda13/64786
 #EXTINF:-1 tvg-id="" tvg-name="USA | SEC NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/SEC_Network_Logo.png" group-title="USA",USA | SEC NETWORK
 http://live.detodotvplay.com:8080/Risario8/Pineda13/34269
 #EXTINF:-1 tvg-id="showtime2.us" tvg-name="USA | SHOWTIME 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Showtime_2_logo.svg/699px-Showtime_2_logo.svg.png" group-title="SHOW TIME",USA | SHOWTIME 2
@@ -1507,92 +1201,19 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/307
 http://live.detodotvplay.com:8080/Risario8/Pineda13/31129
 #EXTINF:-1 tvg-id="" tvg-name="USA | Telemundo  | KNSO Fresno" tvg-logo="https://yt3.ggpht.com/fURBZHm3h_HcpNKzrtm0tuFT0mYqKlNNmlz5_aDPCoD2OwQ099tXhswdAPPqJH4-PgZ0n7_qyAI=ns-nd" group-title="USA",USA | Telemundo  | KNSO Fresno
 http://live.detodotvplay.com:8080/Risario8/Pineda13/74481
-#EXTINF:-1 tvg-id="" tvg-name="USA | Telemundo  | KNSO Fresno" tvg-logo="https://yt3.ggpht.com/fURBZHm3h_HcpNKzrtm0tuFT0mYqKlNNmlz5_aDPCoD2OwQ099tXhswdAPPqJH4-PgZ0n7_qyAI=ns-nd" group-title="Latinos USA",USA | Telemundo  | KNSO Fresno
-http://live.detodotvplay.com:8080/Risario8/Pineda13/74481
 #EXTINF:-1 tvg-id="" tvg-name="USA | Telemundo (Tampa)" tvg-logo="http://live.detodotvplay.com:8080/images/d0qBv_KS-INV6jsoN1Bns3xtbQhVQIDY9BJ2vOAB8ZMPkqdyLYqDhy0_iB-TnrMREyh__gNLoT-lqh_Uqgf-x9JtM7DznZtVfavXvpT3HH8hZyDr8ChZ2qBipG4zohpoVRWzqWJTV9fc_SoUBWnaxkqpCY89jhBu2_Ygdsem4ak.png" group-title="Latinos USA",USA | Telemundo (Tampa)
 http://live.detodotvplay.com:8080/Risario8/Pineda13/103625
 #EXTINF:-1 tvg-id="telemundoktmw.us" tvg-name="USA | Telemundo 20 | Salt Lake" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Telemundo_20_Logo_2018.png" group-title="USA",USA | Telemundo 20 | Salt Lake
 http://live.detodotvplay.com:8080/Risario8/Pineda13/76312
-#EXTINF:-1 tvg-id="telemundoktmw.us" tvg-name="USA | Telemundo 20 | Salt Lake" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Telemundo_20_Logo_2018.png" group-title="Latinos USA",USA | Telemundo 20 | Salt Lake
-http://live.detodotvplay.com:8080/Risario8/Pineda13/76312
-#EXTINF:-1 tvg-id="" tvg-name="USA | Telemundo 47 Newyork" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/WNJU_Telemundo_47_logo.png" group-title="Latinos USA",USA | Telemundo 47 Newyork
-http://live.detodotvplay.com:8080/Risario8/Pineda13/30692
-#EXTINF:-1 tvg-id="" tvg-name="USA | Telemundo 47 Newyork" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/WNJU_Telemundo_47_logo.png" group-title="USA",USA | Telemundo 47 Newyork
-http://live.detodotvplay.com:8080/Risario8/Pineda13/30692
 #EXTINF:-1 tvg-id="telemundo.us" tvg-name="USA | TELEMUNDO 48 SAN FRANCISCO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/KSTS_Logo.png" group-title="Latinos USA",USA | TELEMUNDO 48 SAN FRANCISCO
 http://live.detodotvplay.com:8080/Risario8/Pineda13/206
-#EXTINF:-1 tvg-id="telemundo.us" tvg-name="USA | TELEMUNDO 48 SAN FRANCISCO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/KSTS_Logo.png" group-title="USA",USA | TELEMUNDO 48 SAN FRANCISCO
-http://live.detodotvplay.com:8080/Risario8/Pineda13/206
-#EXTINF:-1 tvg-id="telemundowscv.us" tvg-name="USA | Telemundo 51 Miami" tvg-logo="https://static.wikia.nocookie.net/fictionaltvstations/images/0/05/Telemundo_51_%282018%29.svg/revision/latest/scale-to-width-down/250?cb=20220419043401" group-title="Latinos USA",USA | Telemundo 51 Miami
-http://live.detodotvplay.com:8080/Risario8/Pineda13/30513
-#EXTINF:-1 tvg-id="telemundowscv.us" tvg-name="USA | Telemundo 51 Miami" tvg-logo="https://static.wikia.nocookie.net/fictionaltvstations/images/0/05/Telemundo_51_%282018%29.svg/revision/latest/scale-to-width-down/250?cb=20220419043401" group-title="USA",USA | Telemundo 51 Miami
-http://live.detodotvplay.com:8080/Risario8/Pineda13/30513
-#EXTINF:-1 tvg-id="" tvg-name="USA | Telemundo Charlotte" tvg-logo="https://icon-library.com/images/2018/9592849_cox-logo-telemundo-charlotte-logo-transparent-png.png" group-title="Latinos USA",USA | Telemundo Charlotte
-http://live.detodotvplay.com:8080/Risario8/Pineda13/135425
-#EXTINF:-1 tvg-id="" tvg-name="USA | Telemundo Charlotte" tvg-logo="https://icon-library.com/images/2018/9592849_cox-logo-telemundo-charlotte-logo-transparent-png.png" group-title="USA",USA | Telemundo Charlotte
-http://live.detodotvplay.com:8080/Risario8/Pineda13/135425
-#EXTINF:-1 tvg-id="" tvg-name="USA | Telemundo Orlando" tvg-logo="https://yt3.ggpht.com/2UpTAEE-hUyJGzWpYjdUem9zy6OMk6ukI7uqwaAywE9xZ4G_lo4ge5FFhOuFPfTj72qgvvd-h-K4=ns-nd" group-title="Latinos USA",USA | Telemundo Orlando
-http://live.detodotvplay.com:8080/Risario8/Pineda13/74471
-#EXTINF:-1 tvg-id="" tvg-name="USA | Telemundo Orlando" tvg-logo="https://yt3.ggpht.com/2UpTAEE-hUyJGzWpYjdUem9zy6OMk6ukI7uqwaAywE9xZ4G_lo4ge5FFhOuFPfTj72qgvvd-h-K4=ns-nd" group-title="USA",USA | Telemundo Orlando
-http://live.detodotvplay.com:8080/Risario8/Pineda13/74471
-#EXTINF:-1 tvg-id="telemundowzdc.us" tvg-name="USA | TELEMUNDO WASHINGTON 44" tvg-logo="https://media.telemundo47.com/2020/10/TLMD_44_DC.png" group-title="USA",USA | TELEMUNDO WASHINGTON 44
-http://live.detodotvplay.com:8080/Risario8/Pineda13/50867
-#EXTINF:-1 tvg-id="telemundowzdc.us" tvg-name="USA | TELEMUNDO WASHINGTON 44" tvg-logo="https://media.telemundo47.com/2020/10/TLMD_44_DC.png" group-title="Latinos USA",USA | TELEMUNDO WASHINGTON 44
-http://live.detodotvplay.com:8080/Risario8/Pineda13/50867
-#EXTINF:-1 tvg-id="thrillermax.us" tvg-name="USA | ThrillerMax" tvg-logo="http://live.detodotvplay.com:8080/images/988b092f6a2da93dac9691c7af904ce0.png" group-title="USA",USA | ThrillerMax
-http://live.detodotvplay.com:8080/Risario8/Pineda13/64781
-#EXTINF:-1 tvg-id="trutv.us" tvg-name="USA | TRU TV" tvg-logo="https://logos.xbots.com.mx/79.png" group-title="Latinos USA",USA | TRU TV
-http://live.detodotvplay.com:8080/Risario8/Pineda13/31128
 #EXTINF:-1 tvg-id="trutv.us" tvg-name="USA | TRU TV" tvg-logo="https://logos.xbots.com.mx/79.png" group-title="USA",USA | TRU TV
 http://live.detodotvplay.com:8080/Risario8/Pineda13/31128
-#EXTINF:-1 tvg-id="" tvg-name="USA | TVG Network" tvg-logo="https://www.letsgambleusa.com/wp-content/uploads/2021/08/tvg-logo.png" group-title="USA",USA | TVG Network
-http://live.detodotvplay.com:8080/Risario8/Pineda13/112217
 #EXTINF:-1 tvg-id="" tvg-name="USA | U-Vision 40 | WUVC Raleigh" tvg-logo="http://live.detodotvplay.com:8080/images/da0f5e18cfe3ef77b2206ef57b0df77f.png" group-title="Latinos USA",USA | U-Vision 40 | WUVC Raleigh
 http://live.detodotvplay.com:8080/Risario8/Pineda13/71567
-#EXTINF:-1 tvg-id="" tvg-name="USA | U-Vision 40 | WUVC Raleigh" tvg-logo="http://live.detodotvplay.com:8080/images/da0f5e18cfe3ef77b2206ef57b0df77f.png" group-title="USA",USA | U-Vision 40 | WUVC Raleigh
-http://live.detodotvplay.com:8080/Risario8/Pineda13/71567
-#EXTINF:-1 tvg-id="" tvg-name="USA | U-VISION 42 WLLC | NASHVILLE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/WLLC_Nashville_2019.png" group-title="Latinos USA",USA | U-VISION 42 WLLC | NASHVILLE
-http://live.detodotvplay.com:8080/Risario8/Pineda13/49265
-#EXTINF:-1 tvg-id="" tvg-name="USA | U-VISION 42 WLLC | NASHVILLE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/WLLC_Nashville_2019.png" group-title="USA",USA | U-VISION 42 WLLC | NASHVILLE
-http://live.detodotvplay.com:8080/Risario8/Pineda13/49265
-#EXTINF:-1 tvg-id="" tvg-name="USA | U-vision Atlanta WUVG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_Univision_2013.svg/1200px-Logo_Univision_2013.svg.png" group-title="Latinos USA",USA | U-vision Atlanta WUVG
-http://live.detodotvplay.com:8080/Risario8/Pineda13/2020
-#EXTINF:-1 tvg-id="univision23kuvn.us" tvg-name="USA | U-Vision Dallas KUVN" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/04/Univisi%C3%B3n-Dallas-en-vivo-Online.png" group-title="Latinos USA",USA | U-Vision Dallas KUVN
-http://live.detodotvplay.com:8080/Risario8/Pineda13/64885
-#EXTINF:-1 tvg-id="univision23kuvn.us" tvg-name="USA | U-Vision Dallas KUVN" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/04/Univisi%C3%B3n-Dallas-en-vivo-Online.png" group-title="USA",USA | U-Vision Dallas KUVN
-http://live.detodotvplay.com:8080/Risario8/Pineda13/64885
 #EXTINF:-1 tvg-id="" tvg-name="USA | U-Vision KDTV SAN FRANCISCO" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/42_es.png" group-title="Latinos USA",USA | U-Vision KDTV SAN FRANCISCO
 http://live.detodotvplay.com:8080/Risario8/Pineda13/52381
-#EXTINF:-1 tvg-id="" tvg-name="USA | U-Vision KDTV SAN FRANCISCO" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/42_es.png" group-title="USA",USA | U-Vision KDTV SAN FRANCISCO
-http://live.detodotvplay.com:8080/Risario8/Pineda13/52381
-#EXTINF:-1 tvg-id="" tvg-name="USA | U-Vision KUTH Salt Lake" tvg-logo="https://static.univision.com/fragments/noticias/home-locales-tudn-v2/images/radio-stations/salt-lake-city/univision-32-salt-lake-city.png" group-title="Latinos USA",USA | U-Vision KUTH Salt Lake
-http://live.detodotvplay.com:8080/Risario8/Pineda13/142998
-#EXTINF:-1 tvg-id="" tvg-name="USA | U-Vision KUTH Salt Lake" tvg-logo="https://static.univision.com/fragments/noticias/home-locales-tudn-v2/images/radio-stations/salt-lake-city/univision-32-salt-lake-city.png" group-title="USA",USA | U-Vision KUTH Salt Lake
-http://live.detodotvplay.com:8080/Risario8/Pineda13/142998
-#EXTINF:-1 tvg-id="univisionkwex.us" tvg-name="USA | U-vision KXLN Houston" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_Univision_2013.svg/1200px-Logo_Univision_2013.svg.png" group-title="Latinos USA",USA | U-vision KXLN Houston
-http://live.detodotvplay.com:8080/Risario8/Pineda13/228
-#EXTINF:-1 tvg-id="univisionkwex.us" tvg-name="USA | U-vision KXLN Houston" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_Univision_2013.svg/1200px-Logo_Univision_2013.svg.png" group-title="USA",USA | U-vision KXLN Houston
-http://live.detodotvplay.com:8080/Risario8/Pineda13/228
-#EXTINF:-1 tvg-id="" tvg-name="USA | U-Vision Las Vegas | KINC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/KINC_2000_Logo.svg/795px-KINC_2000_Logo.svg.png" group-title="USA",USA | U-Vision Las Vegas | KINC
-http://live.detodotvplay.com:8080/Risario8/Pineda13/96548
-#EXTINF:-1 tvg-id="" tvg-name="USA | U-Vision Las Vegas | KINC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/KINC_2000_Logo.svg/795px-KINC_2000_Logo.svg.png" group-title="Latinos USA",USA | U-Vision Las Vegas | KINC
-http://live.detodotvplay.com:8080/Risario8/Pineda13/96548
-#EXTINF:-1 tvg-id="univision23wltv.us" tvg-name="USA | U-vision MIAMI" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Univisi%C3%B3n-Miami-en-vivo-Online.png" group-title="Latinos USA",USA | U-vision MIAMI
-http://live.detodotvplay.com:8080/Risario8/Pineda13/102
-#EXTINF:-1 tvg-id="univision23wltv.us" tvg-name="USA | U-vision MIAMI" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Univisi%C3%B3n-Miami-en-vivo-Online.png" group-title="USA",USA | U-vision MIAMI
-http://live.detodotvplay.com:8080/Risario8/Pineda13/102
-#EXTINF:-1 tvg-id="" tvg-name="USA | U-vision Sacramento KUVS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_Univision_2013.svg/1200px-Logo_Univision_2013.svg.png" group-title="Latinos USA",USA | U-vision Sacramento KUVS
-http://live.detodotvplay.com:8080/Risario8/Pineda13/118200
-#EXTINF:-1 tvg-id="" tvg-name="USA | U-vision Sacramento KUVS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_Univision_2013.svg/1200px-Logo_Univision_2013.svg.png" group-title="USA",USA | U-vision Sacramento KUVS
-http://live.detodotvplay.com:8080/Risario8/Pineda13/118200
-#EXTINF:-1 tvg-id="univisionkwex.us" tvg-name="USA | U-VISION WGBO Chicago" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/Chicago/WGBO.png" group-title="Latinos USA",USA | U-VISION WGBO Chicago
-http://live.detodotvplay.com:8080/Risario8/Pineda13/15893
-#EXTINF:-1 tvg-id="univisionkwex.us" tvg-name="USA | U-VISION WGBO Chicago" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/Chicago/WGBO.png" group-title="USA",USA | U-VISION WGBO Chicago
-http://live.detodotvplay.com:8080/Risario8/Pineda13/15893
-#EXTINF:-1 tvg-id="" tvg-name="USA | U-VISION WXTV  NEW YORK" tvg-logo="https://static.wikia.nocookie.net/annex/images/9/99/WXTV-DT_%282019%29.png/revision/latest?cb=20211107020808" group-title="Latinos USA",USA | U-VISION WXTV  NEW YORK
-http://live.detodotvplay.com:8080/Risario8/Pineda13/15894
-#EXTINF:-1 tvg-id="" tvg-name="USA | U-VISION WXTV  NEW YORK" tvg-logo="https://static.wikia.nocookie.net/annex/images/9/99/WXTV-DT_%282019%29.png/revision/latest?cb=20211107020808" group-title="USA",USA | U-VISION WXTV  NEW YORK
-http://live.detodotvplay.com:8080/Risario8/Pineda13/15894
+
 #EXTINF:-1 tvg-id="" tvg-name="USA | Unimas 46 KFTR LA" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/unimas_c.png" group-title="Latinos USA",USA | Unimas 46 KFTR LA
 http://live.detodotvplay.com:8080/Risario8/Pineda13/34112
 #EXTINF:-1 tvg-id="" tvg-name="USA | Unimas 46 KFTR LA" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/unimas_c.png" group-title="USA",USA | Unimas 46 KFTR LA
