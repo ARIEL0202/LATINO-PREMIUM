@@ -1121,10 +1121,7 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/206
 http://live.detodotvplay.com:8080/Risario8/Pineda13/31128
 #EXTINF:-1 tvg-id="" tvg-name="USA | U-Vision 40 | WUVC Raleigh" tvg-logo="http://live.detodotvplay.com:8080/images/da0f5e18cfe3ef77b2206ef57b0df77f.png" group-title="Latinos USA",USA | U-Vision 40 | WUVC Raleigh
 http://live.detodotvplay.com:8080/Risario8/Pineda13/71567
-
 #EXTINF:-1 tvg-id="" tvg-name="USA | Unimas 46 KFTR LA" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/unimas_c.png" group-title="Latinos USA",USA | Unimas 46 KFTR LA
-http://live.detodotvplay.com:8080/Risario8/Pineda13/34112
-#EXTINF:-1 tvg-id="" tvg-name="USA | Unimas 46 KFTR LA" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/unimas_c.png" group-title="USA",USA | Unimas 46 KFTR LA
 http://live.detodotvplay.com:8080/Risario8/Pineda13/34112
 #EXTINF:-1 tvg-id="" tvg-name="USA | Univision KFTV Fresno" tvg-logo="https://yt3.ggpht.com/2W1HsSqI6ZrXrz-gHa8scfwti1NmqAVWa1YEl2Xb85JPV9__wz1swCRRHeTS5JIaxyaT3Ax5tv8f=ns-nd" group-title="USA",USA | Univision KFTV Fresno
 http://live.detodotvplay.com:8080/Risario8/Pineda13/74482
@@ -1148,26 +1145,16 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/1741
 http://live.detodotvplay.com:8080/Risario8/Pineda13/121
 #EXTINF:-1 tvg-id="" tvg-name="UY | Directv Sports Uruguay" tvg-logo="https://logos.xbots.com.mx/DirecTV.png" group-title="DEPORTES",UY | Directv Sports Uruguay
 http://live.detodotvplay.com:8080/Risario8/Pineda13/107649
-#EXTINF:-1 tvg-id="" tvg-name="UY | Directv Sports Uruguay" tvg-logo="https://logos.xbots.com.mx/DirecTV.png" group-title="URUGUAY",UY | Directv Sports Uruguay
-http://live.detodotvplay.com:8080/Risario8/Pineda13/107649
-#EXTINF:-1 tvg-id="" tvg-name="UY | Maroñas Entertainment" tvg-logo="https://www.maronas.com.uy/public/web/img/og-logo.png" group-title="URUGUAY",UY | Maroñas Entertainment
-http://live.detodotvplay.com:8080/Risario8/Pineda13/134479
 #EXTINF:-1 tvg-id="" tvg-name="UY | TNU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/1024x1024.png" group-title="URUGUAY",UY | TNU
 http://live.detodotvplay.com:8080/Risario8/Pineda13/35030
 #EXTINF:-1 tvg-id="" tvg-name="UY | TV CIUDAD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/TV_Ciudad_logo_2019.png" group-title="URUGUAY",UY | TV CIUDAD
 http://live.detodotvplay.com:8080/Risario8/Pineda13/58694
 #EXTINF:-1 tvg-id="" tvg-name="UY | VTV +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VTV%2BUruguay.svg/1200px-VTV%2BUruguay.svg.png" group-title="URUGUAY",UY | VTV +
 http://live.detodotvplay.com:8080/Risario8/Pineda13/285
-#EXTINF:-1 tvg-id="" tvg-name="UY | VTV + (op2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VTV%2BUruguay.svg/1200px-VTV%2BUruguay.svg.png" group-title="URUGUAY",UY | VTV + (op2)
-http://live.detodotvplay.com:8080/Risario8/Pineda13/78823
 #EXTINF:-1 tvg-id="" tvg-name="UY | VTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="URUGUAY",UY | VTV HD
 http://live.detodotvplay.com:8080/Risario8/Pineda13/283
-#EXTINF:-1 tvg-id="" tvg-name="UY | VTV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="URUGUAY",UY | VTV SD
-http://live.detodotvplay.com:8080/Risario8/Pineda13/282
 #EXTINF:-1 tvg-id="" tvg-name="VE | Globovision" tvg-logo="" group-title="VENEZUELA",VE | Globovision
 http://live.detodotvplay.com:8080/Risario8/Pineda13/369962
-#EXTINF:-1 tvg-id="" tvg-name="VE | IVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/IVC_Network_Logo.png" group-title="VENEZUELA",VE | IVC
-http://live.detodotvplay.com:8080/Risario8/Pineda13/145581
 #EXTINF:-1 tvg-id="" tvg-name="VE | TELESUR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/800px-TeleSUR-Logo.svg.png" group-title="VENEZUELA",VE | TELESUR TV
 http://live.detodotvplay.com:8080/Risario8/Pineda13/115338
 #EXTINF:-1 tvg-id="" tvg-name="VE | TELEVEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Televen_logo.PNG" group-title="VENEZUELA",VE | TELEVEN
@@ -1176,73 +1163,36 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/100592
 http://live.detodotvplay.com:8080/Risario8/Pineda13/28257
 #EXTINF:-1 tvg-id="" tvg-name="WOBI" tvg-logo="https://logos.xbots.com.mx/2195.png" group-title="MUNDO Y CULTURA",WOBI
 http://live.detodotvplay.com:8080/Risario8/Pineda13/9668
-#EXTINF:-1 tvg-id="" tvg-name="BO | Bolivia TV" tvg-logo="https://i.pinimg.com/originals/84/3c/c9/843cc97180351659fcbcfad18438507c.png" group-title="BOLIVIA",BO | Bolivia TV
-http://live.detodotvplay.com:8080/Risario8/Pineda13/36285
-#EXTINF:-1 tvg-id="band.br" tvg-name="BR | BAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BandNews_TV_logo_2010.svg/1200px-BandNews_TV_logo_2010.svg.png" group-title="BRASIL",BR | BAND
-http://live.detodotvplay.com:8080/Risario8/Pineda13/600
-#EXTINF:-1 tvg-id="" tvg-name="BR | COMBATE" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/combate-logo-png-9.png" group-title="BRASIL",BR | COMBATE
-http://live.detodotvplay.com:8080/Risario8/Pineda13/329
-#EXTINF:-1 tvg-id="" tvg-name="BR | GLOBO MINAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/Globo_Minas_2014.png" group-title="BRASIL",BR | GLOBO MINAS
-http://live.detodotvplay.com:8080/Risario8/Pineda13/143000
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="BR | GLOBO NEWS" tvg-logo="http://www.mituti.com.br/wp-content/uploads/2018/03/globo-news.png" group-title="BRASIL",BR | GLOBO NEWS
-http://live.detodotvplay.com:8080/Risario8/Pineda13/603
-#EXTINF:-1 tvg-id="" tvg-name="BR | PREMIER SPORTS 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="DEPORTES",BR | PREMIER SPORTS 4
-http://live.detodotvplay.com:8080/Risario8/Pineda13/302447
-#EXTINF:-1 tvg-id="" tvg-name="BR | PREMIER SPORTS 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="BRASIL",BR | PREMIER SPORTS 4
-http://live.detodotvplay.com:8080/Risario8/Pineda13/302447
-#EXTINF:-1 tvg-id="" tvg-name="BR | PREMIER SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="DEPORTES",BR | PREMIER SPORTS 5
-http://live.detodotvplay.com:8080/Risario8/Pineda13/302448
-#EXTINF:-1 tvg-id="" tvg-name="BR | PREMIER SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="BRASIL",BR | PREMIER SPORTS 5
-http://live.detodotvplay.com:8080/Risario8/Pineda13/302448
-#EXTINF:-1 tvg-id="" tvg-name="BR | PREMIER SPORTS 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="DEPORTES",BR | PREMIER SPORTS 6
-http://live.detodotvplay.com:8080/Risario8/Pineda13/302449
-#EXTINF:-1 tvg-id="" tvg-name="BR | PREMIER SPORTS 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="BRASIL",BR | PREMIER SPORTS 6
-http://live.detodotvplay.com:8080/Risario8/Pineda13/302449
-#EXTINF:-1 tvg-id="" tvg-name="BR | PREMIER SPORTS 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="DEPORTES",BR | PREMIER SPORTS 7
-http://live.detodotvplay.com:8080/Risario8/Pineda13/302450
-#EXTINF:-1 tvg-id="" tvg-name="BR | PREMIER SPORTS 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="BRASIL",BR | PREMIER SPORTS 7
-http://live.detodotvplay.com:8080/Risario8/Pineda13/302450
-#EXTINF:-1 tvg-id="" tvg-name="BR | PREMIER SPORTS 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="DEPORTES",BR | PREMIER SPORTS 8
-http://live.detodotvplay.com:8080/Risario8/Pineda13/302451
-#EXTINF:-1 tvg-id="" tvg-name="BR | PREMIER SPORTS 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="BRASIL",BR | PREMIER SPORTS 8
-http://live.detodotvplay.com:8080/Risario8/Pineda13/302451
 #EXTINF:-1 tvg-id="" tvg-name="BR | PREMIERE SPORTS 1" tvg-logo="https://s3.eu-west-1.amazonaws.com/entertainmentie/storage/lmstelevision/tv-logos/9ec570fbdc82b613baeaddf1de974395.png" group-title="DEPORTES",BR | PREMIERE SPORTS 1
-http://live.detodotvplay.com:8080/Risario8/Pineda13/302442
-#EXTINF:-1 tvg-id="" tvg-name="BR | PREMIERE SPORTS 1" tvg-logo="https://s3.eu-west-1.amazonaws.com/entertainmentie/storage/lmstelevision/tv-logos/9ec570fbdc82b613baeaddf1de974395.png" group-title="BRASIL",BR | PREMIERE SPORTS 1
 http://live.detodotvplay.com:8080/Risario8/Pineda13/302442
 #EXTINF:-1 tvg-id="" tvg-name="BR | PREMIERE SPORTS 2" tvg-logo="https://s3.eu-west-1.amazonaws.com/entertainmentie/storage/lmstelevision/tv-logos/be1053602b884b605b72eaf9eb6fa7e5.png" group-title="DEPORTES",BR | PREMIERE SPORTS 2
 http://live.detodotvplay.com:8080/Risario8/Pineda13/302445
-#EXTINF:-1 tvg-id="" tvg-name="BR | PREMIERE SPORTS 2" tvg-logo="https://s3.eu-west-1.amazonaws.com/entertainmentie/storage/lmstelevision/tv-logos/be1053602b884b605b72eaf9eb6fa7e5.png" group-title="BRASIL",BR | PREMIERE SPORTS 2
-http://live.detodotvplay.com:8080/Risario8/Pineda13/302445
 #EXTINF:-1 tvg-id="" tvg-name="BR | PREMIERE SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="DEPORTES",BR | PREMIERE SPORTS 3
 http://live.detodotvplay.com:8080/Risario8/Pineda13/302446
-#EXTINF:-1 tvg-id="" tvg-name="BR | PREMIERE SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="BRASIL",BR | PREMIERE SPORTS 3
-http://live.detodotvplay.com:8080/Risario8/Pineda13/302446
+#EXTINF:-1 tvg-id="" tvg-name="BR | PREMIER SPORTS 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="DEPORTES",BR | PREMIER SPORTS 4
+http://live.detodotvplay.com:8080/Risario8/Pineda13/302447
+#EXTINF:-1 tvg-id="" tvg-name="BR | PREMIER SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="DEPORTES",BR | PREMIER SPORTS 5
+http://live.detodotvplay.com:8080/Risario8/Pineda13/302448
+#EXTINF:-1 tvg-id="" tvg-name="BR | PREMIER SPORTS 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="DEPORTES",BR | PREMIER SPORTS 6
+http://live.detodotvplay.com:8080/Risario8/Pineda13/302449
+#EXTINF:-1 tvg-id="" tvg-name="BR | PREMIER SPORTS 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="DEPORTES",BR | PREMIER SPORTS 7
+http://live.detodotvplay.com:8080/Risario8/Pineda13/302450
+#EXTINF:-1 tvg-id="" tvg-name="BR | PREMIER SPORTS 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="DEPORTES",BR | PREMIER SPORTS 8
+http://live.detodotvplay.com:8080/Risario8/Pineda13/302451
 #EXTINF:-1 tvg-id="record.br" tvg-name="BR | RECORD TV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d6/Record_logo_2016.png" group-title="BRASIL",BR | RECORD TV
 http://live.detodotvplay.com:8080/Risario8/Pineda13/354
 #EXTINF:-1 tvg-id="" tvg-name="BR | SPORT TV 2" tvg-logo="https://logos.xbots.com.mx/1084.png" group-title="BRASIL",BR | SPORT TV 2
 http://live.detodotvplay.com:8080/Risario8/Pineda13/93255
 #EXTINF:-1 tvg-id="" tvg-name="BR | SPORT TV 3" tvg-logo="https://logos.xbots.com.mx/1085.png" group-title="BRASIL",BR | SPORT TV 3
 http://live.detodotvplay.com:8080/Risario8/Pineda13/93256
-#EXTINF:-1 tvg-id="" tvg-name="CA | A&E HD" tvg-logo="http://live.detodotvplay.com:8080/images/d6c69f64082f75c962dcfadecbbbc339.png" group-title="CANADA",CA | A&E HD
-http://live.detodotvplay.com:8080/Risario8/Pineda13/65148
+
 #EXTINF:-1 tvg-id="" tvg-name="CA | CBC Toronto" tvg-logo="https://subscriptions.cbc.ca/newsletter_static/images/1581432928232-cbc-toronto.png" group-title="CANADA",CA | CBC Toronto
 http://live.detodotvplay.com:8080/Risario8/Pineda13/111969
-#EXTINF:-1 tvg-id="" tvg-name="CA | CNN  HD" tvg-logo="http://live.detodotvplay.com:8080/images/9aecccf3b71b078328364882ab2820a1.png" group-title="CANADA",CA | CNN  HD
-http://live.detodotvplay.com:8080/Risario8/Pineda13/65154
-#EXTINF:-1 tvg-id="" tvg-name="CA | CP 24" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNMa_-IWSovX4eUNjRHrKlTwrTChyr6gwMGthlRHF-9W6.png" group-title="CANADA",CA | CP 24
-http://live.detodotvplay.com:8080/Risario8/Pineda13/116585
 #EXTINF:-1 tvg-id="" tvg-name="CA | Crime Investigation HD" tvg-logo="https://logos.xbots.com.mx/2097.png" group-title="CANADA",CA | Crime Investigation HD
 http://live.detodotvplay.com:8080/Risario8/Pineda13/65182
-#EXTINF:-1 tvg-id="" tvg-name="CA | DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1280px-2014_Disney_Channel_logo.svg.png" group-title="CANADA",CA | DISNEY CHANNEL
-http://live.detodotvplay.com:8080/Risario8/Pineda13/65156
 #EXTINF:-1 tvg-id="" tvg-name="CA | NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/NBA_TV_Canada_2020.png" group-title="CANADA",CA | NBA TV
 http://live.detodotvplay.com:8080/Risario8/Pineda13/122080
-#EXTINF:-1 tvg-id="" tvg-name="CA | RDI HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Icirdi_logocablo_ver_rvb-web.png" group-title="CANADA",CA | RDI HD
-http://live.detodotvplay.com:8080/Risario8/Pineda13/65185
 #EXTINF:-1 tvg-id="" tvg-name="CA | Sportsnet World" tvg-logo="http://209.126.82.213/logos/ca/sportsnet_world.png" group-title="DEPORTES",CA | Sportsnet World
-http://live.detodotvplay.com:8080/Risario8/Pineda13/250912
-#EXTINF:-1 tvg-id="" tvg-name="CA | Sportsnet World" tvg-logo="http://209.126.82.213/logos/ca/sportsnet_world.png" group-title="CANADA",CA | Sportsnet World
 http://live.detodotvplay.com:8080/Risario8/Pineda13/250912
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-name="CA | TSN SPORTS 1" tvg-logo="http://live.detodotvplay.com:8080/images/d0qBv_KS-INV6jsoN1Bns3xtbQhVQIDY9BJ2vOAB8ZMPkqdyLYqDhy0_iB-TnrMR5LnjPs_UlXdoClNk3o_5C6jFiMyQsgn1z5je0JrK1MIoGsnSjZeLQ2Q8Z4aDlyDK.png" group-title="CANADA",CA | TSN SPORTS 1
 http://live.detodotvplay.com:8080/Risario8/Pineda13/16557
@@ -1256,55 +1206,28 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/16560
 http://live.detodotvplay.com:8080/Risario8/Pineda13/16561
 #EXTINF:-1 tvg-id="" tvg-name="CAN | CITY TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Citytv_old_logo.svg/1200px-Citytv_old_logo.svg.png" group-title="CANADA",CAN | CITY TV HD
 http://live.detodotvplay.com:8080/Risario8/Pineda13/65189
-#EXTINF:-1 tvg-id="" tvg-name="CAN | CTV NEWS NETWORK" tvg-logo="" group-title="CANADA",CAN | CTV NEWS NETWORK
-http://live.detodotvplay.com:8080/Risario8/Pineda13/65192
 #EXTINF:-1 tvg-id="" tvg-name="CAN | SPORTS NET 360 HD" tvg-logo="https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs" group-title="CANADA",CAN | SPORTS NET 360 HD
 http://live.detodotvplay.com:8080/Risario8/Pineda13/65174
-#EXTINF:-1 tvg-id="" tvg-name="CAN | SPORTS NET EAST HD" tvg-logo="https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs" group-title="CANADA",CAN | SPORTS NET EAST HD
-http://live.detodotvplay.com:8080/Risario8/Pineda13/65170
-#EXTINF:-1 tvg-id="" tvg-name="CAN | SPORTS NET ONE HD" tvg-logo="https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs" group-title="CANADA",CAN | SPORTS NET ONE HD
-http://live.detodotvplay.com:8080/Risario8/Pineda13/65175
-#EXTINF:-1 tvg-id="" tvg-name="CAN | SPORTS NET ONTARIO HD" tvg-logo="https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs" group-title="CANADA",CAN | SPORTS NET ONTARIO HD
-http://live.detodotvplay.com:8080/Risario8/Pineda13/65171
-#EXTINF:-1 tvg-id="" tvg-name="CAN | SPORTS NET WEST HD" tvg-logo="https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs" group-title="CANADA",CAN | SPORTS NET WEST HD
-http://live.detodotvplay.com:8080/Risario8/Pineda13/65172
-#EXTINF:-1 tvg-id="" tvg-name="CA| LCN HD" tvg-logo="http://live.detodotvplay.com:8080/images/b94fe9e10aa17f2638623de3fb6c573e.png" group-title="CANADA",CA| LCN HD
-http://live.detodotvplay.com:8080/Risario8/Pineda13/65183
-#EXTINF:-1 tvg-id="" tvg-name="CA| RDS INFO" tvg-logo="http://live.detodotvplay.com:8080/images/d8d576e3caf6b9217add47a884226ccc.png" group-title="CANADA",CA| RDS INFO
-http://live.detodotvplay.com:8080/Risario8/Pineda13/65186
+
 #EXTINF:-1 tvg-id="directvgocl/24horas" tvg-name="CL | 24 HORAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png" group-title="CHILE",CL | 24 HORAS
 http://live.detodotvplay.com:8080/Risario8/Pineda13/118
 #EXTINF:-1 tvg-id="directvgocl/canal13cable" tvg-name="CL | CANAL 13 C" tvg-logo="https://logos.xbots.com.mx/Canal_13C_HD.png" group-title="CHILE",CL | CANAL 13 C
 http://live.detodotvplay.com:8080/Risario8/Pineda13/100
 #EXTINF:-1 tvg-id="directvgocl/canal13" tvg-name="CL | CANAL 13 HD" tvg-logo="https://ninos.kiddle.co/images/thumb/7/7d/Canal_13_de_Chile_%28Isotipo_2018%29.svg/300px-Canal_13_de_Chile_%28Isotipo_2018%29.svg.png" group-title="CHILE",CL | CANAL 13 HD
 http://live.detodotvplay.com:8080/Risario8/Pineda13/94
-#EXTINF:-1 tvg-id="directvgocl/canal13" tvg-name="CL | CANAL 13 SD" tvg-logo="https://ninos.kiddle.co/images/thumb/7/7d/Canal_13_de_Chile_%28Isotipo_2018%29.svg/300px-Canal_13_de_Chile_%28Isotipo_2018%29.svg.png" group-title="CHILE",CL | CANAL 13 SD
-http://live.detodotvplay.com:8080/Risario8/Pineda13/77986
 #EXTINF:-1 tvg-id="" tvg-name="CL | CDO Premium" tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/6065f67d6a70f2fa77e66114_cdo.jpeg" group-title="DEPORTES",CL | CDO Premium
-http://live.detodotvplay.com:8080/Risario8/Pineda13/299839
-#EXTINF:-1 tvg-id="" tvg-name="CL | CDO Premium" tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/6065f67d6a70f2fa77e66114_cdo.jpeg" group-title="CHILE",CL | CDO Premium
 http://live.detodotvplay.com:8080/Risario8/Pineda13/299839
 #EXTINF:-1 tvg-id="directvgocl/chilevision" tvg-name="CL | Chilevision CHV" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Chilevision-en-vivo-Online.png" group-title="CHILE",CL | Chilevision CHV
 http://live.detodotvplay.com:8080/Risario8/Pineda13/99
-#EXTINF:-1 tvg-id="directvgocl/chilevision" tvg-name="CL | Chilevision CHV HD" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Chilevision-en-vivo-Online.png" group-title="CHILE",CL | Chilevision CHV HD
-http://live.detodotvplay.com:8080/Risario8/Pineda13/95
 #EXTINF:-1 tvg-id="directvgocl/cnnchile" tvg-name="CL | CNN CHILE" tvg-logo="https://logos.xbots.com.mx/cnnchile.png" group-title="CHILE",CL | CNN CHILE
 http://live.detodotvplay.com:8080/Risario8/Pineda13/366
 #EXTINF:-1 tvg-id="directvgocl/dsports2" tvg-name="CL | Directv Sports 2 (Chile)" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png" group-title="DEPORTES",CL | Directv Sports 2 (Chile)
 http://live.detodotvplay.com:8080/Risario8/Pineda13/169
-#EXTINF:-1 tvg-id="directvgocl/dsports2" tvg-name="CL | Directv Sports 2 (Chile)" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png" group-title="CHILE",CL | Directv Sports 2 (Chile)
-http://live.detodotvplay.com:8080/Risario8/Pineda13/169
 #EXTINF:-1 tvg-id="directvgocl/espnchile" tvg-name="CL | ESPN" tvg-logo="https://logos.xbots.com.mx/168.png" group-title="DEPORTES",CL | ESPN
-http://live.detodotvplay.com:8080/Risario8/Pineda13/40391
-#EXTINF:-1 tvg-id="directvgocl/espnchile" tvg-name="CL | ESPN" tvg-logo="https://logos.xbots.com.mx/168.png" group-title="CHILE",CL | ESPN
 http://live.detodotvplay.com:8080/Risario8/Pineda13/40391
 #EXTINF:-1 tvg-id="directvgocl/espn2chile" tvg-name="CL | ESPN 2" tvg-logo="https://logos.xbots.com.mx/espn2.png" group-title="DEPORTES",CL | ESPN 2
 http://live.detodotvplay.com:8080/Risario8/Pineda13/359
-#EXTINF:-1 tvg-id="directvgocl/espn2chile" tvg-name="CL | ESPN 2" tvg-logo="https://logos.xbots.com.mx/espn2.png" group-title="CHILE",CL | ESPN 2
-http://live.detodotvplay.com:8080/Risario8/Pineda13/359
 #EXTINF:-1 tvg-id="directvgocl/espn3andina" tvg-name="CL | ESPN 3" tvg-logo="http://logos.xbots.com.mx/Espn3.png" group-title="DEPORTES",CL | ESPN 3
-http://live.detodotvplay.com:8080/Risario8/Pineda13/63392
-#EXTINF:-1 tvg-id="directvgocl/espn3andina" tvg-name="CL | ESPN 3" tvg-logo="http://logos.xbots.com.mx/Espn3.png" group-title="CHILE",CL | ESPN 3
 http://live.detodotvplay.com:8080/Risario8/Pineda13/63392
 #EXTINF:-1 tvg-id="directvgocl/espn5chile" tvg-name="CL | ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/2560px-ESPN_5_logo.svg.png" group-title="CHILE",CL | ESPN 5
 http://live.detodotvplay.com:8080/Risario8/Pineda13/75061
@@ -1316,34 +1239,20 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/365
 http://live.detodotvplay.com:8080/Risario8/Pineda13/362
 #EXTINF:-1 tvg-id="directvgocl/mega" tvg-name="CL | Mega" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Mega-TV-Chile-en-vivo-Online.png" group-title="CHILE",CL | Mega
 http://live.detodotvplay.com:8080/Risario8/Pineda13/14775
-#EXTINF:-1 tvg-id="directvgocl/mega" tvg-name="CL | MEGA HD" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Mega-TV-Chile-en-vivo-Online.png" group-title="CHILE",CL | MEGA HD
-http://live.detodotvplay.com:8080/Risario8/Pineda13/96
 #EXTINF:-1 tvg-id="" tvg-name="CL | REC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_Rec_TV_2018.png" group-title="CHILE",CL | REC
 http://live.detodotvplay.com:8080/Risario8/Pineda13/12889
 #EXTINF:-1 tvg-id="" tvg-name="CL | SuyaiTV" tvg-logo="http://live.detodotvplay.com:8080/images/9YZotdDvd6G8sfnIUuKfcAdZwA1MPMxHTbsnQ8Z5SytBsxWVYoQZoraNcAJbcojy6u4gZmIHM5A9C_X7IQAW_g.png" group-title="CHILE",CL | SuyaiTV
 http://live.detodotvplay.com:8080/Risario8/Pineda13/160077
-#EXTINF:-1 tvg-id="directvgocl/teletrack" tvg-name="CL | Teletrack" tvg-logo="https://www.teletrak.cl/imagenes/logo.png" group-title="DEPORTES",CL | Teletrack
-http://live.detodotvplay.com:8080/Risario8/Pineda13/18582
-#EXTINF:-1 tvg-id="directvgocl/teletrack" tvg-name="CL | Teletrack" tvg-logo="https://www.teletrak.cl/imagenes/logo.png" group-title="CHILE",CL | Teletrack
-http://live.detodotvplay.com:8080/Risario8/Pineda13/18582
 #EXTINF:-1 tvg-id="directvgocl/tntsports" tvg-name="CL | TNT SPORTS 3 HD" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_01/small.logo_tntsports_3_blanco.png.5a578edfeaa4fe5113816a42f878b378.png" group-title="DEPORTES",CL | TNT SPORTS 3 HD
-http://live.detodotvplay.com:8080/Risario8/Pineda13/37632
-#EXTINF:-1 tvg-id="directvgocl/tntsports" tvg-name="CL | TNT SPORTS 3 HD" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_01/small.logo_tntsports_3_blanco.png.5a578edfeaa4fe5113816a42f878b378.png" group-title="CHILE",CL | TNT SPORTS 3 HD
 http://live.detodotvplay.com:8080/Risario8/Pineda13/37632
 #EXTINF:-1 tvg-id="directvgocl/tntsportspremium" tvg-name="CL | TNT SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TNT_Sports_Logo.svg/1200px-TNT_Sports_Logo.svg.png" group-title="DEPORTES",CL | TNT SPORTS HD
 http://live.detodotvplay.com:8080/Risario8/Pineda13/140
-#EXTINF:-1 tvg-id="directvgocl/tntsportspremium" tvg-name="CL | TNT SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TNT_Sports_Logo.svg/1200px-TNT_Sports_Logo.svg.png" group-title="CHILE",CL | TNT SPORTS HD
-http://live.detodotvplay.com:8080/Risario8/Pineda13/140
 #EXTINF:-1 tvg-id="directvgocl/tntsportspremium" tvg-name="CL | TNT SPORTS Premium" tvg-logo="https://www.entel.cl/DXPT/eds/iconos/canales/tnt-sport-premium/tnt-sports-premium-2.png" group-title="DEPORTES",CL | TNT SPORTS Premium
-http://live.detodotvplay.com:8080/Risario8/Pineda13/92
-#EXTINF:-1 tvg-id="directvgocl/tntsportspremium" tvg-name="CL | TNT SPORTS Premium" tvg-logo="https://www.entel.cl/DXPT/eds/iconos/canales/tnt-sport-premium/tnt-sports-premium-2.png" group-title="CHILE",CL | TNT SPORTS Premium
 http://live.detodotvplay.com:8080/Risario8/Pineda13/92
 #EXTINF:-1 tvg-id="directvgocl/tv" tvg-name="CL | TV+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="CHILE",CL | TV+
 http://live.detodotvplay.com:8080/Risario8/Pineda13/229
 #EXTINF:-1 tvg-id="directvgocl/televisionnacionaldechiletvn" tvg-name="CL | TVN HD" tvg-logo="https://logos.xbots.com.mx/Tvn.png" group-title="CHILE",CL | TVN HD
 http://live.detodotvplay.com:8080/Risario8/Pineda13/124
-#EXTINF:-1 tvg-id="directvgocl/televisionnacionaldechiletvn" tvg-name="CL | TVN SD" tvg-logo="https://logos.xbots.com.mx/Tvn.png" group-title="CHILE",CL | TVN SD
-http://live.detodotvplay.com:8080/Risario8/Pineda13/2738
 #EXTINF:-1 tvg-id="" tvg-name="CL | ZonaLatina" tvg-logo="http://live.detodotvplay.com:8080/images/tQC8ISuzhfuVhDKm0E_qI3WSI6nKTr8l27fPkRxdvfIODhCY22X0FuVU4PG0R3Gov8Z8RHH7EXylASqNtoqhHA.png" group-title="CHILE",CL | ZonaLatina
 http://live.detodotvplay.com:8080/Risario8/Pineda13/114701
 #EXTINF:-1 tvg-id="#0.sp" tvg-name="CO | CABLE NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png" group-title="COLOMBIA",CO | CABLE NOTICIAS
@@ -1352,8 +1261,6 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/36286
 http://live.detodotvplay.com:8080/Risario8/Pineda13/32056
 #EXTINF:-1 tvg-id="" tvg-name="CO | CARACOL" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b0/Caracoltv2017bluefondit.png" group-title="COLOMBIA",CO | CARACOL
 http://live.detodotvplay.com:8080/Risario8/Pineda13/291
-#EXTINF:-1 tvg-id="" tvg-name="CO | CARACOL HD" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/Canal-Caracol-TV-en-vivo-Online.png" group-title="COLOMBIA",CO | CARACOL HD
-http://live.detodotvplay.com:8080/Risario8/Pineda13/78706
 #EXTINF:-1 tvg-id="" tvg-name="CO | Caracol Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/1200px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="COLOMBIA",CO | Caracol Internacional
 http://live.detodotvplay.com:8080/Risario8/Pineda13/63996
 #EXTINF:-1 tvg-id="" tvg-name="CO | City Tv" tvg-logo="https://i.pinimg.com/originals/67/df/b4/67dfb4180a5f0910a6ebc63354e50e06.png" group-title="COLOMBIA",CO | City Tv
@@ -1380,12 +1287,8 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/31162
 http://live.detodotvplay.com:8080/Risario8/Pineda13/36343
 #EXTINF:-1 tvg-id="" tvg-name="CO | Win Sports + HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1200px-Win_Sports%2B_logo.svg.png" group-title="COLOMBIA",CO | Win Sports + HD
 http://live.detodotvplay.com:8080/Risario8/Pineda13/84038
-#EXTINF:-1 tvg-id="" tvg-name="CO | Win Sports + SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1200px-Win_Sports%2B_logo.svg.png" group-title="DEPORTES",CO | Win Sports + SD
-http://live.detodotvplay.com:8080/Risario8/Pineda13/5741
 #EXTINF:-1 tvg-id="" tvg-name="CO | Win Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="COLOMBIA",CO | Win Sports HD
 http://live.detodotvplay.com:8080/Risario8/Pineda13/84037
-#EXTINF:-1 tvg-id="" tvg-name="CO | Win Sports SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES",CO | Win Sports SD
-http://live.detodotvplay.com:8080/Risario8/Pineda13/20897
 #EXTINF:-1 tvg-id="" tvg-name="CR | CANAL 11 REPRETEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Repretel_11_logo.png" group-title="COSTA RICA",CR | CANAL 11 REPRETEL
 http://live.detodotvplay.com:8080/Risario8/Pineda13/12886
 #EXTINF:-1 tvg-id="" tvg-name="CR | CANAL 14 TV SUR" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/TV-Sur-Canal-14-en-vivo-Online.png" group-title="COSTA RICA",CR | CANAL 14 TV SUR
