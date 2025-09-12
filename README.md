@@ -134,6 +134,10 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/298807
 http://live.detodotvplay.com:8080/Risario8/Pineda13/298808
 #EXTINF:-1 tvg-id="" tvg-name="Un Show Mas" tvg-logo="https://image.tmdb.org/t/p/w500/2vbE9ajftJ7dkqUAyxDS0WFILx8.jpg" group-title="24-7",Un Show Mas
 http://live.detodotvplay.com:8080/Risario8/Pineda13/298809
+#EXTINF:-1 tvg-id="" tvg-name="Padre De Familia" tvg-logo="https://image.tmdb.org/t/p/w500/5FObDgPY6f5vrLbhBTCMbeJiRKL.jpg" group-title="24-7",Padre De Familia
+http://live.detodotvplay.com:8080/Risario8/Pineda13/298802
+#EXTINF:-1 tvg-id="" tvg-name="Pato aventura" tvg-logo="https://image.tmdb.org/t/p/w500/5vvzoGb4sclnBV3EL0eGREZQsX6.jpg" group-title="24-7",Pato aventura
+http://live.detodotvplay.com:8080/Risario8/Pineda13/298803
 
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="MUNDO Y CULTURA",ANIMAL PLANET
 http://live.detodotvplay.com:8080/Risario8/Pineda13/3
@@ -1317,18 +1321,12 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/15039
 http://live.detodotvplay.com:8080/Risario8/Pineda13/28294
 #EXTINF:-1 tvg-id="" tvg-name="CU | Cubavision Internacional" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Cubavisi%C3%B3n-Internacional-en-vivo-Online.png" group-title="CUBA",CU | Cubavision Internacional
 http://live.detodotvplay.com:8080/Risario8/Pineda13/64002
-#EXTINF:-1 tvg-id="" tvg-name="Cu | Multivision" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBvMgZnDxuWk55AGFyoMkhPXfDmhQkhVPPjA&s" group-title="CUBA",Cu | Multivision
-http://live.detodotvplay.com:8080/Risario8/Pineda13/368525
-#EXTINF:-1 tvg-id="" tvg-name="CU | Tele Rebelde" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBvMgZnDxuWk55AGFyoMkhPXfDmhQkhVPPjA&s" group-title="CUBA",CU | Tele Rebelde
-http://live.detodotvplay.com:8080/Risario8/Pineda13/368526
 #EXTINF:-1 tvg-id="" tvg-name="CUATRO" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="ESPANA",CUATRO
 http://live.detodotvplay.com:8080/Risario8/Pineda13/164
 #EXTINF:-1 tvg-id="" tvg-name="CUB | CUBAMAX" tvg-logo="https://mms.businesswire.com/media/20160616005982/en/530683/5/2597547_CubaMax_TV_LOGO.jpg" group-title="CUBA",CUB | CUBAMAX
 http://live.detodotvplay.com:8080/Risario8/Pineda13/368531
 #EXTINF:-1 tvg-id="" tvg-name="CUB | Cubavisión" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Cubavisi%C3%B3nPlus2018.png/revision/latest?cb=20210602012454&path-prefix=es" group-title="CUBA",CUB | Cubavisión
 http://live.detodotvplay.com:8080/Risario8/Pineda13/368527
-#EXTINF:-1 tvg-id="" tvg-name="CUB | PRENSA LATINA ᴴᴰ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBvMgZnDxuWk55AGFyoMkhPXfDmhQkhVPPjA&s" group-title="CUBA",CUB | PRENSA LATINA ᴴᴰ
-http://live.detodotvplay.com:8080/Risario8/Pineda13/368532
 #EXTINF:-1 tvg-id="" tvg-name="CU | Tele Marti" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBvMgZnDxuWk55AGFyoMkhPXfDmhQkhVPPjA&s" group-title="CUBA",CU | Tele Marti
 http://live.detodotvplay.com:8080/Risario8/Pineda13/368529
 #EXTINF:-1 tvg-id="" tvg-name="DO | Carivision" tvg-logo="https://logos.xbots.com.mx/41016.png" group-title="REPUBLICA DOMINICANA",DO | Carivision
@@ -1341,16 +1339,12 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/104610
 http://live.detodotvplay.com:8080/Risario8/Pineda13/30052
 #EXTINF:-1 tvg-id="" tvg-name="DO | Digital 15" tvg-logo="https://telemicrohd.com/wp-content/uploads/2021/07/pagina-telemicroMesa-de-trabajo-1-copia-7.png" group-title="REPUBLICA DOMINICANA",DO | Digital 15
 http://live.detodotvplay.com:8080/Risario8/Pineda13/65863
-#EXTINF:-1 tvg-id="" tvg-name="DO | LA VOZ DE MARIA" tvg-logo="http://live.detodotvplay.com:8080/images/1ada7098ac5334d296cd99fa9ab41df5.png" group-title="REPUBLICA DOMINICANA",DO | LA VOZ DE MARIA
-http://live.detodotvplay.com:8080/Risario8/Pineda13/104615
 #EXTINF:-1 tvg-id="" tvg-name="DO | Luna TV" tvg-logo="https://lunatv.do/stream/imagen/logo-stream.png" group-title="REPUBLICA DOMINICANA",DO | Luna TV
 http://live.detodotvplay.com:8080/Risario8/Pineda13/641
 #EXTINF:-1 tvg-id="" tvg-name="DO | ROMANA TV" tvg-logo="http://live.detodotvplay.com:8080/images/bb3acfae7418de03f8004149b71fd9e9.jpg" group-title="REPUBLICA DOMINICANA",DO | ROMANA TV
 http://live.detodotvplay.com:8080/Risario8/Pineda13/104616
 #EXTINF:-1 tvg-id="" tvg-name="DO | TELE ANTILLAS" tvg-logo="http://live.detodotvplay.com:8080/images/4df61e5390f55aba813eab49cba4f60a.png" group-title="REPUBLICA DOMINICANA",DO | TELE ANTILLAS
 http://live.detodotvplay.com:8080/Risario8/Pineda13/104619
-#EXTINF:-1 tvg-id="" tvg-name="DO | TELE FUTURO" tvg-logo="http://live.detodotvplay.com:8080/images/c09298b57924b050e0fd023d138b3aa9.jpg" group-title="REPUBLICA DOMINICANA",DO | TELE FUTURO
-http://live.detodotvplay.com:8080/Risario8/Pineda13/104620
 #EXTINF:-1 tvg-id="" tvg-name="DO | TELECENTRO" tvg-logo="http://live.detodotvplay.com:8080/images/bbb054bd6bfe35843257ff2ceb5a9711.jpg" group-title="REPUBLICA DOMINICANA",DO | TELECENTRO
 http://live.detodotvplay.com:8080/Risario8/Pineda13/104621
 #EXTINF:-1 tvg-id="" tvg-name="DO | Telefuturo 23" tvg-logo="https://yt3.ggpht.com/a/AATXAJwO46DIVaE7FiPiZFe9BFChHtCL8tuaN9Om2V8eUg=s900-c-k-c0x00ffffff-no-rj" group-title="REPUBLICA DOMINICANA",DO | Telefuturo 23
@@ -1367,12 +1361,8 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/63699
 http://live.detodotvplay.com:8080/Risario8/Pineda13/143003
 #EXTINF:-1 tvg-id="" tvg-name="EC | El Canal del Futbol HD" tvg-logo="http://live.detodotvplay.com:8080/images/IoDjo1EAdUv28CeHvVjQhiQo8Qs-iFmMzWOKdcGDvEQ_c2o5mmHq5rs9DhYRp6RPy7afVucrBZ4iiPnMkFHi0w.png" group-title="ECUADOR",EC | El Canal del Futbol HD
 http://live.detodotvplay.com:8080/Risario8/Pineda13/45973
-#EXTINF:-1 tvg-id="" tvg-name="EC | El Canal del Futbol SD" tvg-logo="http://live.detodotvplay.com:8080/images/IoDjo1EAdUv28CeHvVjQhiQo8Qs-iFmMzWOKdcGDvEQ_c2o5mmHq5rs9DhYRp6RPy7afVucrBZ4iiPnMkFHi0w.png" group-title="ECUADOR",EC | El Canal del Futbol SD
-http://live.detodotvplay.com:8080/Risario8/Pineda13/156685
 #EXTINF:-1 tvg-id="" tvg-name="ECU | ECUAVISA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/1200px-Logo_Ecuavisa.svg.png" group-title="ECUADOR",ECU | ECUAVISA
 http://live.detodotvplay.com:8080/Risario8/Pineda13/10443
-#EXTINF:-1 tvg-id="" tvg-name="ECU | GAMAVISION" tvg-logo="http://live.detodotvplay.com:8080/images/d0qBv_KS-INV6jsoN1Bns3xtbQhVQIDY9BJ2vOAB8ZN4N7CxJreiziti0XjpDcvyhWoDWfPApACgxHgmP2xGFDPlIBSnwWFHsKCH2sHYSAE.png" group-title="ECUADOR",ECU | GAMAVISION
-http://live.detodotvplay.com:8080/Risario8/Pineda13/10445
 #EXTINF:-1 tvg-id="OromarTV.ec" tvg-name="ECU | Oromar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="ECUADOR",ECU | Oromar
 http://live.detodotvplay.com:8080/Risario8/Pineda13/30815
 #EXTINF:-1 tvg-id="" tvg-name="ECU | RTS" tvg-logo="http://live.detodotvplay.com:8080/images/d0qBv_KS-INV6jsoN1Bns3xtbQhVQIDY9BJ2vOAB8ZMPGJphTwDrznLrMQVjfR2AmRgtVAhnEoQXM2EZ8ElHGOpHyR2Tg0RtRJPXCT4ByU0.png" group-title="ECUADOR",ECU | RTS
@@ -1391,8 +1381,6 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/10446
 http://live.detodotvplay.com:8080/Risario8/Pineda13/610
 #EXTINF:-1 tvg-id="" tvg-name="US | Estrella TV" tvg-logo="https://ww1.prweb.com/prfiles/2016/09/07/13672334/ETV_HD_Blacktext.png" group-title="Latinos USA",US | Estrella TV
 http://live.detodotvplay.com:8080/Risario8/Pineda13/116
-#EXTINF:-1 tvg-id="" tvg-name="US | Estrella TV" tvg-logo="https://ww1.prweb.com/prfiles/2016/09/07/13672334/ETV_HD_Blacktext.png" group-title="USA",US | Estrella TV
-http://live.detodotvplay.com:8080/Risario8/Pineda13/116
 #EXTINF:-1 tvg-id="" tvg-name="ESV | CANAL 12" tvg-logo="http://live.detodotvplay.com:8080/images/d0qBv_KS-INV6jsoN1Bns3xtbQhVQIDY9BJ2vOAB8ZO9v6NBm1n5bC9GMfrBLxJhpc7bcYINDY2iV-Bk-i6RBuTSGd0LcfgbjiLAkcwK2N-u1NIz53cp_dTbVXdQiPv5.png" group-title="EL SALVADOR",ESV | CANAL 12
 http://live.detodotvplay.com:8080/Risario8/Pineda13/35421
 #EXTINF:-1 tvg-id="" tvg-name="ESV | CANAL 19" tvg-logo="http://live.detodotvplay.com:8080/images/1274e81cf970ee6fc54ce8c52848cf83.png" group-title="EL SALVADOR",ESV | CANAL 19
@@ -1409,8 +1397,6 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/35427
 http://live.detodotvplay.com:8080/Risario8/Pineda13/44083
 #EXTINF:-1 tvg-id="" tvg-name="ESV | TVX" tvg-logo="https://cdn.mitvstatic.com/channels/sv_canal-23-tvx_m.png" group-title="EL SALVADOR",ESV | TVX
 http://live.detodotvplay.com:8080/Risario8/Pineda13/44081
-#EXTINF:-1 tvg-id="" tvg-name="FR | France 24" tvg-logo="https://www.france24.com/android-chrome-192x192.png" group-title="FRANCIA",FR | France 24
-http://live.detodotvplay.com:8080/Risario8/Pineda13/367866
 #EXTINF:-1 tvg-id="" tvg-name="FR | FRANCE 24" tvg-logo="https://logos.xbots.com.mx/41077.png" group-title="NOTICIAS",FR | FRANCE 24
 http://live.detodotvplay.com:8080/Risario8/Pineda13/18120
 #EXTINF:-1 tvg-id="" tvg-name="LAT | Garage TV" tvg-logo="https://logos.xbots.com.mx/75.png" group-title="DEPORTES",LAT | Garage TV
@@ -1437,16 +1423,12 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/134328
 http://live.detodotvplay.com:8080/Risario8/Pineda13/88990
 #EXTINF:-1 tvg-id="" tvg-name="HN | D TELEVISION" tvg-logo="" group-title="HONDURAS",HN | D TELEVISION
 http://live.detodotvplay.com:8080/Risario8/Pineda13/134326
-#EXTINF:-1 tvg-id="" tvg-name="HN | Dios Te Ve" tvg-logo="http://live.detodotvplay.com:8080/images/nSEZlmHcH-IyFEkfov_Nf2qDD-pP2jHKV63Feiq7xncoxj1ls4838p5WVzh8woSS8CrpQmxPKUlNNVpR1nPEn0B7a3hAp4ml9TVCRVusfmh_6CL8Ex3EVxaaLjJ0Grbo6rcK9XLs5aRvYpJDilR7e0nc-GRVTdrBnNT9Wig6Bpo.png" group-title="HONDURAS",HN | Dios Te Ve
-http://live.detodotvplay.com:8080/Risario8/Pineda13/159808
 #EXTINF:-1 tvg-id="" tvg-name="HN | HCH" tvg-logo="https://hch.tv/wp-content/uploads/2017/12/HCH-300x171.png" group-title="HONDURAS",HN | HCH
 http://live.detodotvplay.com:8080/Risario8/Pineda13/9812
 #EXTINF:-1 tvg-id="" tvg-name="HN | LTV" tvg-logo="" group-title="HONDURAS",HN | LTV
 http://live.detodotvplay.com:8080/Risario8/Pineda13/135952
 #EXTINF:-1 tvg-id="" tvg-name="HN | Metro TV" tvg-logo="" group-title="HONDURAS",HN | Metro TV
 http://live.detodotvplay.com:8080/Risario8/Pineda13/135951
-#EXTINF:-1 tvg-id="" tvg-name="HN | Sitv Q'Hubo" tvg-logo="https://qhubotv.com/content/images/2022/08/Logo-Q-HUBO-1.png" group-title="HONDURAS",HN | Sitv Q'Hubo
-http://live.detodotvplay.com:8080/Risario8/Pineda13/103908
 #EXTINF:-1 tvg-id="" tvg-name="HN | SITV Q'HUBO" tvg-logo="" group-title="HONDURAS",HN | SITV Q'HUBO
 http://live.detodotvplay.com:8080/Risario8/Pineda13/134327
 #EXTINF:-1 tvg-id="" tvg-name="HN | TELECEIBA" tvg-logo="http://live.detodotvplay.com:8080/images/06f1a8d682e11a0e5b78f34eae380668.png" group-title="HONDURAS",HN | TELECEIBA
@@ -1487,10 +1469,6 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/35024
 http://live.detodotvplay.com:8080/Risario8/Pineda13/52857
 #EXTINF:-1 tvg-id="" tvg-name="MX | MULTIMEDIOS MONTERREY" tvg-logo="https://logos.xbots.com.mx/41066.png" group-title="MEXICO",MX | MULTIMEDIOS MONTERREY
 http://live.detodotvplay.com:8080/Risario8/Pineda13/15892
-#EXTINF:-1 tvg-id="" tvg-name="NBC Florida Pensacola" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/NBC.png" group-title="USA",NBC Florida Pensacola
-http://live.detodotvplay.com:8080/Risario8/Pineda13/30505
-#EXTINF:-1 tvg-id="" tvg-name="US | NBC Rhode Island" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/NBC.png" group-title="USA",US | NBC Rhode Island
-http://live.detodotvplay.com:8080/Risario8/Pineda13/30736
 #EXTINF:-1 tvg-id="" tvg-name="NI | CANAL 10" tvg-logo="https://www.clipartmax.com/png/middle/201-2012955_canal-10-nicaragua-logo-canal-10-nicaragua.png" group-title="NICARAGUA",NI | CANAL 10
 http://live.detodotvplay.com:8080/Risario8/Pineda13/35471
 #EXTINF:-1 tvg-id="" tvg-name="NI | CANAL 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_Canal_13_Imevision_1974-1985.svg/1200px-Logo_Canal_13_Imevision_1974-1985.svg.png" group-title="NICARAGUA",NI | CANAL 13
@@ -1525,10 +1503,6 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/97858
 http://live.detodotvplay.com:8080/Risario8/Pineda13/49149
 #EXTINF:-1 tvg-id="Canal 2 de Panamu00e1 (TVN-2)" tvg-name="PA | TVN" tvg-logo="https://seeklogo.com/images/T/tvn-logo-DD35B15F67-seeklogo.com.png" group-title="PANAMA",PA | TVN
 http://live.detodotvplay.com:8080/Risario8/Pineda13/15291
-#EXTINF:-1 tvg-id="" tvg-name="Padre De Familia" tvg-logo="https://image.tmdb.org/t/p/w500/5FObDgPY6f5vrLbhBTCMbeJiRKL.jpg" group-title="24-7",Padre De Familia
-http://live.detodotvplay.com:8080/Risario8/Pineda13/298802
-#EXTINF:-1 tvg-id="" tvg-name="Pato aventura" tvg-logo="https://image.tmdb.org/t/p/w500/5vvzoGb4sclnBV3EL0eGREZQsX6.jpg" group-title="24-7",Pato aventura
-http://live.detodotvplay.com:8080/Risario8/Pineda13/298803
 #EXTINF:-1 tvg-id="" tvg-name="PE | Alacocina tv" tvg-logo="https://alacocinatv.com/wp-content/uploads/2021/05/ALACOCINA_LOGO_CAPAS.png" group-title="PERU",PE | Alacocina tv
 http://live.detodotvplay.com:8080/Risario8/Pineda13/64841
 #EXTINF:-1 tvg-id="" tvg-name="PE | America TV" tvg-logo="https://reqlut2.s3.amazonaws.com/uploads/logosSocial/838a1409ebd2428fdf765e518bc5fc29b5021940-5242880.png" group-title="PERU",PE | America TV
